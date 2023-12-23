@@ -9,7 +9,20 @@ import requests
 import datetime
 
 # Create your views here.
-def kbp_scores(response):
+def kbp_scores(request):
+    html_table = pd.read_csv('kbp/data/kbp.csv').to_html(
+        index=False,
+        justify='center',
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+
+    context = {'html_table': html_table}
+
+    # Render the template with the context
+    return render(request, 'core/render_scores.html', context)
+    # )
     return HttpResponse(pd.read_csv('kbp/data/kbp.csv').to_html(
         index=False,
         justify='center',
@@ -25,6 +38,20 @@ def test(request):
     margins = compute_margins(scores)
     picks = load_picks()
     kbp_scores = compute_kbp_scores(picks, margins)
+    # kbp_scores = kbp_scores[['Rank','Name','Score']]
+
+    html_table = kbp_scores.to_html(
+        index=False,
+        justify='center',
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+
+    context = {'html_table': html_table}
+
+    # Render the template with the context
+    return render(request, 'core/render_scores.html', context)
 
     # return HttpResponse(margins.to_html(index=False))
     return HttpResponse(kbp_scores.to_html(
