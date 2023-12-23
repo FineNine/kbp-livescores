@@ -12,7 +12,7 @@ def test(request):
     scores = load_scores()
 
     scores = update_scores(scores)
-    
+    scores.to_csv('kbp/data/scores.csv', index=False)
 
     return HttpResponse(scores.to_html(index=False))
 
@@ -42,30 +42,36 @@ def index(request):
     return HttpResponse(kbp_scores.to_html(index=False))
 
 def update_scores(scores):
-    # game_ids = list(scores['ESPN Game ID'].unique())
-    game_ids = ['401551470','401551733','401551746']
+    game_ids = list(scores['ESPN Game ID'].unique())
+    # game_ids = ['401551470','401551733','401551746']
 
     # game_data = request_live_score(game_ids[0])
     data = []
     for id in game_ids:
-        # game_data = fake_request(id)
-        game_data = request_live_score(id)
+        game_data = fake_request(id)
+        # game_data = request_live_score(id)
         print(game_data)
         print(dict(game_data))
         data += format_game_data(id, game_data)
         print(data)
-    data = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','IsFinal'])
+    data = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','isFinal','date'])
 
 
 
     data['index'] = data['ESPN Game ID'].astype(str) + data['ESPN Team Name']
     scores['index'] = scores['ESPN Game ID'].astype(str) + scores['ESPN Team Name']
 
-    data.set_index('index', inplace=True)
-    scores.set_index('index', inplace=True)
+    # data.set_index('index', inplace=True)
+    # scores.set_index('index', inplace=True)
+    # print(data.index.duplicated(keep=False))
+    # print(data.index)
+    # print(scores.index.duplicated(keep=False))
 
-    scores.update(data)
-    print(scores[['Bowl','Team','Points']])
+    # scores.update(data)
+    data = data[[col for col in data.columns if col not in scores.columns] + ["index"]]
+    scores = scores.merge(data, on='index')
+    scores.set_index('index', inplace=True)
+    # print(scores[['Bowl','Team','Points']])
 
     # print(game_data)
 
@@ -74,8 +80,10 @@ def update_scores(scores):
 
 def format_game_data(id, response):
     team_data = response['header']['competitions'][0]['competitors']
+    date = response['header']['competitions'][0]['date']
     state = response['header']['competitions'][0]['status']['type']['state']
     is_final = response['header']['competitions'][0]['status']['type']['completed']
+
     if state == 'pre':
         team0_points = 0
         team1_points = 0
@@ -83,23 +91,33 @@ def format_game_data(id, response):
         team0_points = int(convert_to_utf(team_data[0]['score']))
         team1_points = int(convert_to_utf(team_data[1]['score']))
 
+    team0 = convert_to_utf(team_data[0]['team']['displayName'])
+    if team0 == "TBD":
+        team0 = "TBD1"
+        team1 = "TBD2"
+    else:
+        team1 = convert_to_utf(team_data[1]['team']['displayName'])
+    
+
     print(state, is_final)
     return [
         (
             id,
-            convert_to_utf(team_data[0]['team']['displayName']),
+            team0,
             int(convert_to_utf(team_data[0]['id'])),
             team0_points,
             state,
-            is_final
+            is_final,
+            date
         ),
         (
             id,
-            convert_to_utf(team_data[1]['team']['displayName']),
+            team1,
             int(convert_to_utf(team_data[1]['id'])),
             team1_points,
             state,
-            is_final
+            is_final,
+            date
         ),
     ]
 
@@ -163,7 +181,9 @@ def fake_request(id):
     return read_json(f"kbp/data/{id}.json")
 
 def request_live_score(id):
-    return requests.get(f"http://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event={id}").json()
+    data = requests.get(f"http://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event={id}").json()
+    write_json_to_file(data, id)
+    return data
 
 def load_scores():
     return pd.read_csv('kbp/data/scores.csv', index_col=0)
@@ -182,6 +202,17 @@ def read_json(filepath):
         data = json.load(file)
     return data
 
+def write_json_to_file(data, id, directory="kbp/data"):
+    """
+    Writes the given data to a JSON file in the specified directory.
+    :param data: The data to write to the file.
+    :param filename: The name of the file.
+    :param directory: The directory where the file will be saved.
+    """
+    os.makedirs(directory, exist_ok=True)
+    filepath = os.path.join(directory, f"{id}.json")
+    with open(filepath, 'w') as file:
+        json.dump(data, file, indent=4)
 
 def scoring_alg(value):
     if np.isnan(value):
