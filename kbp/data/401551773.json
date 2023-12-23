@@ -243,6 +243,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "221",
                         "uid": "s:20~l:23~t:221",
@@ -287,9 +289,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png"
                 },
                 {
                     "id": "401525550",
@@ -312,6 +312,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2390",
                         "uid": "s:20~l:23~t:2390",
@@ -356,9 +358,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
                 },
                 {
                     "id": "401525556",
@@ -519,6 +519,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "97",
                         "uid": "s:20~l:23~t:97",
@@ -563,9 +565,7 @@
                             "current": 14
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
                 }
             ]
         },
@@ -634,6 +634,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "142",
                         "uid": "s:20~l:23~t:142",
@@ -678,9 +680,7 @@
                             "current": 12
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
                 },
                 {
                     "id": "401520382",
@@ -4584,8 +4584,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4955,7 +4955,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/30 vs Georgia Bulldogs 5256 tickets left",
+                "ticketName": "12/30 vs Georgia Bulldogs 5162 tickets left",
                 "ticketLink": "https://www.vividseats.com/orange-bowl-tickets-hard-rock-stadium-12-30-2023--sports-ncaa-football/production/4308961?wsUser=717",
                 "type": "event"
             }

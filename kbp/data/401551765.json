@@ -322,8 +322,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "197",
                         "uid": "s:20~l:23~t:197",
@@ -368,7 +366,9 @@
                             "current": 22
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525890",
@@ -4594,8 +4594,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4965,7 +4965,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/28 vs Arizona Wildcats 4007 tickets left",
+                "ticketName": "12/28 vs Arizona Wildcats 3955 tickets left",
                 "ticketLink": "https://www.vividseats.com/alamo-bowl-tickets-alamodome-12-28-2023--sports-ncaa-football/production/4383950?wsUser=717",
                 "type": "event"
             }

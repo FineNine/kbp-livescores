@@ -322,6 +322,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "213",
                         "uid": "s:20~l:23~t:213",
@@ -366,9 +368,7 @@
                             "current": 10
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
                 },
                 {
                     "id": "401520410",
@@ -391,8 +391,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "120",
                         "uid": "s:20~l:23~t:120",
@@ -437,7 +435,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401520434",
@@ -851,6 +851,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2",
                         "uid": "s:20~l:23~t:2",
@@ -895,9 +897,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
                 },
                 {
                     "id": "401539483",
@@ -920,6 +920,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "61",
                         "uid": "s:20~l:23~t:61",
@@ -964,9 +966,7 @@
                             "current": 1
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
                 }
             ]
         }
@@ -4574,8 +4574,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4945,7 +4945,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "1/1 vs Alabama Crimson Tide 2841 tickets left",
+                "ticketName": "1/1 vs Alabama Crimson Tide 2859 tickets left",
                 "ticketLink": "https://www.vividseats.com/rose-bowl-tickets-rose-bowl-stadium-1-1-2024--sports-ncaa-football/production/4322566?wsUser=717",
                 "type": "event"
             }

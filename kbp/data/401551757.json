@@ -300,8 +300,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2751",
                         "uid": "s:20~l:23~t:2751",
@@ -346,7 +344,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401532624",
@@ -438,8 +438,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "23",
                         "uid": "s:20~l:23~t:23",
@@ -484,7 +482,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401539482",
@@ -622,8 +622,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "201",
                         "uid": "s:20~l:23~t:201",
@@ -668,7 +666,9 @@
                             "current": 6
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525882",
@@ -691,8 +691,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "66",
                         "uid": "s:20~l:23~t:66",
@@ -737,7 +735,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525888",
@@ -760,8 +760,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2641",
                         "uid": "s:20~l:23~t:2641",
@@ -806,7 +804,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525896",
@@ -829,8 +829,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2306",
                         "uid": "s:20~l:23~t:2306",
@@ -875,7 +873,9 @@
                             "current": 21
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525903",
@@ -898,8 +898,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2132",
                         "uid": "s:20~l:23~t:2132",
@@ -944,7 +942,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 }
             ]
         }
@@ -4572,8 +4572,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4943,7 +4943,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/26 vs Kansas Jayhawks 3492 tickets left",
+                "ticketName": "12/26 vs Kansas Jayhawks 3497 tickets left",
                 "ticketLink": "https://www.vividseats.com/guaranteed-rate-bowl-tickets-chase-field-12-26-2023--sports-ncaa-football/production/4444538?wsUser=717",
                 "type": "event"
             }

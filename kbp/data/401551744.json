@@ -242,6 +242,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "120",
                         "uid": "s:20~l:23~t:120",
@@ -286,9 +288,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
                 },
                 {
                     "id": "401520373",
@@ -380,6 +380,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "275",
                         "uid": "s:20~l:23~t:275",
@@ -424,9 +426,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
                 },
                 {
                     "id": "401520414",
@@ -449,6 +449,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2509",
                         "uid": "s:20~l:23~t:2509",
@@ -493,9 +495,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png"
                 },
                 {
                     "id": "401520431",
@@ -518,6 +518,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "356",
                         "uid": "s:20~l:23~t:356",
@@ -562,9 +564,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
                 }
             ]
         },
@@ -633,6 +633,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2483",
                         "uid": "s:20~l:23~t:2483",
@@ -677,9 +679,7 @@
                             "current": 8
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
                 },
                 {
                     "id": "401524049",
@@ -771,6 +771,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "264",
                         "uid": "s:20~l:23~t:264",
@@ -815,9 +817,7 @@
                             "current": 5
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
                 },
                 {
                     "id": "401524058",
@@ -909,6 +909,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "38",
                         "uid": "s:20~l:23~t:38",
@@ -953,9 +955,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
                 }
             ]
         }
@@ -4562,8 +4562,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4933,7 +4933,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/23 vs Utah Utes 723 tickets left",
+                "ticketName": "12/23 vs Utah Utes 849 tickets left",
                 "ticketLink": "https://www.vividseats.com/las-vegas-bowl-tickets-allegiant-stadium-12-23-2023--sports-ncaa-football/production/4455284?wsUser=717",
                 "type": "event"
             }
@@ -4952,6 +4952,167 @@
             "genericLink": "https://www.vividseats.com?wsUser=717",
             "teamLink": "https://www.vividseats.com/northwestern-wildcats-football-tickets--sports-ncaa-football/performer/617?wsUser=717"
         }
+    },
+    "article": {
+        "dataSourceIdentifier": "601a1c83b45ca",
+        "keywords": [],
+        "description": "\u2014 Utah coach Kyle Whittingham said he has never experienced a season with so many injuries like this one.",
+        "source": "AP",
+        "video": [],
+        "type": "Preview",
+        "nowId": "1-39167987",
+        "premium": false,
+        "related": [],
+        "allowSearch": true,
+        "links": {
+            "api": {
+                "news": {
+                    "href": "http://now.core.api.espn.com/v1/sports/news/39167987"
+                },
+                "events": {
+                    "href": "http://now.core.api.espn.com/v1/sports/football/college-football/events/401551744"
+                }
+            },
+            "web": {
+                "href": "http://www.espn.com/ncf/preview?gameId=401551744"
+            },
+            "app": {
+                "sportscenter": {
+                    "href": "sportscenter://x-callback-url/showStory?uid=39167987"
+                }
+            },
+            "mobile": {
+                "href": "http://scores.espn.com/ncf/gamecast?gameId=401551744&version=mobile"
+            }
+        },
+        "id": 39167987,
+        "categories": [
+            {
+                "id": 9571,
+                "description": "College Football",
+                "type": "league",
+                "sportId": 23,
+                "leagueId": 23,
+                "league": {
+                    "id": 23,
+                    "description": "College Football",
+                    "links": {
+                        "api": {
+                            "leagues": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
+                            }
+                        },
+                        "web": {
+                            "leagues": {
+                                "href": "https://www.espn.com/college-football/"
+                            }
+                        },
+                        "mobile": {
+                            "leagues": {
+                                "href": "http://m.espn.com/ncf/"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23"
+            },
+            {
+                "id": 1079,
+                "description": "Northwestern Wildcats",
+                "type": "team",
+                "sportId": 23,
+                "teamId": 77,
+                "team": {
+                    "id": 77,
+                    "description": "Northwestern Wildcats",
+                    "links": {
+                        "api": {
+                            "teams": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/77"
+                            }
+                        },
+                        "web": {
+                            "teams": {
+                                "href": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats"
+                            }
+                        },
+                        "mobile": {
+                            "teams": {
+                                "href": "http://m.espn.com/ncf/clubhouse?teamId=77"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23~t:77"
+            },
+            {
+                "id": 1158,
+                "description": "Utah Utes",
+                "type": "team",
+                "sportId": 23,
+                "teamId": 254,
+                "team": {
+                    "id": 254,
+                    "description": "Utah Utes",
+                    "links": {
+                        "api": {
+                            "teams": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/254"
+                            }
+                        },
+                        "web": {
+                            "teams": {
+                                "href": "https://www.espn.com/college-football/team/_/id/254/utah-utes"
+                            }
+                        },
+                        "mobile": {
+                            "teams": {
+                                "href": "http://m.espn.com/ncf/clubhouse?teamId=254"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23~t:254"
+            }
+        ],
+        "headline": "Northwestern and Utah overcome adversity to make the Las Vegas Bowl",
+        "gameId": "401551744",
+        "images": [],
+        "linkText": "Northwestern and Utah overcome adversity to make the Las Vegas Bowl",
+        "published": "2023-12-22T16:00:56Z",
+        "lastModified": "2023-12-22T16:00:58Z",
+        "metrics": [
+            {
+                "count": 0,
+                "type": "views"
+            },
+            {
+                "count": 0,
+                "type": "fShares"
+            },
+            {
+                "count": 0,
+                "type": "tweets"
+            },
+            {
+                "count": 0,
+                "type": "comments"
+            },
+            {
+                "count": 0,
+                "type": "emails"
+            },
+            {
+                "count": 0,
+                "type": "votes"
+            },
+            {
+                "count": 0,
+                "type": "popularity"
+            }
+        ],
+        "inlines": [],
+        "story": "LAS VEGAS -- \u2014 Utah coach Kyle Whittingham said he has never experienced a season with so many injuries like this one.\n\n\r\n              Northwestern coach David Braun was hired in January as the defensive coordinator, unaware he would be called upon to take over a program engulfed in a hazing controversy.\n\n\r\n              Both coaches navigated their circumstances to meet Saturday in the Las Vegas Bowl.\n\n\r\n              Utah (8-4) had major injuries at every offensive unit and was forced to go to their fifth-string quarterback at one point. The defense wasn't immune, with end <a href=\"http://www.espn.com/college-football/player/_/id/4687592/jonah-elliss\" target=\"_new\">Jonah Elliss</a> and linebacker <a href=\"http://www.espn.com/college-football/player/_/id/4685272/lander-barton\" target=\"_new\">Lander Barton</a> suffering season-ending injuries.\n\n\r\n              \u201cIt's been challenging, but our guys answered the bell,\u201d Whittingham said. \u201cEvery week, it seemed to be a little shuffling of the lineup, but they handled it as well as possibly could be handled.\u201d\n\n\r\n              Braun had to step into a turbulent situation when coach <a href=\"https://apnews.com/article/northwestern-hazing-fitzgerald-6aed9ee03d6efae9b6d55702952f594d?utm--source=copy&utm--medium=share\">Pat Fitzgerald was fired July 10</a> as a result of an investigation into a hazing scandal. \n\n\r\n              Not only did Braun have to find a way to keep the team from falling part over the off-field controversy, he also had to do with a team that went 1-11 the season before. The Wildcats are 7-5.\n\n\r\n              \u201cHe told us we've got a chance to write a really special story,\" Wildcats linebacker <a href=\"http://www.espn.com/college-football/player/_/id/4429647/bryce-gallagher\" target=\"_new\">Bryce Gallagher</a> said. \"There was the initial phase of shock, but that\u2019s a credit to Coach Braun for keeping this team together. Now with the transfer portal, when you lose a coach, there's a window where guys could leave, but we didn't have a whole lot of guys do that.\u201d\n\n\r\n              UTES GET BACK A BACK\n\n\r\n              Utah received positive news when running back <a href=\"http://www.espn.com/college-football/player/_/id/4426696/micah-bernard\" target=\"_new\">Micah Bernard</a> was cleared two weeks ago to play after suffering an injury in the season opener against Florida. Bernard has 1,117 career rushing yards.\n\n\r\n              \u201cYou miss that feeling, and when you lose a game, you feel like you can't do anything,\" Bernard said. \"When you're playing and you lose, at least you gave it your all. But if you're watching and you lose, it hurts. It hurts a lot.\u201d\n\n\r\n              TURNING POINT\n\n\r\n              Northwestern was looking at a 1/3 start while down 21 points in the fourth quarter to Minnesota. Behind quarterback <a href=\"http://www.espn.com/college-football/player/_/id/4360056/ben-bryant\" target=\"_new\">Ben Bryant</a>, who completed 33 of 49 passes for 396 yards and four touchdowns, the Wildcats stormed back to win 37-34 in overtime.\n\n\r\n              \u201cThey found a way to win a game that no one really thought we'd have an opportunity to come back,\u201d Braun said. \"More than anything else, it created a lot of confidence on our football team.\u201d\n\n\r\n              SECOND HOME\n\n\r\n              This is the Wildcats' second visit to Las Vegas and first since defeating UNLV 37-28 four nights before the Sept. 11, 2001, terrorist attacks.\n\n\r\n              Utah knows the host city well. The Utes are former members of the Mountain West, which includes the Rebels, and they won the Pac-12 Championship at Allegiant Stadium in <a href=\"https://apnews.com/article/college-football-sports-las-vegas-utah-salt-lake-city-1c33dfc34cbbd6d0cebd5679b704dbb6?utm--source=copy&utm--medium=share\">2021</a> and <a href=\"https://apnews.com/article/college-football-sports-utah-ohio-state-buckeyes-utes-62add02f1fc813df928e434d1645064f?utm--source=copy&utm--medium=share\">2022</a>.\n\n\r\n              This also is Utah's sixth appearance in the Las Vegas Bowl. The Utes are 4-1 in this game.\n\n\r\n              They head to the Big 12 Conference next season, so their days of playing in Las Vegas might be over.\n\n\r\n              \u201cGood question,\u201d Whittingham said. \u201cFootball is in such a crazy state right now, anything could happen in the next few years. I just know we're elated to be here this year and to play in Allegiant Stadium.\u201d\n\n\r\n              BOWL FUTURE\n\n\r\n              Las Vegas Bowl executive director John Saccenti said he has been in discussions regarding how the Pac-12's side will be filled the next two years with that conference down to only Oregon State and Washington State. The bowl has agreements with the Big Ten and Southeastern Conference.\n\n\r\n              All bowl contracts come up for renewal after those two years.\n\n\r\n              \u201cI want to find a way to give us a little bit of flexibility, whether that's with multiple conferences, maybe tiers with other bowls,\" Saccenti said. \u201cWe don't know what the final plan will be. The good news is we have two conference partners now who want to remain conference partners with us. They want to work with us to help.\u201d\n\n\r\n              ------\n\n\r\n              AP college football: <a href=\"https://apnews.com/hub/college-football\">https://apnews.com/hub/college-football</a> and <a href=\"https://apnews.com/hub/ap-top-25-college-football-poll\">https://apnews.com/hub/ap-top-25-college-football-poll</a>"
     },
     "header": {
         "id": "401551744",
@@ -5305,167 +5466,6 @@
             ]
         },
         "gameNote": "SRS Distribution Las Vegas Bowl"
-    },
-    "article": {
-        "dataSourceIdentifier": "601a1c83b45ca",
-        "keywords": [],
-        "description": "\u2014 Utah coach Kyle Whittingham said he has never experienced a season with so many injuries like this one.",
-        "source": "AP",
-        "video": [],
-        "type": "Preview",
-        "nowId": "1-39167987",
-        "premium": false,
-        "related": [],
-        "allowSearch": true,
-        "links": {
-            "api": {
-                "news": {
-                    "href": "http://now.core.api.espn.com/v1/sports/news/39167987"
-                },
-                "events": {
-                    "href": "http://now.core.api.espn.com/v1/sports/football/college-football/events/401551744"
-                }
-            },
-            "web": {
-                "href": "http://www.espn.com/ncf/preview?gameId=401551744"
-            },
-            "app": {
-                "sportscenter": {
-                    "href": "sportscenter://x-callback-url/showStory?uid=39167987"
-                }
-            },
-            "mobile": {
-                "href": "http://scores.espn.com/ncf/gamecast?gameId=401551744&version=mobile"
-            }
-        },
-        "id": 39167987,
-        "categories": [
-            {
-                "id": 9571,
-                "description": "College Football",
-                "type": "league",
-                "sportId": 23,
-                "leagueId": 23,
-                "league": {
-                    "id": 23,
-                    "description": "College Football",
-                    "links": {
-                        "api": {
-                            "leagues": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
-                            }
-                        },
-                        "web": {
-                            "leagues": {
-                                "href": "https://www.espn.com/college-football/"
-                            }
-                        },
-                        "mobile": {
-                            "leagues": {
-                                "href": "http://m.espn.com/ncf/"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23"
-            },
-            {
-                "id": 1079,
-                "description": "Northwestern Wildcats",
-                "type": "team",
-                "sportId": 23,
-                "teamId": 77,
-                "team": {
-                    "id": 77,
-                    "description": "Northwestern Wildcats",
-                    "links": {
-                        "api": {
-                            "teams": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/77"
-                            }
-                        },
-                        "web": {
-                            "teams": {
-                                "href": "https://www.espn.com/college-football/team/_/id/77/northwestern-wildcats"
-                            }
-                        },
-                        "mobile": {
-                            "teams": {
-                                "href": "http://m.espn.com/ncf/clubhouse?teamId=77"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23~t:77"
-            },
-            {
-                "id": 1158,
-                "description": "Utah Utes",
-                "type": "team",
-                "sportId": 23,
-                "teamId": 254,
-                "team": {
-                    "id": 254,
-                    "description": "Utah Utes",
-                    "links": {
-                        "api": {
-                            "teams": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/254"
-                            }
-                        },
-                        "web": {
-                            "teams": {
-                                "href": "https://www.espn.com/college-football/team/_/id/254/utah-utes"
-                            }
-                        },
-                        "mobile": {
-                            "teams": {
-                                "href": "http://m.espn.com/ncf/clubhouse?teamId=254"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23~t:254"
-            }
-        ],
-        "headline": "Northwestern and Utah overcome adversity to make the Las Vegas Bowl",
-        "gameId": "401551744",
-        "images": [],
-        "linkText": "Northwestern and Utah overcome adversity to make the Las Vegas Bowl",
-        "published": "2023-12-22T16:00:56Z",
-        "lastModified": "2023-12-22T16:00:58Z",
-        "metrics": [
-            {
-                "count": 0,
-                "type": "views"
-            },
-            {
-                "count": 0,
-                "type": "fShares"
-            },
-            {
-                "count": 0,
-                "type": "tweets"
-            },
-            {
-                "count": 0,
-                "type": "comments"
-            },
-            {
-                "count": 0,
-                "type": "emails"
-            },
-            {
-                "count": 0,
-                "type": "votes"
-            },
-            {
-                "count": 0,
-                "type": "popularity"
-            }
-        ],
-        "inlines": [],
-        "story": "LAS VEGAS -- \u2014 Utah coach Kyle Whittingham said he has never experienced a season with so many injuries like this one.\n\n\r\n              Northwestern coach David Braun was hired in January as the defensive coordinator, unaware he would be called upon to take over a program engulfed in a hazing controversy.\n\n\r\n              Both coaches navigated their circumstances to meet Saturday in the Las Vegas Bowl.\n\n\r\n              Utah (8-4) had major injuries at every offensive unit and was forced to go to their fifth-string quarterback at one point. The defense wasn't immune, with end <a href=\"http://www.espn.com/college-football/player/_/id/4687592/jonah-elliss\" target=\"_new\">Jonah Elliss</a> and linebacker <a href=\"http://www.espn.com/college-football/player/_/id/4685272/lander-barton\" target=\"_new\">Lander Barton</a> suffering season-ending injuries.\n\n\r\n              \u201cIt's been challenging, but our guys answered the bell,\u201d Whittingham said. \u201cEvery week, it seemed to be a little shuffling of the lineup, but they handled it as well as possibly could be handled.\u201d\n\n\r\n              Braun had to step into a turbulent situation when coach <a href=\"https://apnews.com/article/northwestern-hazing-fitzgerald-6aed9ee03d6efae9b6d55702952f594d?utm--source=copy&utm--medium=share\">Pat Fitzgerald was fired July 10</a> as a result of an investigation into a hazing scandal. \n\n\r\n              Not only did Braun have to find a way to keep the team from falling part over the off-field controversy, he also had to do with a team that went 1-11 the season before. The Wildcats are 7-5.\n\n\r\n              \u201cHe told us we've got a chance to write a really special story,\" Wildcats linebacker <a href=\"http://www.espn.com/college-football/player/_/id/4429647/bryce-gallagher\" target=\"_new\">Bryce Gallagher</a> said. \"There was the initial phase of shock, but that\u2019s a credit to Coach Braun for keeping this team together. Now with the transfer portal, when you lose a coach, there's a window where guys could leave, but we didn't have a whole lot of guys do that.\u201d\n\n\r\n              UTES GET BACK A BACK\n\n\r\n              Utah received positive news when running back <a href=\"http://www.espn.com/college-football/player/_/id/4426696/micah-bernard\" target=\"_new\">Micah Bernard</a> was cleared two weeks ago to play after suffering an injury in the season opener against Florida. Bernard has 1,117 career rushing yards.\n\n\r\n              \u201cYou miss that feeling, and when you lose a game, you feel like you can't do anything,\" Bernard said. \"When you're playing and you lose, at least you gave it your all. But if you're watching and you lose, it hurts. It hurts a lot.\u201d\n\n\r\n              TURNING POINT\n\n\r\n              Northwestern was looking at a 1/3 start while down 21 points in the fourth quarter to Minnesota. Behind quarterback <a href=\"http://www.espn.com/college-football/player/_/id/4360056/ben-bryant\" target=\"_new\">Ben Bryant</a>, who completed 33 of 49 passes for 396 yards and four touchdowns, the Wildcats stormed back to win 37-34 in overtime.\n\n\r\n              \u201cThey found a way to win a game that no one really thought we'd have an opportunity to come back,\u201d Braun said. \"More than anything else, it created a lot of confidence on our football team.\u201d\n\n\r\n              SECOND HOME\n\n\r\n              This is the Wildcats' second visit to Las Vegas and first since defeating UNLV 37-28 four nights before the Sept. 11, 2001, terrorist attacks.\n\n\r\n              Utah knows the host city well. The Utes are former members of the Mountain West, which includes the Rebels, and they won the Pac-12 Championship at Allegiant Stadium in <a href=\"https://apnews.com/article/college-football-sports-las-vegas-utah-salt-lake-city-1c33dfc34cbbd6d0cebd5679b704dbb6?utm--source=copy&utm--medium=share\">2021</a> and <a href=\"https://apnews.com/article/college-football-sports-utah-ohio-state-buckeyes-utes-62add02f1fc813df928e434d1645064f?utm--source=copy&utm--medium=share\">2022</a>.\n\n\r\n              This also is Utah's sixth appearance in the Las Vegas Bowl. The Utes are 4-1 in this game.\n\n\r\n              They head to the Big 12 Conference next season, so their days of playing in Las Vegas might be over.\n\n\r\n              \u201cGood question,\u201d Whittingham said. \u201cFootball is in such a crazy state right now, anything could happen in the next few years. I just know we're elated to be here this year and to play in Allegiant Stadium.\u201d\n\n\r\n              BOWL FUTURE\n\n\r\n              Las Vegas Bowl executive director John Saccenti said he has been in discussions regarding how the Pac-12's side will be filled the next two years with that conference down to only Oregon State and Washington State. The bowl has agreements with the Big Ten and Southeastern Conference.\n\n\r\n              All bowl contracts come up for renewal after those two years.\n\n\r\n              \u201cI want to find a way to give us a little bit of flexibility, whether that's with multiple conferences, maybe tiers with other bowls,\" Saccenti said. \u201cWe don't know what the final plan will be. The good news is we have two conference partners now who want to remain conference partners with us. They want to work with us to help.\u201d\n\n\r\n              ------\n\n\r\n              AP college football: <a href=\"https://apnews.com/hub/college-football\">https://apnews.com/hub/college-football</a> and <a href=\"https://apnews.com/hub/ap-top-25-college-football-poll\">https://apnews.com/hub/ap-top-25-college-football-poll</a>"
     },
     "standings": {
         "fullViewLink": {

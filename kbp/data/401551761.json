@@ -243,8 +243,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2116",
                         "uid": "s:20~l:23~t:2116",
@@ -289,7 +287,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525885",
@@ -634,8 +634,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "59",
                         "uid": "s:20~l:23~t:59",
@@ -680,7 +678,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525545",
@@ -703,6 +703,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2097",
                         "uid": "s:20~l:23~t:2097",
@@ -747,9 +749,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png"
                 },
                 {
                     "id": "401525549",
@@ -772,8 +772,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "150",
                         "uid": "s:20~l:23~t:150",
@@ -818,7 +816,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525554",
@@ -841,8 +841,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "228",
                         "uid": "s:20~l:23~t:228",
@@ -887,7 +885,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525562",
@@ -4584,8 +4584,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4955,7 +4955,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/27 vs North Carolina Tar Heels 1561 tickets left",
+                "ticketName": "12/27 vs North Carolina Tar Heels 1552 tickets left",
                 "ticketLink": "https://www.vividseats.com/dukes-mayo-bowl-tickets-bank-of-america-stadium-12-30-2023--sports-ncaa-football/production/4383453?wsUser=717",
                 "type": "event"
             }
@@ -4975,6 +4975,101 @@
             "teamLink": "https://www.vividseats.com/west-virginia-mountaineers-football-tickets--sports-ncaa-football/performer/1362?wsUser=717"
         }
     },
+    "videos": [
+        {
+            "source": "espn",
+            "id": 39156507,
+            "headline": "Mack Brown calls out NC State coach for 'classless remarks'",
+            "description": "North Carolina coach Mack Brown voices his disappointment at NC State coach Dave Doeren's postgame comments after the Wolfpack's win in November.",
+            "ad": {
+                "sport": "ncf",
+                "bundle": "ncf_drive_through"
+            },
+            "tracking": {
+                "sportName": "ncf",
+                "leagueName": "No League",
+                "coverageType": "PressConference",
+                "trackingName": "COM_NCF Presser (Mack Brown calls out NC State coach for 'classless remarks') 2023/12/20",
+                "trackingId": "dm_231220_ncf_unc_brown_sound"
+            },
+            "cerebroId": "658363a2be6ab31c1b8da052",
+            "lastModified": "2023-12-20T22:00:37Z",
+            "originalPublishDate": "2023-12-20T21:55:22Z",
+            "timeRestrictions": {
+                "embargoDate": "2023-12-20T21:55:22Z",
+                "expirationDate": "2024-04-30T16:00:00Z"
+            },
+            "deviceRestrictions": {
+                "type": "whitelist",
+                "devices": [
+                    "desktop",
+                    "settop",
+                    "handset",
+                    "tablet"
+                ]
+            },
+            "duration": 61,
+            "thumbnail": "https://a.espncdn.com/media/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.jpg",
+            "links": {
+                "api": {
+                    "self": {
+                        "href": "http://api.espn.com/v1/video/clips/39156507"
+                    },
+                    "artwork": {
+                        "href": "https://artwork.api.espn.com/artwork/collections/media/a4366c4c-fb7c-4868-a29e-d4fc54c76640"
+                    }
+                },
+                "web": {
+                    "href": "https://www.espn.com/video/clip?id=39156507&ex_cid=espnapi_internal",
+                    "short": {
+                        "href": "https://www.espn.com/video/clip?id=39156507"
+                    },
+                    "self": {
+                        "href": "https://www.espn.com/video/clip?id=39156507&ex_cid=espnapi_internal"
+                    }
+                },
+                "source": {
+                    "mezzanine": {
+                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.mp4"
+                    },
+                    "flash": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.smil"
+                    },
+                    "hds": {
+                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_rel.smil/manifest.f4m"
+                    },
+                    "HLS": {
+                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound/playlist.m3u8",
+                        "HD": {
+                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound/playlist.m3u8"
+                        }
+                    },
+                    "HD": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_720p30_2896k.mp4"
+                    },
+                    "full": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_360p30_1464k.mp4"
+                    },
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_360p30_1464k.mp4"
+                },
+                "mobile": {
+                    "alert": {
+                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39156507&ex_cid=espnapi_internal"
+                    },
+                    "source": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.mp4"
+                    },
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507",
+                    "streaming": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507"
+                    },
+                    "progressiveDownload": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507"
+                    }
+                }
+            }
+        }
+    ],
     "header": {
         "id": "401551761",
         "uid": "s:20~l:23~e:401551761",
@@ -5343,101 +5438,6 @@
         },
         "gameNote": "Duke's Mayo Bowl"
     },
-    "videos": [
-        {
-            "source": "espn",
-            "id": 39156507,
-            "headline": "Mack Brown calls out NC State coach for 'classless remarks'",
-            "description": "North Carolina coach Mack Brown voices his disappointment at NC State coach Dave Doeren's postgame comments after the Wolfpack's win in November.",
-            "ad": {
-                "sport": "ncf",
-                "bundle": "ncf_drive_through"
-            },
-            "tracking": {
-                "sportName": "ncf",
-                "leagueName": "No League",
-                "coverageType": "PressConference",
-                "trackingName": "COM_NCF Presser (Mack Brown calls out NC State coach for 'classless remarks') 2023/12/20",
-                "trackingId": "dm_231220_ncf_unc_brown_sound"
-            },
-            "cerebroId": "658363a2be6ab31c1b8da052",
-            "lastModified": "2023-12-20T22:00:37Z",
-            "originalPublishDate": "2023-12-20T21:55:22Z",
-            "timeRestrictions": {
-                "embargoDate": "2023-12-20T21:55:22Z",
-                "expirationDate": "2024-04-30T16:00:00Z"
-            },
-            "deviceRestrictions": {
-                "type": "whitelist",
-                "devices": [
-                    "desktop",
-                    "settop",
-                    "handset",
-                    "tablet"
-                ]
-            },
-            "duration": 61,
-            "thumbnail": "https://a.espncdn.com/media/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.jpg",
-            "links": {
-                "api": {
-                    "self": {
-                        "href": "http://api.espn.com/v1/video/clips/39156507"
-                    },
-                    "artwork": {
-                        "href": "https://artwork.api.espn.com/artwork/collections/media/a4366c4c-fb7c-4868-a29e-d4fc54c76640"
-                    }
-                },
-                "web": {
-                    "href": "https://www.espn.com/video/clip?id=39156507&ex_cid=espnapi_internal",
-                    "short": {
-                        "href": "https://www.espn.com/video/clip?id=39156507"
-                    },
-                    "self": {
-                        "href": "https://www.espn.com/video/clip?id=39156507&ex_cid=espnapi_internal"
-                    }
-                },
-                "source": {
-                    "mezzanine": {
-                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.mp4"
-                    },
-                    "flash": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.smil"
-                    },
-                    "hds": {
-                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_rel.smil/manifest.f4m"
-                    },
-                    "HLS": {
-                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound/playlist.m3u8",
-                        "HD": {
-                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound/playlist.m3u8"
-                        }
-                    },
-                    "HD": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_720p30_2896k.mp4"
-                    },
-                    "full": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_360p30_1464k.mp4"
-                    },
-                    "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound_360p30_1464k.mp4"
-                },
-                "mobile": {
-                    "alert": {
-                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39156507&ex_cid=espnapi_internal"
-                    },
-                    "source": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1220/dm_231220_ncf_unc_brown_sound/dm_231220_ncf_unc_brown_sound.mp4"
-                    },
-                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507",
-                    "streaming": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507"
-                    },
-                    "progressiveDownload": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/a4366c4c-fb7c-4868-a29e-d4fc54c76640/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39156507"
-                    }
-                }
-            }
-        }
-    ],
     "standings": {
         "fullViewLink": {
             "text": "Full Standings",

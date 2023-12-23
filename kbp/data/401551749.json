@@ -253,8 +253,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "201",
                         "uid": "s:20~l:23~t:201",
@@ -299,7 +297,9 @@
                             "current": 9
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525892",
@@ -322,8 +322,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2116",
                         "uid": "s:20~l:23~t:2116",
@@ -368,7 +366,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525894",
@@ -920,6 +920,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "99",
                         "uid": "s:20~l:23~t:99",
@@ -964,9 +966,7 @@
                             "current": 14
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
                 }
             ]
         }
@@ -4594,8 +4594,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4951,39 +4951,6 @@
                 "lastModified": "2023-12-22T21:11:55Z"
             }
         ]
-    },
-    "ticketsInfo": {
-        "tickets": [
-            {
-                "ticketName": "All COLLEGE-FOOTBALL Tickets",
-                "ticketLink": "https://www.vividseats.com/ncaaf/?wsUser=717",
-                "type": "league"
-            },
-            {
-                "ticketName": "All Oklahoma State Cowboys Tickets",
-                "ticketLink": "https://www.vividseats.com/oklahoma-state-cowboys-football-tickets--sports-ncaa-football/performer/1301?wsUser=717",
-                "type": "team"
-            },
-            {
-                "ticketName": "12/27 vs Texas A&M Aggies 1907 tickets left",
-                "ticketLink": "https://www.vividseats.com/texas-bowl-tickets-nrg-stadium-12-27-2023--sports-ncaa-football/production/4455285?wsUser=717",
-                "type": "event"
-            }
-        ],
-        "seatSituation": {
-            "opponentTeamName": "Texas A&M Aggies",
-            "currentTeamName": "Oklahoma State Cowboys",
-            "venueName": "NRG Stadium",
-            "summary": "Tickets as low as $57",
-            "date": "2023-12-28T02:00:00Z",
-            "dateShort": "12/27",
-            "dateDay": "Wed",
-            "homeAway": "home",
-            "eventLink": "https://www.vividseats.com/texas-bowl-tickets-nrg-stadium-12-27-2023--sports-ncaa-football/production/4455285?wsUser=717",
-            "venueLink": "https://www.vividseats.com/nrg-stadium-tickets/venue/2411?wsUser=717",
-            "genericLink": "https://www.vividseats.com?wsUser=717",
-            "teamLink": "https://www.vividseats.com/oklahoma-state-cowboys-football-tickets--sports-ncaa-football/performer/1301?wsUser=717"
-        }
     },
     "videos": [
         {
@@ -5448,6 +5415,39 @@
             ]
         },
         "gameNote": "TaxAct Texas Bowl"
+    },
+    "ticketsInfo": {
+        "tickets": [
+            {
+                "ticketName": "All COLLEGE-FOOTBALL Tickets",
+                "ticketLink": "https://www.vividseats.com/ncaaf/?wsUser=717",
+                "type": "league"
+            },
+            {
+                "ticketName": "All Oklahoma State Cowboys Tickets",
+                "ticketLink": "https://www.vividseats.com/oklahoma-state-cowboys-football-tickets--sports-ncaa-football/performer/1301?wsUser=717",
+                "type": "team"
+            },
+            {
+                "ticketName": "12/27 vs Texas A&M Aggies 1883 tickets left",
+                "ticketLink": "https://www.vividseats.com/texas-bowl-tickets-nrg-stadium-12-27-2023--sports-ncaa-football/production/4455285?wsUser=717",
+                "type": "event"
+            }
+        ],
+        "seatSituation": {
+            "opponentTeamName": "Texas A&M Aggies",
+            "currentTeamName": "Oklahoma State Cowboys",
+            "venueName": "NRG Stadium",
+            "summary": "Tickets as low as $57",
+            "date": "2023-12-28T02:00:00Z",
+            "dateShort": "12/27",
+            "dateDay": "Wed",
+            "homeAway": "home",
+            "eventLink": "https://www.vividseats.com/texas-bowl-tickets-nrg-stadium-12-27-2023--sports-ncaa-football/production/4455285?wsUser=717",
+            "venueLink": "https://www.vividseats.com/nrg-stadium-tickets/venue/2411?wsUser=717",
+            "genericLink": "https://www.vividseats.com?wsUser=717",
+            "teamLink": "https://www.vividseats.com/oklahoma-state-cowboys-football-tickets--sports-ncaa-football/performer/1301?wsUser=717"
+        }
     },
     "standings": {
         "fullViewLink": {

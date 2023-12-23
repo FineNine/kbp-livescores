@@ -622,8 +622,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "228",
                         "uid": "s:20~l:23~t:228",
@@ -668,7 +666,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401525544",
@@ -898,8 +898,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "153",
                         "uid": "s:20~l:23~t:153",
@@ -944,7 +942,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 }
             ]
         }
@@ -4572,8 +4572,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4943,7 +4943,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/28 vs NC State Wolfpack 1791 tickets left",
+                "ticketName": "12/28 vs NC State Wolfpack 1873 tickets left",
                 "ticketLink": "https://www.vividseats.com/pop-tarts-bowl-tickets-camping-world-stadium-12-28-2023--sports-ncaa-football/production/4471400?wsUser=717",
                 "type": "event"
             }

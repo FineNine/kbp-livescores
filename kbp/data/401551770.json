@@ -312,8 +312,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "213",
                         "uid": "s:20~l:23~t:213",
@@ -358,7 +356,9 @@
                             "current": 11
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401520392",
@@ -381,6 +381,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "158",
                         "uid": "s:20~l:23~t:158",
@@ -425,9 +427,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png"
                 },
                 {
                     "id": "401520410",
@@ -450,6 +450,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "130",
                         "uid": "s:20~l:23~t:130",
@@ -494,9 +496,7 @@
                             "current": 3
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
                 },
                 {
                     "id": "401520439",
@@ -4563,8 +4563,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4934,7 +4934,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/30 vs Auburn Tigers 3561 tickets left",
+                "ticketName": "12/30 vs Auburn Tigers 3501 tickets left",
                 "ticketLink": "https://www.vividseats.com/music-city-bowl-tickets-nissan-stadium-12-30-2023--sports-ncaa-football/production/4463693?wsUser=717",
                 "type": "event"
             }

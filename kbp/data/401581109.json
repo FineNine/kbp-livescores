@@ -369,6 +369,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "264",
                         "uid": "s:20~l:23~t:264",
@@ -413,9 +415,7 @@
                             "current": 5
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
                 },
                 {
                     "id": "401524053",
@@ -898,8 +898,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "52",
                         "uid": "s:20~l:23~t:52",
@@ -944,7 +942,9 @@
                             "current": 4
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 }
             ]
         }
@@ -4530,8 +4530,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4901,7 +4901,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/27 vs Louisville Cardinals 1271 tickets left",
+                "ticketName": "12/27 vs Louisville Cardinals 1327 tickets left",
                 "ticketLink": "https://www.vividseats.com/holiday-bowl-tickets-petco-park-12-27-2023--sports-ncaa-football/production/4517036?wsUser=717",
                 "type": "event"
             }
@@ -4921,101 +4921,6 @@
             "teamLink": "https://www.vividseats.com/usc-trojans-football-tickets--sports-ncaa-football/performer/1031?wsUser=717"
         }
     },
-    "videos": [
-        {
-            "source": "espn",
-            "id": 39042282,
-            "headline": "Finebaum praises Caleb Williams for sitting out Holiday Bowl",
-            "description": "Paul Finebaum reacts to Caleb Williams not participating in the Holiday Bowl for USC.",
-            "ad": {
-                "sport": "ncf",
-                "bundle": "ncf_drive_through"
-            },
-            "tracking": {
-                "sportName": "ncf",
-                "leagueName": "No League",
-                "coverageType": "Analysis",
-                "trackingName": "*UNPUB 12/27 8PM* COM_NCF Analysis (Finebaum praises Caleb Williams for sitting out Holiday Bowl) 2023/12/04 ESHEET SC",
-                "trackingId": "dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl"
-            },
-            "cerebroId": "656e2976be6ab3250621ec48",
-            "lastModified": "2023-12-04T19:35:19Z",
-            "originalPublishDate": "2023-12-04T19:29:49Z",
-            "timeRestrictions": {
-                "embargoDate": "2023-12-04T19:29:49Z",
-                "expirationDate": "2023-12-28T01:00:00Z"
-            },
-            "deviceRestrictions": {
-                "type": "whitelist",
-                "devices": [
-                    "desktop",
-                    "settop",
-                    "handset",
-                    "tablet"
-                ]
-            },
-            "duration": 52,
-            "thumbnail": "https://a.espncdn.com/media/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.jpg",
-            "links": {
-                "api": {
-                    "self": {
-                        "href": "http://api.espn.com/v1/video/clips/39042282"
-                    },
-                    "artwork": {
-                        "href": "https://artwork.api.espn.com/artwork/collections/media/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1"
-                    }
-                },
-                "web": {
-                    "href": "https://www.espn.com/video/clip?id=39042282&ex_cid=espnapi_internal",
-                    "short": {
-                        "href": "https://www.espn.com/video/clip?id=39042282"
-                    },
-                    "self": {
-                        "href": "https://www.espn.com/video/clip?id=39042282&ex_cid=espnapi_internal"
-                    }
-                },
-                "source": {
-                    "mezzanine": {
-                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.mp4"
-                    },
-                    "flash": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.smil"
-                    },
-                    "hds": {
-                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_rel.smil/manifest.f4m"
-                    },
-                    "HLS": {
-                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/playlist.m3u8",
-                        "HD": {
-                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/playlist.m3u8"
-                        }
-                    },
-                    "HD": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_720p30_2896k.mp4"
-                    },
-                    "full": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_360p30_1464k.mp4"
-                    },
-                    "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_360p30_1464k.mp4"
-                },
-                "mobile": {
-                    "alert": {
-                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39042282&ex_cid=espnapi_internal"
-                    },
-                    "source": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.mp4"
-                    },
-                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282",
-                    "streaming": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282"
-                    },
-                    "progressiveDownload": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282"
-                    }
-                }
-            }
-        }
-    ],
     "header": {
         "id": "401581109",
         "uid": "s:20~l:23~e:401581109",
@@ -5354,6 +5259,101 @@
         },
         "gameNote": "DIRECTV Holiday Bowl"
     },
+    "videos": [
+        {
+            "source": "espn",
+            "id": 39042282,
+            "headline": "Finebaum praises Caleb Williams for sitting out Holiday Bowl",
+            "description": "Paul Finebaum reacts to Caleb Williams not participating in the Holiday Bowl for USC.",
+            "ad": {
+                "sport": "ncf",
+                "bundle": "ncf_drive_through"
+            },
+            "tracking": {
+                "sportName": "ncf",
+                "leagueName": "No League",
+                "coverageType": "Analysis",
+                "trackingName": "*UNPUB 12/27 8PM* COM_NCF Analysis (Finebaum praises Caleb Williams for sitting out Holiday Bowl) 2023/12/04 ESHEET SC",
+                "trackingId": "dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl"
+            },
+            "cerebroId": "656e2976be6ab3250621ec48",
+            "lastModified": "2023-12-04T19:35:19Z",
+            "originalPublishDate": "2023-12-04T19:29:49Z",
+            "timeRestrictions": {
+                "embargoDate": "2023-12-04T19:29:49Z",
+                "expirationDate": "2023-12-28T01:00:00Z"
+            },
+            "deviceRestrictions": {
+                "type": "whitelist",
+                "devices": [
+                    "desktop",
+                    "settop",
+                    "handset",
+                    "tablet"
+                ]
+            },
+            "duration": 52,
+            "thumbnail": "https://a.espncdn.com/media/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.jpg",
+            "links": {
+                "api": {
+                    "self": {
+                        "href": "http://api.espn.com/v1/video/clips/39042282"
+                    },
+                    "artwork": {
+                        "href": "https://artwork.api.espn.com/artwork/collections/media/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1"
+                    }
+                },
+                "web": {
+                    "href": "https://www.espn.com/video/clip?id=39042282&ex_cid=espnapi_internal",
+                    "short": {
+                        "href": "https://www.espn.com/video/clip?id=39042282"
+                    },
+                    "self": {
+                        "href": "https://www.espn.com/video/clip?id=39042282&ex_cid=espnapi_internal"
+                    }
+                },
+                "source": {
+                    "mezzanine": {
+                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.mp4"
+                    },
+                    "flash": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.smil"
+                    },
+                    "hds": {
+                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_rel.smil/manifest.f4m"
+                    },
+                    "HLS": {
+                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/playlist.m3u8",
+                        "HD": {
+                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/playlist.m3u8"
+                        }
+                    },
+                    "HD": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_720p30_2896k.mp4"
+                    },
+                    "full": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_360p30_1464k.mp4"
+                    },
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl_360p30_1464k.mp4"
+                },
+                "mobile": {
+                    "alert": {
+                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39042282&ex_cid=espnapi_internal"
+                    },
+                    "source": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1204/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl/dm_231204_SC_Finebaum_Caleb_Williams_sitting_out_bowl.mp4"
+                    },
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282",
+                    "streaming": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282"
+                    },
+                    "progressiveDownload": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/ec5a634a-d195-46df-8b81-3a0ae7b3bfe1/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39042282"
+                    }
+                }
+            }
+        }
+    ],
     "standings": {
         "fullViewLink": {
             "text": "Full Standings",

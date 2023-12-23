@@ -300,6 +300,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2117",
                         "uid": "s:20~l:23~t:2117",
@@ -344,9 +346,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
                 },
                 {
                     "id": "401532437",
@@ -438,6 +438,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2711",
                         "uid": "s:20~l:23~t:2711",
@@ -482,9 +484,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
                 },
                 {
                     "id": "401532453",
@@ -691,6 +691,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "309",
                         "uid": "s:20~l:23~t:309",
@@ -735,9 +737,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
                 },
                 {
                     "id": "401531916",
@@ -760,6 +760,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "6",
                         "uid": "s:20~l:23~t:6",
@@ -804,9 +806,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
                 },
                 {
                     "id": "401531919",
@@ -829,6 +829,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "326",
                         "uid": "s:20~l:23~t:326",
@@ -873,9 +875,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
                 },
                 {
                     "id": "401531924",
@@ -898,6 +898,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "276",
                         "uid": "s:20~l:23~t:276",
@@ -942,9 +944,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png"
                 }
             ]
         }
@@ -4568,8 +4568,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4948,7 +4948,7 @@
             "opponentTeamName": "Arkansas State Red Wolves",
             "currentTeamName": "Northern Illinois Huskies",
             "venueName": "Cramton Bowl",
-            "summary": "Tickets as low as $28",
+            "summary": "Tickets as low as $22",
             "date": "2023-12-23T17:00:00Z",
             "dateShort": "12/23",
             "dateDay": "Sat",
@@ -4958,6 +4958,167 @@
             "genericLink": "https://www.vividseats.com?wsUser=717",
             "teamLink": "https://www.vividseats.com/northern-illinois-huskies-football-tickets--sports-ncaa-football/performer/2637?wsUser=717"
         }
+    },
+    "article": {
+        "dataSourceIdentifier": "7b038b08e434e",
+        "keywords": [],
+        "description": "Arkansas State (6-6, Sun Belt) vs Northern Illinois (6-6, Mid-American), Dec. 23, noon ET (ESPN).",
+        "source": "AP",
+        "video": [],
+        "type": "Preview",
+        "nowId": "1-39167441",
+        "premium": false,
+        "related": [],
+        "allowSearch": true,
+        "links": {
+            "api": {
+                "news": {
+                    "href": "http://now.core.api.espn.com/v1/sports/news/39167441"
+                },
+                "events": {
+                    "href": "http://now.core.api.espn.com/v1/sports/football/college-football/events/401551741"
+                }
+            },
+            "web": {
+                "href": "http://www.espn.com/ncf/preview?gameId=401551741"
+            },
+            "app": {
+                "sportscenter": {
+                    "href": "sportscenter://x-callback-url/showStory?uid=39167441"
+                }
+            },
+            "mobile": {
+                "href": "http://scores.espn.com/ncf/gamecast?gameId=401551741&version=mobile"
+            }
+        },
+        "id": 39167441,
+        "categories": [
+            {
+                "id": 9571,
+                "description": "College Football",
+                "type": "league",
+                "sportId": 23,
+                "leagueId": 23,
+                "league": {
+                    "id": 23,
+                    "description": "College Football",
+                    "links": {
+                        "api": {
+                            "leagues": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
+                            }
+                        },
+                        "web": {
+                            "leagues": {
+                                "href": "https://www.espn.com/college-football/"
+                            }
+                        },
+                        "mobile": {
+                            "leagues": {
+                                "href": "http://m.espn.com/ncf/"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23"
+            },
+            {
+                "id": 1141,
+                "description": "Northern Illinois Huskies",
+                "type": "team",
+                "sportId": 23,
+                "teamId": 2459,
+                "team": {
+                    "id": 2459,
+                    "description": "Northern Illinois Huskies",
+                    "links": {
+                        "api": {
+                            "teams": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2459"
+                            }
+                        },
+                        "web": {
+                            "teams": {
+                                "href": "https://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies"
+                            }
+                        },
+                        "mobile": {
+                            "teams": {
+                                "href": "http://m.espn.com/ncf/clubhouse?teamId=2459"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23~t:2459"
+            },
+            {
+                "id": 51495,
+                "description": "Arkansas State Red Wolves",
+                "type": "team",
+                "sportId": 23,
+                "teamId": 2032,
+                "team": {
+                    "id": 2032,
+                    "description": "Arkansas State Red Wolves",
+                    "links": {
+                        "api": {
+                            "teams": {
+                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2032"
+                            }
+                        },
+                        "web": {
+                            "teams": {
+                                "href": "https://www.espn.com/college-football/team/_/id/2032/arkansas-state-red-wolves"
+                            }
+                        },
+                        "mobile": {
+                            "teams": {
+                                "href": "http://m.espn.com/ncf/clubhouse?teamId=2032"
+                            }
+                        }
+                    }
+                },
+                "uid": "s:20~l:23~t:2032"
+            }
+        ],
+        "headline": "Arkansas State, Northern Illinois meet in Camellia Bowl matchup of 6-6 teams",
+        "gameId": "401551741",
+        "images": [],
+        "linkText": "Arkansas State, Northern Illinois meet in Camellia Bowl matchup of 6-6 teams",
+        "published": "2023-12-22T13:10:54Z",
+        "lastModified": "2023-12-22T13:10:55Z",
+        "metrics": [
+            {
+                "count": 0,
+                "type": "views"
+            },
+            {
+                "count": 0,
+                "type": "fShares"
+            },
+            {
+                "count": 0,
+                "type": "tweets"
+            },
+            {
+                "count": 0,
+                "type": "comments"
+            },
+            {
+                "count": 0,
+                "type": "emails"
+            },
+            {
+                "count": 0,
+                "type": "votes"
+            },
+            {
+                "count": 0,
+                "type": "popularity"
+            }
+        ],
+        "inlines": [],
+        "story": "Arkansas State (6-6, Sun Belt) vs Northern Illinois (6-6, Mid-American), Dec. 23, noon ET (ESPN). \n\n\r\n              Line: Arkansas State by 3, according to .\n\n\r\n              Series record: Northern Illinois leads, 7-1.\n\n\r\n              WHAT\u2019S AT STAKE?\n\n\r\n              Both teams have to win to finish with a winning record. The Red Devils also have a .500 record in bowl games (8-8-1) and have split their two previous trips to the Camellia Bowl. It is Arkansas State's first bowl appearance since 2019. Northern Illinois is 4-10 in bowl games and making its first appearance in the Montgomery, Alabama bowl game.\n\n\r\n              KEY MATCHUP\n\n\r\n              Arkansas State's offense against the Northern Illinois defense. The Huskies rank 21st nationally in total defense and sixth in passing yards allowed, The Red Devils rank ninth in the Sun Belt in scoring and total offense, averaging 27.8 points and 375.5 total yards per game. Northern Illinois is giving up 164.6 passing yards a game and 316.9 total yards.\n\n\r\n              PLAYERS TO WATCH\n\n\r\n              Arkansas State: QB <a href=\"http://www.espn.com/college-football/player/_/id/5080403/jaylen-raynor\" target=\"_new\">Jaylen Raynor</a> is the Sun Belt freshman of the year. He has passed for 2,293 yards and 15 touchdowns while rushing for five scores. Raynor was 20-of-25 passing for 386 yards and six touchdowns against Massachusetts.\n\n\r\n              Northern Illinois: RB <a href=\"http://www.espn.com/college-football/player/_/id/4687413/antario-brown\" target=\"_new\">Antario Brown</a> is a first-team All-MAC performer who has run for 1,164 yards and 10 touchdowns. He's averaging 6.2 yards per carry, rushing for 280 yards and four TDs on just 13 carries against Akron.\n\n\r\n              FACTS AND FIGURES\n\n\r\n              Arkansas State is one of just seven FBS teams who will play in a bowl game after winning three or fewer games last year. ... Northern Illinois finished the regular season winning five of its last seven games. The Red Wolves have lost to Middle Tennessee in 2017 and beaten Florida International two years later in previous Camellia Bowl appearances. ... Arkansas State hasn't faced a MAC opponent since opening the 2016 season against Toledo. ... It's a rematch of the 2012 bowl game in Mobile, Alabama. The Huskies won 38-20 for their last bowl victory. ...The game will end the seven-year college career for Northern Illinois quarterback <a href=\"http://www.espn.com/college-football/player/_/id/4241965/rocky-lombardi\" target=\"_new\">Rocky Lombardi</a>, who has spent four years at Michigan State and three with the Huskies. He received a medical redshirt last season.\n\n\r\n              ----\n\n\r\n              AP college football: <a href=\"https://apnews.com/hub/ap-top-25-college-football-poll\">https://apnews.com/hub/ap-top-25-college-football-poll</a> and <a href=\"https://apnews.com/hub/college-football\">https://apnews.com/hub/college-football</a>"
     },
     "header": {
         "id": "401551741",
@@ -5327,167 +5488,6 @@
             ]
         },
         "gameNote": "Camellia Bowl"
-    },
-    "article": {
-        "dataSourceIdentifier": "7b038b08e434e",
-        "keywords": [],
-        "description": "Arkansas State (6-6, Sun Belt) vs Northern Illinois (6-6, Mid-American), Dec. 23, noon ET (ESPN).",
-        "source": "AP",
-        "video": [],
-        "type": "Preview",
-        "nowId": "1-39167441",
-        "premium": false,
-        "related": [],
-        "allowSearch": true,
-        "links": {
-            "api": {
-                "news": {
-                    "href": "http://now.core.api.espn.com/v1/sports/news/39167441"
-                },
-                "events": {
-                    "href": "http://now.core.api.espn.com/v1/sports/football/college-football/events/401551741"
-                }
-            },
-            "web": {
-                "href": "http://www.espn.com/ncf/preview?gameId=401551741"
-            },
-            "app": {
-                "sportscenter": {
-                    "href": "sportscenter://x-callback-url/showStory?uid=39167441"
-                }
-            },
-            "mobile": {
-                "href": "http://scores.espn.com/ncf/gamecast?gameId=401551741&version=mobile"
-            }
-        },
-        "id": 39167441,
-        "categories": [
-            {
-                "id": 9571,
-                "description": "College Football",
-                "type": "league",
-                "sportId": 23,
-                "leagueId": 23,
-                "league": {
-                    "id": 23,
-                    "description": "College Football",
-                    "links": {
-                        "api": {
-                            "leagues": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
-                            }
-                        },
-                        "web": {
-                            "leagues": {
-                                "href": "https://www.espn.com/college-football/"
-                            }
-                        },
-                        "mobile": {
-                            "leagues": {
-                                "href": "http://m.espn.com/ncf/"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23"
-            },
-            {
-                "id": 1141,
-                "description": "Northern Illinois Huskies",
-                "type": "team",
-                "sportId": 23,
-                "teamId": 2459,
-                "team": {
-                    "id": 2459,
-                    "description": "Northern Illinois Huskies",
-                    "links": {
-                        "api": {
-                            "teams": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2459"
-                            }
-                        },
-                        "web": {
-                            "teams": {
-                                "href": "https://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies"
-                            }
-                        },
-                        "mobile": {
-                            "teams": {
-                                "href": "http://m.espn.com/ncf/clubhouse?teamId=2459"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23~t:2459"
-            },
-            {
-                "id": 51495,
-                "description": "Arkansas State Red Wolves",
-                "type": "team",
-                "sportId": 23,
-                "teamId": 2032,
-                "team": {
-                    "id": 2032,
-                    "description": "Arkansas State Red Wolves",
-                    "links": {
-                        "api": {
-                            "teams": {
-                                "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2032"
-                            }
-                        },
-                        "web": {
-                            "teams": {
-                                "href": "https://www.espn.com/college-football/team/_/id/2032/arkansas-state-red-wolves"
-                            }
-                        },
-                        "mobile": {
-                            "teams": {
-                                "href": "http://m.espn.com/ncf/clubhouse?teamId=2032"
-                            }
-                        }
-                    }
-                },
-                "uid": "s:20~l:23~t:2032"
-            }
-        ],
-        "headline": "Arkansas State, Northern Illinois meet in Camellia Bowl matchup of 6-6 teams",
-        "gameId": "401551741",
-        "images": [],
-        "linkText": "Arkansas State, Northern Illinois meet in Camellia Bowl matchup of 6-6 teams",
-        "published": "2023-12-22T13:10:54Z",
-        "lastModified": "2023-12-22T13:10:55Z",
-        "metrics": [
-            {
-                "count": 0,
-                "type": "views"
-            },
-            {
-                "count": 0,
-                "type": "fShares"
-            },
-            {
-                "count": 0,
-                "type": "tweets"
-            },
-            {
-                "count": 0,
-                "type": "comments"
-            },
-            {
-                "count": 0,
-                "type": "emails"
-            },
-            {
-                "count": 0,
-                "type": "votes"
-            },
-            {
-                "count": 0,
-                "type": "popularity"
-            }
-        ],
-        "inlines": [],
-        "story": "Arkansas State (6-6, Sun Belt) vs Northern Illinois (6-6, Mid-American), Dec. 23, noon ET (ESPN). \n\n\r\n              Line: Arkansas State by 3, according to .\n\n\r\n              Series record: Northern Illinois leads, 7-1.\n\n\r\n              WHAT\u2019S AT STAKE?\n\n\r\n              Both teams have to win to finish with a winning record. The Red Devils also have a .500 record in bowl games (8-8-1) and have split their two previous trips to the Camellia Bowl. It is Arkansas State's first bowl appearance since 2019. Northern Illinois is 4-10 in bowl games and making its first appearance in the Montgomery, Alabama bowl game.\n\n\r\n              KEY MATCHUP\n\n\r\n              Arkansas State's offense against the Northern Illinois defense. The Huskies rank 21st nationally in total defense and sixth in passing yards allowed, The Red Devils rank ninth in the Sun Belt in scoring and total offense, averaging 27.8 points and 375.5 total yards per game. Northern Illinois is giving up 164.6 passing yards a game and 316.9 total yards.\n\n\r\n              PLAYERS TO WATCH\n\n\r\n              Arkansas State: QB <a href=\"http://www.espn.com/college-football/player/_/id/5080403/jaylen-raynor\" target=\"_new\">Jaylen Raynor</a> is the Sun Belt freshman of the year. He has passed for 2,293 yards and 15 touchdowns while rushing for five scores. Raynor was 20-of-25 passing for 386 yards and six touchdowns against Massachusetts.\n\n\r\n              Northern Illinois: RB <a href=\"http://www.espn.com/college-football/player/_/id/4687413/antario-brown\" target=\"_new\">Antario Brown</a> is a first-team All-MAC performer who has run for 1,164 yards and 10 touchdowns. He's averaging 6.2 yards per carry, rushing for 280 yards and four TDs on just 13 carries against Akron.\n\n\r\n              FACTS AND FIGURES\n\n\r\n              Arkansas State is one of just seven FBS teams who will play in a bowl game after winning three or fewer games last year. ... Northern Illinois finished the regular season winning five of its last seven games. The Red Wolves have lost to Middle Tennessee in 2017 and beaten Florida International two years later in previous Camellia Bowl appearances. ... Arkansas State hasn't faced a MAC opponent since opening the 2016 season against Toledo. ... It's a rematch of the 2012 bowl game in Mobile, Alabama. The Huskies won 38-20 for their last bowl victory. ...The game will end the seven-year college career for Northern Illinois quarterback <a href=\"http://www.espn.com/college-football/player/_/id/4241965/rocky-lombardi\" target=\"_new\">Rocky Lombardi</a>, who has spent four years at Michigan State and three with the Huskies. He received a medical redshirt last season.\n\n\r\n              ----\n\n\r\n              AP college football: <a href=\"https://apnews.com/hub/ap-top-25-college-football-poll\">https://apnews.com/hub/ap-top-25-college-football-poll</a> and <a href=\"https://apnews.com/hub/college-football\">https://apnews.com/hub/college-football</a>"
     },
     "standings": {
         "fullViewLink": {

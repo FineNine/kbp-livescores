@@ -312,6 +312,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "30",
                         "uid": "s:20~l:23~t:30",
@@ -356,9 +358,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
                 },
                 {
                     "id": "401524059",
@@ -381,8 +381,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "9",
                         "uid": "s:20~l:23~t:9",
@@ -427,7 +425,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524063",
@@ -703,8 +703,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "295",
                         "uid": "s:20~l:23~t:295",
@@ -749,7 +747,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401520408",
@@ -772,8 +772,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "113",
                         "uid": "s:20~l:23~t:113",
@@ -818,7 +816,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401520444",
@@ -841,8 +841,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2638",
                         "uid": "s:20~l:23~t:2638",
@@ -887,7 +885,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401539476",
@@ -4564,8 +4564,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4935,7 +4935,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "1/1 vs Liberty Flames 17516 tickets left",
+                "ticketName": "1/1 vs Liberty Flames 17509 tickets left",
                 "ticketLink": "https://www.vividseats.com/fiesta-bowl-tickets-state-farm-stadium-12-30-2023--sports-ncaa-football/production/4274408?wsUser=717",
                 "type": "event"
             }
@@ -4955,101 +4955,6 @@
             "teamLink": "https://www.vividseats.com/oregon-ducks-football-tickets--sports-ncaa-football/performer/635?wsUser=717"
         }
     },
-    "videos": [
-        {
-            "source": "espn",
-            "id": 39038436,
-            "headline": "Can Liberty hang with Oregon in the Fiesta Bowl?",
-            "description": "Dan Mullen and Sam Acho preview the \"David and Goliath\" matchup between Liberty and Oregon in the Vrbo Fiesta Bowl.",
-            "ad": {
-                "sport": "ncf",
-                "bundle": "ncf_drive_through"
-            },
-            "tracking": {
-                "sportName": "ncf",
-                "leagueName": "No League",
-                "coverageType": "Analysis",
-                "trackingName": "UNPUB 1/1 1:00p COM_NCF Analysis (Can Liberty hang with Oregon in the Fiesta Bowl?) 2023/12/03 ESHEET",
-                "trackingId": "dm_231203_ncf_oregon_liberty_preview"
-            },
-            "cerebroId": "656d404bbe6ab325061fb263",
-            "lastModified": "2023-12-04T02:59:52Z",
-            "originalPublishDate": "2023-12-04T02:56:06Z",
-            "timeRestrictions": {
-                "embargoDate": "2023-12-04T02:56:06Z",
-                "expirationDate": "2024-01-01T18:00:00Z"
-            },
-            "deviceRestrictions": {
-                "type": "whitelist",
-                "devices": [
-                    "desktop",
-                    "settop",
-                    "handset",
-                    "tablet"
-                ]
-            },
-            "duration": 95,
-            "thumbnail": "https://a.espncdn.com/media/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.jpg",
-            "links": {
-                "api": {
-                    "self": {
-                        "href": "http://api.espn.com/v1/video/clips/39038436"
-                    },
-                    "artwork": {
-                        "href": "https://artwork.api.espn.com/artwork/collections/media/c49afbdf-9a29-4ff0-9610-fb0770bdaf35"
-                    }
-                },
-                "web": {
-                    "href": "https://www.espn.com/video/clip?id=39038436&ex_cid=espnapi_internal",
-                    "short": {
-                        "href": "https://www.espn.com/video/clip?id=39038436"
-                    },
-                    "self": {
-                        "href": "https://www.espn.com/video/clip?id=39038436&ex_cid=espnapi_internal"
-                    }
-                },
-                "source": {
-                    "mezzanine": {
-                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.mp4"
-                    },
-                    "flash": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.smil"
-                    },
-                    "hds": {
-                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_rel.smil/manifest.f4m"
-                    },
-                    "HLS": {
-                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview/playlist.m3u8",
-                        "HD": {
-                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview/playlist.m3u8"
-                        }
-                    },
-                    "HD": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_720p30_2896k.mp4"
-                    },
-                    "full": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_360p30_1464k.mp4"
-                    },
-                    "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_360p30_1464k.mp4"
-                },
-                "mobile": {
-                    "alert": {
-                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39038436&ex_cid=espnapi_internal"
-                    },
-                    "source": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.mp4"
-                    },
-                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436",
-                    "streaming": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436"
-                    },
-                    "progressiveDownload": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436"
-                    }
-                }
-            }
-        }
-    ],
     "header": {
         "id": "401551782",
         "uid": "s:20~l:23~e:401551782",
@@ -5405,6 +5310,101 @@
         },
         "gameNote": "Vrbo Fiesta Bowl"
     },
+    "videos": [
+        {
+            "source": "espn",
+            "id": 39038436,
+            "headline": "Can Liberty hang with Oregon in the Fiesta Bowl?",
+            "description": "Dan Mullen and Sam Acho preview the \"David and Goliath\" matchup between Liberty and Oregon in the Vrbo Fiesta Bowl.",
+            "ad": {
+                "sport": "ncf",
+                "bundle": "ncf_drive_through"
+            },
+            "tracking": {
+                "sportName": "ncf",
+                "leagueName": "No League",
+                "coverageType": "Analysis",
+                "trackingName": "UNPUB 1/1 1:00p COM_NCF Analysis (Can Liberty hang with Oregon in the Fiesta Bowl?) 2023/12/03 ESHEET",
+                "trackingId": "dm_231203_ncf_oregon_liberty_preview"
+            },
+            "cerebroId": "656d404bbe6ab325061fb263",
+            "lastModified": "2023-12-04T02:59:52Z",
+            "originalPublishDate": "2023-12-04T02:56:06Z",
+            "timeRestrictions": {
+                "embargoDate": "2023-12-04T02:56:06Z",
+                "expirationDate": "2024-01-01T18:00:00Z"
+            },
+            "deviceRestrictions": {
+                "type": "whitelist",
+                "devices": [
+                    "desktop",
+                    "settop",
+                    "handset",
+                    "tablet"
+                ]
+            },
+            "duration": 95,
+            "thumbnail": "https://a.espncdn.com/media/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.jpg",
+            "links": {
+                "api": {
+                    "self": {
+                        "href": "http://api.espn.com/v1/video/clips/39038436"
+                    },
+                    "artwork": {
+                        "href": "https://artwork.api.espn.com/artwork/collections/media/c49afbdf-9a29-4ff0-9610-fb0770bdaf35"
+                    }
+                },
+                "web": {
+                    "href": "https://www.espn.com/video/clip?id=39038436&ex_cid=espnapi_internal",
+                    "short": {
+                        "href": "https://www.espn.com/video/clip?id=39038436"
+                    },
+                    "self": {
+                        "href": "https://www.espn.com/video/clip?id=39038436&ex_cid=espnapi_internal"
+                    }
+                },
+                "source": {
+                    "mezzanine": {
+                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.mp4"
+                    },
+                    "flash": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.smil"
+                    },
+                    "hds": {
+                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_rel.smil/manifest.f4m"
+                    },
+                    "HLS": {
+                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview/playlist.m3u8",
+                        "HD": {
+                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview/playlist.m3u8"
+                        }
+                    },
+                    "HD": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_720p30_2896k.mp4"
+                    },
+                    "full": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_360p30_1464k.mp4"
+                    },
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview_360p30_1464k.mp4"
+                },
+                "mobile": {
+                    "alert": {
+                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39038436&ex_cid=espnapi_internal"
+                    },
+                    "source": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_ncf_oregon_liberty_preview/dm_231203_ncf_oregon_liberty_preview.mp4"
+                    },
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436",
+                    "streaming": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436"
+                    },
+                    "progressiveDownload": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/c49afbdf-9a29-4ff0-9610-fb0770bdaf35/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038436"
+                    }
+                }
+            }
+        }
+    ],
     "standings": {
         "fullViewLink": {
             "text": "Full Standings",

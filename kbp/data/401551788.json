@@ -156,6 +156,25 @@
                     ]
                 }
             ]
+        },
+        "weather": {
+            "temperature": 49,
+            "highTemperature": 49,
+            "lowTemperature": 49,
+            "conditionId": "35",
+            "gust": 12,
+            "precipitation": 0,
+            "link": {
+                "language": "en-US",
+                "rel": [
+                    "70112"
+                ],
+                "href": "http://www.accuweather.com/en/us/caesars-superdome-la/70112/hourly-weather-forecast/19245_poi?day=11&hbhhour=19&lang=en-us",
+                "text": "Weather",
+                "shortText": "Weather",
+                "isExternal": true,
+                "isPremium": false
+            }
         }
     },
     "lastFiveGames": [
@@ -224,8 +243,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "30",
                         "uid": "s:20~l:23~t:30",
@@ -270,7 +287,9 @@
                             "current": 20
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524056",
@@ -293,8 +312,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "254",
                         "uid": "s:20~l:23~t:254",
@@ -339,7 +356,9 @@
                             "current": 18
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524060",
@@ -431,8 +450,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "265",
                         "uid": "s:20~l:23~t:265",
@@ -477,7 +494,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401539475",
@@ -500,8 +519,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2483",
                         "uid": "s:20~l:23~t:2483",
@@ -546,7 +563,9 @@
                             "current": 5
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 }
             ]
         },
@@ -4545,8 +4564,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4916,7 +4935,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "1/1 vs Texas Longhorns 5158 tickets left",
+                "ticketName": "1/1 vs Texas Longhorns 5124 tickets left",
                 "ticketLink": "https://www.vividseats.com/sugar-bowl-tickets-caesars-superdome-1-1-2024--sports-ncaa-football/production/4280199?wsUser=717",
                 "type": "event"
             }

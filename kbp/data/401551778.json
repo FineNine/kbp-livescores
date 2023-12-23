@@ -243,6 +243,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "349",
                         "uid": "s:20~l:23~t:349",
@@ -287,9 +289,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png"
                 },
                 {
                     "id": "401520362",
@@ -450,6 +450,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "2247",
                         "uid": "s:20~l:23~t:2247",
@@ -494,9 +496,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
                 },
                 {
                     "id": "401520433",
@@ -703,6 +703,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "84",
                         "uid": "s:20~l:23~t:84",
@@ -747,9 +749,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
                 },
                 {
                     "id": "401520398",
@@ -841,6 +841,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "158",
                         "uid": "s:20~l:23~t:158",
@@ -885,9 +887,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png"
                 },
                 {
                     "id": "401520436",
@@ -4542,8 +4542,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4913,7 +4913,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "1/1 vs Wisconsin Badgers 2230 tickets left",
+                "ticketName": "1/1 vs Wisconsin Badgers 2218 tickets left",
                 "ticketLink": "https://www.vividseats.com/reliaquest-bowl-tickets-raymond-james-stadium-1-1-2024--sports-ncaa-football/production/4453906?wsUser=717",
                 "type": "event"
             }
@@ -4922,7 +4922,7 @@
             "opponentTeamName": "Wisconsin Badgers",
             "currentTeamName": "LSU Tigers",
             "venueName": "Raymond James Stadium",
-            "summary": "Tickets as low as $60",
+            "summary": "Tickets as low as $61",
             "date": "2024-01-01T17:00:00Z",
             "dateShort": "1/1",
             "dateDay": "Mon",
@@ -4933,6 +4933,101 @@
             "teamLink": "https://www.vividseats.com/lsu-tigers-football-tickets--sports-ncaa-football/performer/1003?wsUser=717"
         }
     },
+    "videos": [
+        {
+            "source": "espn",
+            "id": 39038161,
+            "headline": "LSU's Daniels in spotlight vs. Wisconsin -- if he plays",
+            "description": "All eyes will be on Tigers quarterback Jayden Daniels against the Badgers in the Jan. 1 Reliaquest Bowl, if Daniels doesn't sit it out.",
+            "ad": {
+                "sport": "ncf",
+                "bundle": "sec_now"
+            },
+            "tracking": {
+                "sportName": "ncf",
+                "leagueName": "No League",
+                "coverageType": "Analysis",
+                "trackingName": "SEC_NCF Analysis (LSU Daniels) 231203",
+                "trackingId": "dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203"
+            },
+            "cerebroId": "656d2fc9be6ab325061f9de8",
+            "lastModified": "2023-12-04T01:59:35Z",
+            "originalPublishDate": "2023-12-04T01:16:14Z",
+            "timeRestrictions": {
+                "embargoDate": "2023-12-04T01:16:14Z",
+                "expirationDate": "2024-12-07T01:16:14Z"
+            },
+            "deviceRestrictions": {
+                "type": "whitelist",
+                "devices": [
+                    "desktop",
+                    "settop",
+                    "handset",
+                    "tablet"
+                ]
+            },
+            "duration": 163,
+            "thumbnail": "https://a.espncdn.com/media/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.jpg",
+            "links": {
+                "api": {
+                    "self": {
+                        "href": "http://api.espn.com/v1/video/clips/39038161"
+                    },
+                    "artwork": {
+                        "href": "https://artwork.api.espn.com/artwork/collections/media/36ae7b3f-59ae-43cf-9a69-7de017962745"
+                    }
+                },
+                "web": {
+                    "href": "https://www.espn.com/video/clip?id=39038161&ex_cid=espnapi_internal",
+                    "short": {
+                        "href": "https://www.espn.com/video/clip?id=39038161"
+                    },
+                    "self": {
+                        "href": "https://www.espn.com/video/clip?id=39038161&ex_cid=espnapi_internal"
+                    }
+                },
+                "source": {
+                    "mezzanine": {
+                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.mp4"
+                    },
+                    "flash": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.smil"
+                    },
+                    "hds": {
+                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_rel.smil/manifest.f4m"
+                    },
+                    "HLS": {
+                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/playlist.m3u8",
+                        "HD": {
+                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/playlist.m3u8"
+                        }
+                    },
+                    "HD": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_720p30_2896k.mp4"
+                    },
+                    "full": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_360p30_1464k.mp4"
+                    },
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_360p30_1464k.mp4"
+                },
+                "mobile": {
+                    "alert": {
+                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39038161&ex_cid=espnapi_internal"
+                    },
+                    "source": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.mp4"
+                    },
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161",
+                    "streaming": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161"
+                    },
+                    "progressiveDownload": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161"
+                    }
+                }
+            }
+        }
+    ],
     "header": {
         "id": "401551778",
         "uid": "s:20~l:23~e:401551778",
@@ -5271,101 +5366,6 @@
         },
         "gameNote": "ReliaQuest Bowl"
     },
-    "videos": [
-        {
-            "source": "espn",
-            "id": 39038161,
-            "headline": "LSU's Daniels in spotlight vs. Wisconsin -- if he plays",
-            "description": "All eyes will be on Tigers quarterback Jayden Daniels against the Badgers in the Jan. 1 Reliaquest Bowl, if Daniels doesn't sit it out.",
-            "ad": {
-                "sport": "ncf",
-                "bundle": "sec_now"
-            },
-            "tracking": {
-                "sportName": "ncf",
-                "leagueName": "No League",
-                "coverageType": "Analysis",
-                "trackingName": "SEC_NCF Analysis (LSU Daniels) 231203",
-                "trackingId": "dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203"
-            },
-            "cerebroId": "656d2fc9be6ab325061f9de8",
-            "lastModified": "2023-12-04T01:59:35Z",
-            "originalPublishDate": "2023-12-04T01:16:14Z",
-            "timeRestrictions": {
-                "embargoDate": "2023-12-04T01:16:14Z",
-                "expirationDate": "2024-12-07T01:16:14Z"
-            },
-            "deviceRestrictions": {
-                "type": "whitelist",
-                "devices": [
-                    "desktop",
-                    "settop",
-                    "handset",
-                    "tablet"
-                ]
-            },
-            "duration": 163,
-            "thumbnail": "https://a.espncdn.com/media/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.jpg",
-            "links": {
-                "api": {
-                    "self": {
-                        "href": "http://api.espn.com/v1/video/clips/39038161"
-                    },
-                    "artwork": {
-                        "href": "https://artwork.api.espn.com/artwork/collections/media/36ae7b3f-59ae-43cf-9a69-7de017962745"
-                    }
-                },
-                "web": {
-                    "href": "https://www.espn.com/video/clip?id=39038161&ex_cid=espnapi_internal",
-                    "short": {
-                        "href": "https://www.espn.com/video/clip?id=39038161"
-                    },
-                    "self": {
-                        "href": "https://www.espn.com/video/clip?id=39038161&ex_cid=espnapi_internal"
-                    }
-                },
-                "source": {
-                    "mezzanine": {
-                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.mp4"
-                    },
-                    "flash": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.smil"
-                    },
-                    "hds": {
-                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_rel.smil/manifest.f4m"
-                    },
-                    "HLS": {
-                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/playlist.m3u8",
-                        "HD": {
-                            "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/playlist.m3u8"
-                        }
-                    },
-                    "HD": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_720p30_2896k.mp4"
-                    },
-                    "full": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_360p30_1464k.mp4"
-                    },
-                    "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203_360p30_1464k.mp4"
-                },
-                "mobile": {
-                    "alert": {
-                        "href": "http://m.espn.go.com/general/video/videoAlert?vid=39038161&ex_cid=espnapi_internal"
-                    },
-                    "source": {
-                        "href": "https://media.video-cdn.espn.com/motion/2023/1203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203/dm_231203_SEC_NCF_Analysis_LSU_Daniels_231203.mp4"
-                    },
-                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161",
-                    "streaming": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161"
-                    },
-                    "progressiveDownload": {
-                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/36ae7b3f-59ae-43cf-9a69-7de017962745/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39038161"
-                    }
-                }
-            }
-        }
-    ],
     "standings": {
         "fullViewLink": {
             "text": "Full Standings",

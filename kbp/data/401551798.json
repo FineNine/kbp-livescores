@@ -460,8 +460,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "154",
                         "uid": "s:20~l:23~t:154",
@@ -506,7 +504,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524065",
@@ -529,6 +529,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "24",
                         "uid": "s:20~l:23~t:24",
@@ -573,9 +575,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
                 }
             ]
         },
@@ -644,8 +644,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "12",
                         "uid": "s:20~l:23~t:12",
@@ -690,7 +688,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524046",
@@ -713,6 +713,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "38",
                         "uid": "s:20~l:23~t:38",
@@ -757,9 +759,7 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
                 },
                 {
                     "id": "401524054",
@@ -782,8 +782,6 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "W",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "24",
                         "uid": "s:20~l:23~t:24",
@@ -828,7 +826,9 @@
                             "current": 99
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF"
                 },
                 {
                     "id": "401524060",
@@ -851,6 +851,8 @@
                     "homeShootoutScore": "0",
                     "awayShootoutScore": "0",
                     "gameResult": "L",
+                    "leagueName": "NCAA - Football",
+                    "leagueAbbreviation": "NCAAF",
                     "opponent": {
                         "id": "264",
                         "uid": "s:20~l:23~t:264",
@@ -895,9 +897,7 @@
                             "current": 5
                         }
                     },
-                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
-                    "leagueName": "NCAA - Football",
-                    "leagueAbbreviation": "NCAAF"
+                    "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
                 },
                 {
                     "id": "401524063",
@@ -4552,8 +4552,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4923,7 +4923,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/29 vs Oregon State Beavers 1938 tickets left",
+                "ticketName": "12/29 vs Oregon State Beavers 1901 tickets left",
                 "ticketLink": "https://www.vividseats.com/sun-bowl-tickets-sun-bowl-stadium-12-29-2023--sports-ncaa-football/production/4465720?wsUser=717",
                 "type": "event"
             }
@@ -4932,7 +4932,7 @@
             "opponentTeamName": "Oregon State Beavers",
             "currentTeamName": "Notre Dame Fighting Irish",
             "venueName": "Sun Bowl",
-            "summary": "Tickets as low as $12",
+            "summary": "Tickets as low as $14",
             "date": "2023-12-29T19:00:00Z",
             "dateShort": "12/29",
             "dateDay": "Fri",

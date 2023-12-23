@@ -4562,8 +4562,8 @@
                         "height": 324
                     }
                 ],
-                "published": "2023-12-22T18:12:11Z",
-                "lastModified": "2023-12-22T18:12:09Z"
+                "published": "2023-12-23T01:16:37Z",
+                "lastModified": "2023-12-23T01:16:34Z"
             },
             {
                 "dataSourceIdentifier": "c8cf002823d30",
@@ -4933,7 +4933,7 @@
                 "type": "team"
             },
             {
-                "ticketName": "12/23 vs Troy Trojans 570 tickets left",
+                "ticketName": "12/23 vs Troy Trojans 640 tickets left",
                 "ticketLink": "https://www.vividseats.com/birmingham-bowl-tickets-protective-stadium-12-23-2023--sports-ncaa-football/production/4645271?wsUser=717",
                 "type": "event"
             }
@@ -4942,7 +4942,7 @@
             "opponentTeamName": "Troy Trojans",
             "currentTeamName": "Duke Blue Devils",
             "venueName": "Protective Stadium",
-            "summary": "Tickets as low as $36",
+            "summary": "Tickets as low as $46",
             "date": "2023-12-23T17:00:00Z",
             "dateShort": "12/23",
             "dateDay": "Sat",
