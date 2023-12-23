@@ -10,7 +10,11 @@ import datetime
 
 # Create your views here.
 def kbp_scores(response):
-    return HttpResponse(pd.read_csv('kbp/data/kbp.csv').to_html(index=False))
+    return HttpResponse(pd.read_csv('kbp/data/kbp.csv').to_html(
+        index=False,
+        justify='center',
+        border=5
+    ))
 
 def test(request):
     scores = load_scores()
@@ -22,33 +26,18 @@ def test(request):
     picks = load_picks()
     kbp_scores = compute_kbp_scores(picks, margins)
 
-    return HttpResponse(kbp_scores.to_html(index=False))
+    # return HttpResponse(margins.to_html(index=False))
+    return HttpResponse(kbp_scores.to_html(
+        index=False,
+        justify='center',
+        border=5
+    ))
 
-def test_update(request):
+def updating(request):
     return HttpResponse(create_update_list(pd.read_csv('kbp/data/scores_new.csv')))
 
 def index(request):
-    # DEV DATA
-    test = ['401551470','401551733','401551746']
-
-
-    scores = load_scores()
-    games_to_update = create_update_list(scores)
-
-    game_data = fake_request(test[0])
-
-    for game in game_data:
-        teams = get_teams(scores, convert_to_utf(game['header']['id']), test[0])
-        scores = update_scores(scores, game, teams)
-        # CHECK IF FINAL
-
-    margins = compute_margins(scores)
-    picks = load_picks()
-
-
-    kbp_scores = compute_kbp_scores(picks, margins)
-
-    return HttpResponse(kbp_scores.to_html(index=False))
+    return HttpResponse("KBP Core Logic")
 
 def update_scores(scores):
     game_ids = create_update_list(scores)
@@ -57,8 +46,8 @@ def update_scores(scores):
     # game_data = request_live_score(game_ids[0])
     data = []
     for id in game_ids:
-        game_data = fake_request(id)
-        # game_data = request_live_score(id)
+        # game_data = fake_request(id)
+        game_data = request_live_score(id)
         # print(game_data)
         # print(dict(game_data))
         data += format_game_data(id, game_data)
@@ -155,22 +144,42 @@ def compute_margins(scores):
     loser_scores.columns = ['Bowl','LoserPoints']
     margins = temp_scores.merge(loser_scores, on='Bowl')
     margins['Margin'] = margins['Points'] - margins['LoserPoints']
-    return margins[margins['Margin'] != 0]
+    margins['Margin'] = margins['Margin'].apply(lambda x: 1000 if x == 0 else x)
+    return margins[(margins['State'] != 'pre')]
 
 def compute_kbp_scores(picks, margins):
     temp_picks = picks.copy()
     temp_margins = margins.copy()
-    temp_picks = temp_picks.merge(temp_margins[['Bowl','Team','Margin']], on=['Bowl','Team'])
+
+
+
+    temp_picks = temp_picks.merge(temp_margins[['Bowl','Team','Margin','isFinal']], on=['Bowl','Team'])
     temp_picks['Diff'] = temp_picks['Points'] - temp_picks['Margin']
     temp_picks['Diff'] = temp_picks['Diff'].abs()
     temp_picks['Score'] = temp_picks.Diff.apply(scoring_alg)
-    final_scores = temp_picks.groupby('Name')['Score'].sum().reset_index()
+
+    static = temp_picks[temp_picks['isFinal']]
+    live = temp_picks[~temp_picks['isFinal'].astype(bool)]
+
+    final_scores = static.groupby('Name')['Score'].sum().reset_index()
+    live_scores = live.groupby('Name')['Score'].sum().reset_index()
+    live_scores.columns = ['Name','Live Score']
+
+    if len(live_scores) == 0:
+        live_scores = pd.DataFrame({
+            'Name':final_scores.Name,
+            'Live Score': [0]*len(final_scores)
+        })
+    final_scores = final_scores.merge(live_scores, on='Name', how='left')
     final_scores['Rank'] = final_scores.Score.rank(method='min', ascending=False).astype(int)
+    final_scores['Live Total'] = final_scores['Score'] + final_scores['Live Score']
+    final_scores['Live Rank'] = final_scores['Live Total'].rank(method='min', ascending=False).astype(int)
 
     names = load_nicknames()
     final_scores = final_scores.merge(names, on='Name')
-    final_scores = final_scores[['Rank','Nickname','Score']]
-    final_scores.columns = ['Rank','Name','Score']
+    final_scores[' '] = '---------'
+    final_scores = final_scores[['Rank','Nickname','Score',' ','Live Score','Live Total','Live Rank']]
+    final_scores.columns = ['Rank','Name','Score',' ','Live Score','Live Total','Live Rank']
     return final_scores.sort_values('Rank')
 
 def convert_to_utf(string):
@@ -189,7 +198,7 @@ def fake_request(id):
 def request_live_score(id):
     print(f"Getting game {id}")
     data = requests.get(f"http://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event={id}").json()
-    write_json_to_file(data, id)
+    # write_json_to_file(data, id)
     return data
 
 def load_scores():
@@ -225,6 +234,8 @@ def write_json_to_file(data, id, directory="kbp/data"):
 
 def scoring_alg(value):
     if np.isnan(value):
+        return 0
+    elif value > 100:
         return 0
     elif value == 0:
         return 10

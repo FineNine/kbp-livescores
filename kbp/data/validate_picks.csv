@@ -1,0 +1,639 @@
+Name,Bowl,Team,Points,Margin,isFinal,Diff,Score
+Ethan Hsu,Myrtle Beach Bowl,Ohio (Favorite),14,20,True,6,6
+Chris Harrison,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Craig Garbarini,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Tristan Lee,Myrtle Beach Bowl,Ohio (Favorite),4,20,True,16,5
+Kevin Jupena,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Josh Tiegreen,Myrtle Beach Bowl,Ohio (Favorite),8,20,True,12,5
+Mark Junk,Myrtle Beach Bowl,Ohio (Favorite),5,20,True,15,5
+Peter Cook,Myrtle Beach Bowl,Ohio (Favorite),7,20,True,13,5
+John Wilton,Myrtle Beach Bowl,Ohio (Favorite),7,20,True,13,5
+Patricia Hash,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Brady Junk,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Fred Kirchmann,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Spencer Wilson,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Paul Phillips,Myrtle Beach Bowl,Ohio (Favorite),13,20,True,7,6
+Greg Lucas,Myrtle Beach Bowl,Ohio (Favorite),4,20,True,16,5
+Jonathan Rogowski,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Thomas Nesbitt,Myrtle Beach Bowl,Ohio (Favorite),4,20,True,16,5
+John Junk,Myrtle Beach Bowl,Ohio (Favorite),4,20,True,16,5
+Isaac Kirchmann,Myrtle Beach Bowl,Ohio (Favorite),66,20,True,46,5
+Damon Tweedy,Myrtle Beach Bowl,Ohio (Favorite),8,20,True,12,5
+Dan Kirchmann,Myrtle Beach Bowl,Ohio (Favorite),2,20,True,18,5
+Courtney Kirchmann,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Aiden Murphy,Myrtle Beach Bowl,Ohio (Favorite),3,20,True,17,5
+Johnny Bean,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Jake Riegert,Myrtle Beach Bowl,Ohio (Favorite),7,20,True,13,5
+David Pasley,Myrtle Beach Bowl,Ohio (Favorite),10,20,True,10,5
+Kelsey Pasley,Myrtle Beach Bowl,Ohio (Favorite),3,20,True,17,5
+Tia Bittner,Myrtle Beach Bowl,Ohio (Favorite),14,20,True,6,6
+Tyler Kirchmann,Myrtle Beach Bowl,Ohio (Favorite),3,20,True,17,5
+Dax Wishart,Myrtle Beach Bowl,Ohio (Favorite),6,20,True,14,5
+Jane Silver,Myrtle Beach Bowl,Ohio (Favorite),7,20,True,13,5
+Alvin Thompson,Myrtle Beach Bowl,Ohio (Favorite),14,20,True,6,6
+Chris Head,Myrtle Beach Bowl,Georgia Southern,7,1000,True,993,0
+Monica Cook,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Ray Barrett,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Cab Stalions,Myrtle Beach Bowl,Georgia Southern,8,1000,True,992,0
+Eric Kirchmann,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+Roit Person,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+David Novosad,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Dirk Phillips,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Larry Welch,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Connie Kirchmann,Myrtle Beach Bowl,Georgia Southern,6,1000,True,994,0
+Justin Darden,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+Steven Junk,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Brendan White,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+Adam Silver,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Sandra Saundercook,Myrtle Beach Bowl,Georgia Southern,6,1000,True,994,0
+Joe Saundercook,Myrtle Beach Bowl,Georgia Southern,10,1000,True,990,0
+Reed Farnen,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Cole Wilson,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Coco Pasley,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Suz Bittner,Myrtle Beach Bowl,Georgia Southern,7,1000,True,993,0
+Renee Bittner,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Rylan Pasley,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+Brett Expert Gibbons,Myrtle Beach Bowl,Georgia Southern,3,1000,True,997,0
+Paul Rosser,Myrtle Beach Bowl,Georgia Southern,7,1000,True,993,0
+Maggie Jenkins,Myrtle Beach Bowl,Georgia Southern,7,1000,True,993,0
+Jack Saundercook,Myrtle Beach Bowl,Georgia Southern,4,1000,True,996,0
+Ethan Hsu,Cricket Celebration Bowl,Howard,3,1000,True,997,0
+Ray Barrett,Cricket Celebration Bowl,Howard,10,1000,True,990,0
+Roit Person,Cricket Celebration Bowl,Howard,2,1000,True,998,0
+David Novosad,Cricket Celebration Bowl,Howard,3,1000,True,997,0
+Courtney Kirchmann,Cricket Celebration Bowl,Howard,3,1000,True,997,0
+Sandra Saundercook,Cricket Celebration Bowl,Howard,3,1000,True,997,0
+David Pasley,Cricket Celebration Bowl,Howard,6,1000,True,994,0
+Rylan Pasley,Cricket Celebration Bowl,Howard,4,1000,True,996,0
+Chris Head,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Chris Harrison,Cricket Celebration Bowl,Florida A&M (Favorite),4,4,True,0,10
+Craig Garbarini,Cricket Celebration Bowl,Florida A&M (Favorite),13,4,True,9,5
+Tristan Lee,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Kevin Jupena,Cricket Celebration Bowl,Florida A&M (Favorite),17,4,True,13,5
+Josh Tiegreen,Cricket Celebration Bowl,Florida A&M (Favorite),12,4,True,8,5
+Mark Junk,Cricket Celebration Bowl,Florida A&M (Favorite),4,4,True,0,10
+Monica Cook,Cricket Celebration Bowl,Florida A&M (Favorite),3,4,True,1,8
+Peter Cook,Cricket Celebration Bowl,Florida A&M (Favorite),3,4,True,1,8
+John Wilton,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Patricia Hash,Cricket Celebration Bowl,Florida A&M (Favorite),5,4,True,1,8
+Brady Junk,Cricket Celebration Bowl,Florida A&M (Favorite),17,4,True,13,5
+Fred Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Cab Stalions,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Eric Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Spencer Wilson,Cricket Celebration Bowl,Florida A&M (Favorite),14,4,True,10,5
+Paul Phillips,Cricket Celebration Bowl,Florida A&M (Favorite),9,4,True,5,6
+Greg Lucas,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Jonathan Rogowski,Cricket Celebration Bowl,Florida A&M (Favorite),4,4,True,0,10
+Thomas Nesbitt,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+John Junk,Cricket Celebration Bowl,Florida A&M (Favorite),8,4,True,4,6
+Isaac Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),65,4,True,61,5
+Damon Tweedy,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Dan Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),6,4,True,2,8
+Dirk Phillips,Cricket Celebration Bowl,Florida A&M (Favorite),5,4,True,1,8
+Larry Welch,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Connie Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Justin Darden,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Steven Junk,Cricket Celebration Bowl,Florida A&M (Favorite),9,4,True,5,6
+Brendan White,Cricket Celebration Bowl,Florida A&M (Favorite),14,4,True,10,5
+Adam Silver,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Joe Saundercook,Cricket Celebration Bowl,Florida A&M (Favorite),2,4,True,2,8
+Aiden Murphy,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Johnny Bean,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Jake Riegert,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Reed Farnen,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Cole Wilson,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Coco Pasley,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Suz Bittner,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Kelsey Pasley,Cricket Celebration Bowl,Florida A&M (Favorite),6,4,True,2,8
+Tia Bittner,Cricket Celebration Bowl,Florida A&M (Favorite),21,4,True,17,5
+Renee Bittner,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Brett Expert Gibbons,Cricket Celebration Bowl,Florida A&M (Favorite),18,4,True,14,5
+Paul Rosser,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Maggie Jenkins,Cricket Celebration Bowl,Florida A&M (Favorite),13,4,True,9,5
+Jack Saundercook,Cricket Celebration Bowl,Florida A&M (Favorite),8,4,True,4,6
+Tyler Kirchmann,Cricket Celebration Bowl,Florida A&M (Favorite),7,4,True,3,8
+Dax Wishart,Cricket Celebration Bowl,Florida A&M (Favorite),3,4,True,1,8
+Jane Silver,Cricket Celebration Bowl,Florida A&M (Favorite),3,4,True,1,8
+Alvin Thompson,Cricket Celebration Bowl,Florida A&M (Favorite),10,4,True,6,6
+Ethan Hsu,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Chris Head,RL Carriers New Orleans Bowl,Louisiana,7,1000,True,993,0
+Craig Garbarini,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Kevin Jupena,RL Carriers New Orleans Bowl,Louisiana,4,1000,True,996,0
+Josh Tiegreen,RL Carriers New Orleans Bowl,Louisiana,5,1000,True,995,0
+Patricia Hash,RL Carriers New Orleans Bowl,Louisiana,6,1000,True,994,0
+Spencer Wilson,RL Carriers New Orleans Bowl,Louisiana,6,1000,True,994,0
+Greg Lucas,RL Carriers New Orleans Bowl,Louisiana,2,1000,True,998,0
+John Junk,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Roit Person,RL Carriers New Orleans Bowl,Louisiana,4,1000,True,996,0
+David Novosad,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Damon Tweedy,RL Carriers New Orleans Bowl,Louisiana,4,1000,True,996,0
+Courtney Kirchmann,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Aiden Murphy,RL Carriers New Orleans Bowl,Louisiana,6,1000,True,994,0
+Johnny Bean,RL Carriers New Orleans Bowl,Louisiana,6,1000,True,994,0
+Reed Farnen,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Coco Pasley,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Rylan Pasley,RL Carriers New Orleans Bowl,Louisiana,4,1000,True,996,0
+Paul Rosser,RL Carriers New Orleans Bowl,Louisiana,4,1000,True,996,0
+Maggie Jenkins,RL Carriers New Orleans Bowl,Louisiana,7,1000,True,993,0
+Tyler Kirchmann,RL Carriers New Orleans Bowl,Louisiana,3,1000,True,997,0
+Jane Silver,RL Carriers New Orleans Bowl,Louisiana,7,1000,True,993,0
+Chris Harrison,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+Tristan Lee,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),10,3,True,7,6
+Mark Junk,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Monica Cook,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Peter Cook,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+John Wilton,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),10,3,True,7,6
+Ray Barrett,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),14,3,True,11,5
+Brady Junk,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+Fred Kirchmann,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),9,3,True,6,6
+Cab Stalions,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),8,3,True,5,6
+Eric Kirchmann,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),4,3,True,1,8
+Paul Phillips,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),6,3,True,3,8
+Jonathan Rogowski,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),14,3,True,11,5
+Thomas Nesbitt,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),10,3,True,7,6
+Isaac Kirchmann,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),28,3,True,25,5
+Dan Kirchmann,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Dirk Phillips,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Larry Welch,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+Connie Kirchmann,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),6,3,True,3,8
+Justin Darden,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Steven Junk,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Brendan White,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),4,3,True,1,8
+Adam Silver,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Sandra Saundercook,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+Joe Saundercook,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),11,3,True,8,5
+Jake Riegert,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),7,3,True,4,6
+Cole Wilson,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),6,3,True,3,8
+David Pasley,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),14,3,True,11,5
+Suz Bittner,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),35,3,True,32,5
+Kelsey Pasley,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),2,3,True,1,8
+Tia Bittner,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),10,3,True,7,6
+Renee Bittner,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),3,3,True,0,10
+Brett Expert Gibbons,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),10,3,True,7,6
+Jack Saundercook,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),4,3,True,1,8
+Dax Wishart,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),6,3,True,3,8
+Alvin Thompson,RL Carriers New Orleans Bowl,Jacksonville State (Favorite),9,3,True,6,6
+Ethan Hsu,Avocados From Mexico Cure Bowl,Miami (OH),10,1000,True,990,0
+Chris Head,Avocados From Mexico Cure Bowl,Miami (OH),3,1000,True,997,0
+Chris Harrison,Avocados From Mexico Cure Bowl,Miami (OH),3,1000,True,997,0
+Kevin Jupena,Avocados From Mexico Cure Bowl,Miami (OH),6,1000,True,994,0
+Brady Junk,Avocados From Mexico Cure Bowl,Miami (OH),10,1000,True,990,0
+Paul Phillips,Avocados From Mexico Cure Bowl,Miami (OH),13,1000,True,987,0
+Thomas Nesbitt,Avocados From Mexico Cure Bowl,Miami (OH),3,1000,True,997,0
+Isaac Kirchmann,Avocados From Mexico Cure Bowl,Miami (OH),19,1000,True,981,0
+Roit Person,Avocados From Mexico Cure Bowl,Miami (OH),6,1000,True,994,0
+David Novosad,Avocados From Mexico Cure Bowl,Miami (OH),3,1000,True,997,0
+Aiden Murphy,Avocados From Mexico Cure Bowl,Miami (OH),8,1000,True,992,0
+Jake Riegert,Avocados From Mexico Cure Bowl,Miami (OH),3,1000,True,997,0
+Rylan Pasley,Avocados From Mexico Cure Bowl,Miami (OH),4,1000,True,996,0
+Craig Garbarini,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Tristan Lee,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),3,4,True,1,8
+Josh Tiegreen,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),6,4,True,2,8
+Mark Junk,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),4,4,True,0,10
+Monica Cook,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),3,4,True,1,8
+Peter Cook,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),3,4,True,1,8
+John Wilton,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),8,4,True,4,6
+Ray Barrett,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Patricia Hash,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),8,4,True,4,6
+Fred Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),3,4,True,1,8
+Cab Stalions,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Eric Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),7,4,True,3,8
+Spencer Wilson,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Greg Lucas,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),4,4,True,0,10
+Jonathan Rogowski,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+John Junk,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),5,4,True,1,8
+Damon Tweedy,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Dan Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),4,4,True,0,10
+Dirk Phillips,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),5,4,True,1,8
+Larry Welch,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Connie Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Justin Darden,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Steven Junk,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),7,4,True,3,8
+Brendan White,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Adam Silver,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Courtney Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Sandra Saundercook,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),9,4,True,5,6
+Joe Saundercook,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Johnny Bean,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),11,4,True,7,6
+Reed Farnen,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),7,4,True,3,8
+Cole Wilson,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),13,4,True,9,5
+David Pasley,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Coco Pasley,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Suz Bittner,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),14,4,True,10,5
+Kelsey Pasley,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),6,4,True,2,8
+Tia Bittner,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),7,4,True,3,8
+Renee Bittner,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),7,4,True,3,8
+Brett Expert Gibbons,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),5,4,True,1,8
+Paul Rosser,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),8,4,True,4,6
+Maggie Jenkins,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Jack Saundercook,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),8,4,True,4,6
+Tyler Kirchmann,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),10,4,True,6,6
+Dax Wishart,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),9,4,True,5,6
+Jane Silver,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),5,4,True,1,8
+Alvin Thompson,Avocados From Mexico Cure Bowl,Appalachian State (Favorite),17,4,True,13,5
+Ethan Hsu,Isleta New Mexico Bowl,New Mexico State (Favorite),7,1000,True,993,0
+Chris Harrison,Isleta New Mexico Bowl,New Mexico State (Favorite),11,1000,True,989,0
+Kevin Jupena,Isleta New Mexico Bowl,New Mexico State (Favorite),7,1000,True,993,0
+Josh Tiegreen,Isleta New Mexico Bowl,New Mexico State (Favorite),9,1000,True,991,0
+Mark Junk,Isleta New Mexico Bowl,New Mexico State (Favorite),2,1000,True,998,0
+Monica Cook,Isleta New Mexico Bowl,New Mexico State (Favorite),5,1000,True,995,0
+Peter Cook,Isleta New Mexico Bowl,New Mexico State (Favorite),7,1000,True,993,0
+John Wilton,Isleta New Mexico Bowl,New Mexico State (Favorite),6,1000,True,994,0
+Brady Junk,Isleta New Mexico Bowl,New Mexico State (Favorite),10,1000,True,990,0
+Fred Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),13,1000,True,987,0
+Eric Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Spencer Wilson,Isleta New Mexico Bowl,New Mexico State (Favorite),11,1000,True,989,0
+Paul Phillips,Isleta New Mexico Bowl,New Mexico State (Favorite),14,1000,True,986,0
+Greg Lucas,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Isaac Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),32,1000,True,968,0
+Damon Tweedy,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Dan Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Dirk Phillips,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Larry Welch,Isleta New Mexico Bowl,New Mexico State (Favorite),5,1000,True,995,0
+Connie Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),10,1000,True,990,0
+Justin Darden,Isleta New Mexico Bowl,New Mexico State (Favorite),1,1000,True,999,0
+Steven Junk,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Brendan White,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Adam Silver,Isleta New Mexico Bowl,New Mexico State (Favorite),5,1000,True,995,0
+Courtney Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),7,1000,True,993,0
+Aiden Murphy,Isleta New Mexico Bowl,New Mexico State (Favorite),10,1000,True,990,0
+Jake Riegert,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Reed Farnen,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Cole Wilson,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Coco Pasley,Isleta New Mexico Bowl,New Mexico State (Favorite),6,1000,True,994,0
+Suz Bittner,Isleta New Mexico Bowl,New Mexico State (Favorite),21,1000,True,979,0
+Kelsey Pasley,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Renee Bittner,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Rylan Pasley,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Brett Expert Gibbons,Isleta New Mexico Bowl,New Mexico State (Favorite),17,1000,True,983,0
+Maggie Jenkins,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Jack Saundercook,Isleta New Mexico Bowl,New Mexico State (Favorite),4,1000,True,996,0
+Tyler Kirchmann,Isleta New Mexico Bowl,New Mexico State (Favorite),3,1000,True,997,0
+Jane Silver,Isleta New Mexico Bowl,New Mexico State (Favorite),6,1000,True,994,0
+Alvin Thompson,Isleta New Mexico Bowl,New Mexico State (Favorite),12,1000,True,988,0
+Chris Head,Isleta New Mexico Bowl,Fresno State,7,27,True,20,5
+Craig Garbarini,Isleta New Mexico Bowl,Fresno State,4,27,True,23,5
+Tristan Lee,Isleta New Mexico Bowl,Fresno State,3,27,True,24,5
+Ray Barrett,Isleta New Mexico Bowl,Fresno State,7,27,True,20,5
+Patricia Hash,Isleta New Mexico Bowl,Fresno State,6,27,True,21,5
+Cab Stalions,Isleta New Mexico Bowl,Fresno State,5,27,True,22,5
+Jonathan Rogowski,Isleta New Mexico Bowl,Fresno State,4,27,True,23,5
+Thomas Nesbitt,Isleta New Mexico Bowl,Fresno State,4,27,True,23,5
+John Junk,Isleta New Mexico Bowl,Fresno State,10,27,True,17,5
+Roit Person,Isleta New Mexico Bowl,Fresno State,3,27,True,24,5
+David Novosad,Isleta New Mexico Bowl,Fresno State,3,27,True,24,5
+Sandra Saundercook,Isleta New Mexico Bowl,Fresno State,1,27,True,26,5
+Joe Saundercook,Isleta New Mexico Bowl,Fresno State,1,27,True,26,5
+Johnny Bean,Isleta New Mexico Bowl,Fresno State,1,27,True,26,5
+David Pasley,Isleta New Mexico Bowl,Fresno State,3,27,True,24,5
+Tia Bittner,Isleta New Mexico Bowl,Fresno State,7,27,True,20,5
+Paul Rosser,Isleta New Mexico Bowl,Fresno State,4,27,True,23,5
+Dax Wishart,Isleta New Mexico Bowl,Fresno State,2,27,True,25,5
+Ethan Hsu,LA Bowl,UCLA (Favorite),3,13,True,10,5
+Chris Harrison,LA Bowl,UCLA (Favorite),6,13,True,7,6
+Craig Garbarini,LA Bowl,UCLA (Favorite),7,13,True,6,6
+Tristan Lee,LA Bowl,UCLA (Favorite),14,13,True,1,8
+Peter Cook,LA Bowl,UCLA (Favorite),7,13,True,6,6
+John Wilton,LA Bowl,UCLA (Favorite),10,13,True,3,8
+Ray Barrett,LA Bowl,UCLA (Favorite),3,13,True,10,5
+Patricia Hash,LA Bowl,UCLA (Favorite),9,13,True,4,6
+Fred Kirchmann,LA Bowl,UCLA (Favorite),14,13,True,1,8
+Eric Kirchmann,LA Bowl,UCLA (Favorite),14,13,True,1,8
+John Junk,LA Bowl,UCLA (Favorite),3,13,True,10,5
+Isaac Kirchmann,LA Bowl,UCLA (Favorite),52,13,True,39,5
+Dan Kirchmann,LA Bowl,UCLA (Favorite),2,13,True,11,5
+Dirk Phillips,LA Bowl,UCLA (Favorite),3,13,True,10,5
+Connie Kirchmann,LA Bowl,UCLA (Favorite),7,13,True,6,6
+Steven Junk,LA Bowl,UCLA (Favorite),4,13,True,9,5
+Brendan White,LA Bowl,UCLA (Favorite),14,13,True,1,8
+Adam Silver,LA Bowl,UCLA (Favorite),6,13,True,7,6
+Courtney Kirchmann,LA Bowl,UCLA (Favorite),6,13,True,7,6
+Sandra Saundercook,LA Bowl,UCLA (Favorite),6,13,True,7,6
+Aiden Murphy,LA Bowl,UCLA (Favorite),7,13,True,6,6
+Johnny Bean,LA Bowl,UCLA (Favorite),10,13,True,3,8
+Jake Riegert,LA Bowl,UCLA (Favorite),7,13,True,6,6
+Reed Farnen,LA Bowl,UCLA (Favorite),5,13,True,8,5
+David Pasley,LA Bowl,UCLA (Favorite),17,13,True,4,6
+Suz Bittner,LA Bowl,UCLA (Favorite),10,13,True,3,8
+Tia Bittner,LA Bowl,UCLA (Favorite),15,13,True,2,8
+Renee Bittner,LA Bowl,UCLA (Favorite),10,13,True,3,8
+Rylan Pasley,LA Bowl,UCLA (Favorite),4,13,True,9,5
+Maggie Jenkins,LA Bowl,UCLA (Favorite),10,13,True,3,8
+Jack Saundercook,LA Bowl,UCLA (Favorite),4,13,True,9,5
+Dax Wishart,LA Bowl,UCLA (Favorite),6,13,True,7,6
+Jane Silver,LA Bowl,UCLA (Favorite),5,13,True,8,5
+Alvin Thompson,LA Bowl,UCLA (Favorite),9,13,True,4,6
+Chris Head,LA Bowl,Boise State,10,1000,True,990,0
+Kevin Jupena,LA Bowl,Boise State,7,1000,True,993,0
+Josh Tiegreen,LA Bowl,Boise State,6,1000,True,994,0
+Mark Junk,LA Bowl,Boise State,8,1000,True,992,0
+Monica Cook,LA Bowl,Boise State,3,1000,True,997,0
+Brady Junk,LA Bowl,Boise State,7,1000,True,993,0
+Cab Stalions,LA Bowl,Boise State,6,1000,True,994,0
+Spencer Wilson,LA Bowl,Boise State,6,1000,True,994,0
+Paul Phillips,LA Bowl,Boise State,4,1000,True,996,0
+Greg Lucas,LA Bowl,Boise State,4,1000,True,996,0
+Jonathan Rogowski,LA Bowl,Boise State,3,1000,True,997,0
+Thomas Nesbitt,LA Bowl,Boise State,7,1000,True,993,0
+Roit Person,LA Bowl,Boise State,5,1000,True,995,0
+David Novosad,LA Bowl,Boise State,3,1000,True,997,0
+Damon Tweedy,LA Bowl,Boise State,4,1000,True,996,0
+Larry Welch,LA Bowl,Boise State,7,1000,True,993,0
+Justin Darden,LA Bowl,Boise State,3,1000,True,997,0
+Joe Saundercook,LA Bowl,Boise State,3,1000,True,997,0
+Cole Wilson,LA Bowl,Boise State,4,1000,True,996,0
+Coco Pasley,LA Bowl,Boise State,10,1000,True,990,0
+Kelsey Pasley,LA Bowl,Boise State,6,1000,True,994,0
+Brett Expert Gibbons,LA Bowl,Boise State,3,1000,True,997,0
+Paul Rosser,LA Bowl,Boise State,8,1000,True,992,0
+Tyler Kirchmann,LA Bowl,Boise State,10,1000,True,990,0
+Ethan Hsu,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Chris Harrison,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Tristan Lee,Radiance Technologies Independence Bowl,Texas Tech (Favorite),4,20,True,16,5
+Kevin Jupena,Radiance Technologies Independence Bowl,Texas Tech (Favorite),13,20,True,7,6
+Mark Junk,Radiance Technologies Independence Bowl,Texas Tech (Favorite),5,20,True,15,5
+Monica Cook,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Peter Cook,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+John Wilton,Radiance Technologies Independence Bowl,Texas Tech (Favorite),8,20,True,12,5
+Ray Barrett,Radiance Technologies Independence Bowl,Texas Tech (Favorite),10,20,True,10,5
+Patricia Hash,Radiance Technologies Independence Bowl,Texas Tech (Favorite),9,20,True,11,5
+Brady Junk,Radiance Technologies Independence Bowl,Texas Tech (Favorite),10,20,True,10,5
+Fred Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),17,20,True,3,8
+Cab Stalions,Radiance Technologies Independence Bowl,Texas Tech (Favorite),8,20,True,12,5
+Eric Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),10,20,True,10,5
+Spencer Wilson,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Greg Lucas,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Jonathan Rogowski,Radiance Technologies Independence Bowl,Texas Tech (Favorite),4,20,True,16,5
+John Junk,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Isaac Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),36,20,True,16,5
+Damon Tweedy,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Dan Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Dirk Phillips,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Connie Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),10,20,True,10,5
+Justin Darden,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Steven Junk,Radiance Technologies Independence Bowl,Texas Tech (Favorite),9,20,True,11,5
+Brendan White,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Adam Silver,Radiance Technologies Independence Bowl,Texas Tech (Favorite),6,20,True,14,5
+Courtney Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Sandra Saundercook,Radiance Technologies Independence Bowl,Texas Tech (Favorite),1,20,True,19,5
+Joe Saundercook,Radiance Technologies Independence Bowl,Texas Tech (Favorite),8,20,True,12,5
+Johnny Bean,Radiance Technologies Independence Bowl,Texas Tech (Favorite),5,20,True,15,5
+Jake Riegert,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Reed Farnen,Radiance Technologies Independence Bowl,Texas Tech (Favorite),7,20,True,13,5
+Cole Wilson,Radiance Technologies Independence Bowl,Texas Tech (Favorite),16,20,True,4,6
+Coco Pasley,Radiance Technologies Independence Bowl,Texas Tech (Favorite),13,20,True,7,6
+Suz Bittner,Radiance Technologies Independence Bowl,Texas Tech (Favorite),10,20,True,10,5
+Kelsey Pasley,Radiance Technologies Independence Bowl,Texas Tech (Favorite),4,20,True,16,5
+Tia Bittner,Radiance Technologies Independence Bowl,Texas Tech (Favorite),20,20,True,0,10
+Renee Bittner,Radiance Technologies Independence Bowl,Texas Tech (Favorite),6,20,True,14,5
+Rylan Pasley,Radiance Technologies Independence Bowl,Texas Tech (Favorite),4,20,True,16,5
+Paul Rosser,Radiance Technologies Independence Bowl,Texas Tech (Favorite),9,20,True,11,5
+Maggie Jenkins,Radiance Technologies Independence Bowl,Texas Tech (Favorite),14,20,True,6,6
+Jack Saundercook,Radiance Technologies Independence Bowl,Texas Tech (Favorite),8,20,True,12,5
+Tyler Kirchmann,Radiance Technologies Independence Bowl,Texas Tech (Favorite),3,20,True,17,5
+Dax Wishart,Radiance Technologies Independence Bowl,Texas Tech (Favorite),13,20,True,7,6
+Jane Silver,Radiance Technologies Independence Bowl,Texas Tech (Favorite),4,20,True,16,5
+Alvin Thompson,Radiance Technologies Independence Bowl,Texas Tech (Favorite),17,20,True,3,8
+Chris Head,Radiance Technologies Independence Bowl,California,7,1000,True,993,0
+Craig Garbarini,Radiance Technologies Independence Bowl,California,1,1000,True,999,0
+Josh Tiegreen,Radiance Technologies Independence Bowl,California,7,1000,True,993,0
+Paul Phillips,Radiance Technologies Independence Bowl,California,7,1000,True,993,0
+Thomas Nesbitt,Radiance Technologies Independence Bowl,California,4,1000,True,996,0
+Roit Person,Radiance Technologies Independence Bowl,California,4,1000,True,996,0
+David Novosad,Radiance Technologies Independence Bowl,California,3,1000,True,997,0
+Larry Welch,Radiance Technologies Independence Bowl,California,14,1000,True,986,0
+Aiden Murphy,Radiance Technologies Independence Bowl,California,5,1000,True,995,0
+David Pasley,Radiance Technologies Independence Bowl,California,6,1000,True,994,0
+Brett Expert Gibbons,Radiance Technologies Independence Bowl,California,13,1000,True,987,0
+Ethan Hsu,Famous Toastery Bowl,Western Kentucky (Favorite),4,3,True,1,8
+Chris Harrison,Famous Toastery Bowl,Western Kentucky (Favorite),8,3,True,5,6
+Craig Garbarini,Famous Toastery Bowl,Western Kentucky (Favorite),12,3,True,9,5
+Tristan Lee,Famous Toastery Bowl,Western Kentucky (Favorite),5,3,True,2,8
+Kevin Jupena,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+Mark Junk,Famous Toastery Bowl,Western Kentucky (Favorite),2,3,True,1,8
+Monica Cook,Famous Toastery Bowl,Western Kentucky (Favorite),1,3,True,2,8
+Peter Cook,Famous Toastery Bowl,Western Kentucky (Favorite),7,3,True,4,6
+John Wilton,Famous Toastery Bowl,Western Kentucky (Favorite),5,3,True,2,8
+Patricia Hash,Famous Toastery Bowl,Western Kentucky (Favorite),7,3,True,4,6
+Eric Kirchmann,Famous Toastery Bowl,Western Kentucky (Favorite),4,3,True,1,8
+Spencer Wilson,Famous Toastery Bowl,Western Kentucky (Favorite),9,3,True,6,6
+Paul Phillips,Famous Toastery Bowl,Western Kentucky (Favorite),10,3,True,7,6
+Greg Lucas,Famous Toastery Bowl,Western Kentucky (Favorite),2,3,True,1,8
+Thomas Nesbitt,Famous Toastery Bowl,Western Kentucky (Favorite),10,3,True,7,6
+John Junk,Famous Toastery Bowl,Western Kentucky (Favorite),7,3,True,4,6
+Isaac Kirchmann,Famous Toastery Bowl,Western Kentucky (Favorite),10,3,True,7,6
+Dan Kirchmann,Famous Toastery Bowl,Western Kentucky (Favorite),1,3,True,2,8
+Dirk Phillips,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+Larry Welch,Famous Toastery Bowl,Western Kentucky (Favorite),13,3,True,10,5
+Courtney Kirchmann,Famous Toastery Bowl,Western Kentucky (Favorite),10,3,True,7,6
+Johnny Bean,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+Reed Farnen,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+Cole Wilson,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+David Pasley,Famous Toastery Bowl,Western Kentucky (Favorite),13,3,True,10,5
+Coco Pasley,Famous Toastery Bowl,Western Kentucky (Favorite),10,3,True,7,6
+Tia Bittner,Famous Toastery Bowl,Western Kentucky (Favorite),12,3,True,9,5
+Rylan Pasley,Famous Toastery Bowl,Western Kentucky (Favorite),4,3,True,1,8
+Jane Silver,Famous Toastery Bowl,Western Kentucky (Favorite),3,3,True,0,10
+Alvin Thompson,Famous Toastery Bowl,Western Kentucky (Favorite),14,3,True,11,5
+Chris Head,Famous Toastery Bowl,Old Dominion,7,1000,True,993,0
+Josh Tiegreen,Famous Toastery Bowl,Old Dominion,7,1000,True,993,0
+Ray Barrett,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Brady Junk,Famous Toastery Bowl,Old Dominion,7,1000,True,993,0
+Fred Kirchmann,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Cab Stalions,Famous Toastery Bowl,Old Dominion,8,1000,True,992,0
+Jonathan Rogowski,Famous Toastery Bowl,Old Dominion,4,1000,True,996,0
+Roit Person,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+David Novosad,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Damon Tweedy,Famous Toastery Bowl,Old Dominion,6,1000,True,994,0
+Connie Kirchmann,Famous Toastery Bowl,Old Dominion,10,1000,True,990,0
+Justin Darden,Famous Toastery Bowl,Old Dominion,21,1000,True,979,0
+Steven Junk,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Brendan White,Famous Toastery Bowl,Old Dominion,4,1000,True,996,0
+Adam Silver,Famous Toastery Bowl,Old Dominion,5,1000,True,995,0
+Sandra Saundercook,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Joe Saundercook,Famous Toastery Bowl,Old Dominion,1,1000,True,999,0
+Aiden Murphy,Famous Toastery Bowl,Old Dominion,2,1000,True,998,0
+Jake Riegert,Famous Toastery Bowl,Old Dominion,7,1000,True,993,0
+Suz Bittner,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Kelsey Pasley,Famous Toastery Bowl,Old Dominion,1,1000,True,999,0
+Renee Bittner,Famous Toastery Bowl,Old Dominion,3,1000,True,997,0
+Brett Expert Gibbons,Famous Toastery Bowl,Old Dominion,4,1000,True,996,0
+Paul Rosser,Famous Toastery Bowl,Old Dominion,10,1000,True,990,0
+Maggie Jenkins,Famous Toastery Bowl,Old Dominion,7,1000,True,993,0
+Jack Saundercook,Famous Toastery Bowl,Old Dominion,4,1000,True,996,0
+Tyler Kirchmann,Famous Toastery Bowl,Old Dominion,4,1000,True,996,0
+Dax Wishart,Famous Toastery Bowl,Old Dominion,2,1000,True,998,0
+Ethan Hsu,Scooters Coffee Frisco Bowl,UTSA (Favorite),9,18,True,9,5
+Chris Harrison,Scooters Coffee Frisco Bowl,UTSA (Favorite),9,18,True,9,5
+Tristan Lee,Scooters Coffee Frisco Bowl,UTSA (Favorite),6,18,True,12,5
+Kevin Jupena,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Josh Tiegreen,Scooters Coffee Frisco Bowl,UTSA (Favorite),9,18,True,9,5
+Mark Junk,Scooters Coffee Frisco Bowl,UTSA (Favorite),4,18,True,14,5
+Monica Cook,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+Peter Cook,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+John Wilton,Scooters Coffee Frisco Bowl,UTSA (Favorite),6,18,True,12,5
+Brady Junk,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Fred Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Cab Stalions,Scooters Coffee Frisco Bowl,UTSA (Favorite),15,18,True,3,8
+Eric Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Spencer Wilson,Scooters Coffee Frisco Bowl,UTSA (Favorite),17,18,True,1,8
+Paul Phillips,Scooters Coffee Frisco Bowl,UTSA (Favorite),13,18,True,5,6
+Greg Lucas,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Jonathan Rogowski,Scooters Coffee Frisco Bowl,UTSA (Favorite),17,18,True,1,8
+Thomas Nesbitt,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+John Junk,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Damon Tweedy,Scooters Coffee Frisco Bowl,UTSA (Favorite),11,18,True,7,6
+Dan Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),9,18,True,9,5
+Dirk Phillips,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+Larry Welch,Scooters Coffee Frisco Bowl,UTSA (Favorite),20,18,True,2,8
+Connie Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Steven Junk,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Brendan White,Scooters Coffee Frisco Bowl,UTSA (Favorite),21,18,True,3,8
+Adam Silver,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Courtney Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+Sandra Saundercook,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Joe Saundercook,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Aiden Murphy,Scooters Coffee Frisco Bowl,UTSA (Favorite),12,18,True,6,6
+Johnny Bean,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Jake Riegert,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Reed Farnen,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Cole Wilson,Scooters Coffee Frisco Bowl,UTSA (Favorite),17,18,True,1,8
+David Pasley,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+Suz Bittner,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Kelsey Pasley,Scooters Coffee Frisco Bowl,UTSA (Favorite),12,18,True,6,6
+Renee Bittner,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Rylan Pasley,Scooters Coffee Frisco Bowl,UTSA (Favorite),7,18,True,11,5
+Brett Expert Gibbons,Scooters Coffee Frisco Bowl,UTSA (Favorite),24,18,True,6,6
+Paul Rosser,Scooters Coffee Frisco Bowl,UTSA (Favorite),10,18,True,8,5
+Jack Saundercook,Scooters Coffee Frisco Bowl,UTSA (Favorite),11,18,True,7,6
+Tyler Kirchmann,Scooters Coffee Frisco Bowl,UTSA (Favorite),14,18,True,4,6
+Alvin Thompson,Scooters Coffee Frisco Bowl,UTSA (Favorite),13,18,True,5,6
+Chris Head,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Craig Garbarini,Scooters Coffee Frisco Bowl,Marshall,6,1000,True,994,0
+Ray Barrett,Scooters Coffee Frisco Bowl,Marshall,7,1000,True,993,0
+Patricia Hash,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Isaac Kirchmann,Scooters Coffee Frisco Bowl,Marshall,89,1000,True,911,0
+Roit Person,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+David Novosad,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Justin Darden,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Coco Pasley,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Tia Bittner,Scooters Coffee Frisco Bowl,Marshall,10,1000,True,990,0
+Maggie Jenkins,Scooters Coffee Frisco Bowl,Marshall,3,1000,True,997,0
+Dax Wishart,Scooters Coffee Frisco Bowl,Marshall,6,1000,True,994,0
+Jane Silver,Scooters Coffee Frisco Bowl,Marshall,7,1000,True,993,0
+Ethan Hsu,RoofClaimcom Boca Raton Bowl,South Florida,1,45,True,44,5
+Chris Head,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+Tristan Lee,RoofClaimcom Boca Raton Bowl,South Florida,7,45,True,38,5
+Kevin Jupena,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Josh Tiegreen,RoofClaimcom Boca Raton Bowl,South Florida,7,45,True,38,5
+Monica Cook,RoofClaimcom Boca Raton Bowl,South Florida,3,45,True,42,5
+Peter Cook,RoofClaimcom Boca Raton Bowl,South Florida,3,45,True,42,5
+Ray Barrett,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Spencer Wilson,RoofClaimcom Boca Raton Bowl,South Florida,24,45,True,21,5
+Paul Phillips,RoofClaimcom Boca Raton Bowl,South Florida,6,45,True,39,5
+Jonathan Rogowski,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+Isaac Kirchmann,RoofClaimcom Boca Raton Bowl,South Florida,54,45,True,9,5
+Roit Person,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+David Novosad,RoofClaimcom Boca Raton Bowl,South Florida,3,45,True,42,5
+Justin Darden,RoofClaimcom Boca Raton Bowl,South Florida,3,45,True,42,5
+Brendan White,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+Courtney Kirchmann,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Sandra Saundercook,RoofClaimcom Boca Raton Bowl,South Florida,3,45,True,42,5
+Joe Saundercook,RoofClaimcom Boca Raton Bowl,South Florida,7,45,True,38,5
+Aiden Murphy,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Cole Wilson,RoofClaimcom Boca Raton Bowl,South Florida,7,45,True,38,5
+Tia Bittner,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Rylan Pasley,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+Brett Expert Gibbons,RoofClaimcom Boca Raton Bowl,South Florida,7,45,True,38,5
+Maggie Jenkins,RoofClaimcom Boca Raton Bowl,South Florida,10,45,True,35,5
+Jack Saundercook,RoofClaimcom Boca Raton Bowl,South Florida,4,45,True,41,5
+Chris Harrison,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+Craig Garbarini,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),11,1000,True,989,0
+Mark Junk,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+John Wilton,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),8,1000,True,992,0
+Patricia Hash,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),4,1000,True,996,0
+Brady Junk,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),21,1000,True,979,0
+Fred Kirchmann,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),14,1000,True,986,0
+Cab Stalions,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),6,1000,True,994,0
+Eric Kirchmann,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),4,1000,True,996,0
+Greg Lucas,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),6,1000,True,994,0
+Thomas Nesbitt,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),20,1000,True,980,0
+John Junk,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),10,1000,True,990,0
+Damon Tweedy,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),5,1000,True,995,0
+Dan Kirchmann,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),6,1000,True,994,0
+Dirk Phillips,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),6,1000,True,994,0
+Larry Welch,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),13,1000,True,987,0
+Connie Kirchmann,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),10,1000,True,990,0
+Steven Junk,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+Adam Silver,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+Johnny Bean,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),6,1000,True,994,0
+Jake Riegert,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),7,1000,True,993,0
+Reed Farnen,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+David Pasley,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),10,1000,True,990,0
+Coco Pasley,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),7,1000,True,993,0
+Suz Bittner,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),10,1000,True,990,0
+Kelsey Pasley,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+Renee Bittner,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),3,1000,True,997,0
+Paul Rosser,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),10,1000,True,990,0
+Tyler Kirchmann,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),4,1000,True,996,0
+Dax Wishart,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),16,1000,True,984,0
+Jane Silver,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),7,1000,True,993,0
+Alvin Thompson,RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),12,1000,True,988,0
+Ethan Hsu,Union Home Mortgage Gasparilla Bowl,Georgia Tech,30,13,True,17,5
+Chris Head,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+John Wilton,Union Home Mortgage Gasparilla Bowl,Georgia Tech,7,13,True,6,6
+Ray Barrett,Union Home Mortgage Gasparilla Bowl,Georgia Tech,14,13,True,1,8
+Patricia Hash,Union Home Mortgage Gasparilla Bowl,Georgia Tech,4,13,True,9,5
+Brady Junk,Union Home Mortgage Gasparilla Bowl,Georgia Tech,7,13,True,6,6
+Fred Kirchmann,Union Home Mortgage Gasparilla Bowl,Georgia Tech,6,13,True,7,6
+Cab Stalions,Union Home Mortgage Gasparilla Bowl,Georgia Tech,5,13,True,8,5
+Paul Phillips,Union Home Mortgage Gasparilla Bowl,Georgia Tech,4,13,True,9,5
+Jonathan Rogowski,Union Home Mortgage Gasparilla Bowl,Georgia Tech,4,13,True,9,5
+Thomas Nesbitt,Union Home Mortgage Gasparilla Bowl,Georgia Tech,4,13,True,9,5
+Isaac Kirchmann,Union Home Mortgage Gasparilla Bowl,Georgia Tech,89,13,True,76,5
+Roit Person,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+David Novosad,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+Justin Darden,Union Home Mortgage Gasparilla Bowl,Georgia Tech,7,13,True,6,6
+Brendan White,Union Home Mortgage Gasparilla Bowl,Georgia Tech,4,13,True,9,5
+Sandra Saundercook,Union Home Mortgage Gasparilla Bowl,Georgia Tech,7,13,True,6,6
+Johnny Bean,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+David Pasley,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+Kelsey Pasley,Union Home Mortgage Gasparilla Bowl,Georgia Tech,3,13,True,10,5
+Brett Expert Gibbons,Union Home Mortgage Gasparilla Bowl,Georgia Tech,6,13,True,7,6
+Paul Rosser,Union Home Mortgage Gasparilla Bowl,Georgia Tech,10,13,True,3,8
+Maggie Jenkins,Union Home Mortgage Gasparilla Bowl,Georgia Tech,7,13,True,6,6
+Dax Wishart,Union Home Mortgage Gasparilla Bowl,Georgia Tech,6,13,True,7,6
+Chris Harrison,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),10,1000,True,990,0
+Craig Garbarini,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),21,1000,True,979,0
+Tristan Lee,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),6,1000,True,994,0
+Kevin Jupena,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Josh Tiegreen,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Mark Junk,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),3,1000,True,997,0
+Monica Cook,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Peter Cook,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Eric Kirchmann,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),10,1000,True,990,0
+Spencer Wilson,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),9,1000,True,991,0
+Greg Lucas,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),9,1000,True,991,0
+John Junk,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),10,1000,True,990,0
+Damon Tweedy,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),12,1000,True,988,0
+Dan Kirchmann,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Dirk Phillips,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),6,1000,True,994,0
+Larry Welch,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),3,1000,True,997,0
+Connie Kirchmann,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),10,1000,True,990,0
+Steven Junk,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Adam Silver,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),8,1000,True,992,0
+Courtney Kirchmann,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),14,1000,True,986,0
+Joe Saundercook,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),5,1000,True,995,0
+Aiden Murphy,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),13,1000,True,987,0
+Jake Riegert,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Reed Farnen,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),10,1000,True,990,0
+Cole Wilson,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),4,1000,True,996,0
+Coco Pasley,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),13,1000,True,987,0
+Suz Bittner,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),14,1000,True,986,0
+Tia Bittner,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),13,1000,True,987,0
+Renee Bittner,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),6,1000,True,994,0
+Rylan Pasley,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Jack Saundercook,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),4,1000,True,996,0
+Tyler Kirchmann,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),14,1000,True,986,0
+Jane Silver,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),7,1000,True,993,0
+Alvin Thompson,Union Home Mortgage Gasparilla Bowl,UCF (Favorite),9,1000,True,991,0

@@ -1,85 +1,85 @@
-Bowl,Team,ESPN Game ID,ESPN Team Name,ESPN Team ID,Points,State,isFinal,date
-Lockheed Martin Armed Forces Bowl,Air Force,401551742,Air Force Falcons,2005,0,pre,False,2023-12-23T20:30Z
-CFP Semifinal at the Rose Bowl Game,Alabama,401551786,Alabama Crimson Tide,333,0,pre,False,2024-01-01T22:00Z
-Avocados From Mexico Cure Bowl,Appalachian State (Favorite),401551731,Appalachian State Mountaineers,2026,13,post,True,2023-12-16T20:30Z
-Valero Alamo Bowl,Arizona (Favorite),401551765,Arizona Wildcats,12,0,pre,False,2023-12-29T02:15Z
-Camellia Bowl,Arkansas State (Favorite),401551741,Arkansas State Red Wolves,2032,0,pre,False,2023-12-23T17:00Z
-TransPerfect Music City Bowl,Auburn (Favorite),401551770,Auburn Tigers,2,0,pre,False,2023-12-30T19:00Z
-LA Bowl,Boise State,401551752,Boise State Broncos,68,22,post,True,2023-12-17T00:30Z
-Wasabi Fenway Bowl,Boston College,401551750,Boston College Eagles,103,0,pre,False,2023-12-28T16:00Z
-Quick Lane Bowl,Bowling Green,401551756,Bowling Green Falcons,189,0,pre,False,2023-12-26T19:00Z
-Radiance Technologies Independence Bowl,California,401551753,California Golden Bears,25,14,post,True,2023-12-17T02:15Z
-TaxSlayer Gator Bowl,Clemson (Favorite),401551766,Clemson Tigers,228,0,pre,False,2023-12-29T17:00Z
-EasyPost Hawaii Bowl,Coastal Carolina,401551746,Coastal Carolina Chanticleers,324,0,pre,False,2023-12-24T03:30Z
-Birmingham Bowl,Duke,401551739,Duke Blue Devils,150,0,pre,False,2023-12-23T17:00Z
-68 Ventures Bowl,Eastern Michigan,401551755,Eastern Michigan Eagles,2199,0,pre,False,2023-12-24T00:00Z
-Cricket Celebration Bowl,Florida A&M (Favorite),401551470,Florida A&M Rattlers,50,30,post,True,2023-12-16T17:00Z
-Capital One Orange Bowl,Florida State,401551773,Florida State Seminoles,52,0,pre,False,2023-12-30T21:00Z
-Isleta New Mexico Bowl,Fresno State,401551732,Fresno State Bulldogs,278,37,post,True,2023-12-16T22:45Z
-Capital One Orange Bowl,Georgia (Favorite),401551773,Georgia Bulldogs,61,0,pre,False,2023-12-30T21:00Z
-Myrtle Beach Bowl,Georgia Southern,401551733,Georgia Southern Eagles,290,21,post,True,2023-12-16T16:00Z
-Famous Idaho Potato Bowl,Georgia State (Favorite),401551743,Georgia State Panthers,2247,0,pre,False,2023-12-23T20:30Z
-Union Home Mortgage Gasparilla Bowl,Georgia Tech,401551754,Georgia Tech Yellow Jackets,59,26,in,False,2023-12-22T23:30Z
-Cricket Celebration Bowl,Howard,401551470,Howard Bison,47,26,post,True,2023-12-16T17:00Z
-CheezIt Citrus Bowl,Iowa,401551780,Iowa Hawkeyes,2294,0,pre,False,2024-01-01T18:00Z
-AutoZone Liberty Bowl,Iowa State (Favorite),401551767,Iowa State Cyclones,66,0,pre,False,2023-12-29T20:30Z
-RL Carriers New Orleans Bowl,Jacksonville State (Favorite),401551751,Jacksonville State Gamecocks,55,34,post,True,2023-12-16T19:15Z
-Lockheed Martin Armed Forces Bowl,James Madison (Favorite),401551742,James Madison Dukes,256,0,pre,False,2023-12-23T20:30Z
-Guaranteed Rate Bowl,Kansas (Favorite),401551757,Kansas Jayhawks,2305,0,pre,False,2023-12-27T02:00Z
-PopTarts Bowl,Kansas State (Favorite),401551764,Kansas State Wildcats,2306,0,pre,False,2023-12-28T22:45Z
-TaxSlayer Gator Bowl,Kentucky,401551766,Kentucky Wildcats,96,0,pre,False,2023-12-29T17:00Z
-Vrbo Fiesta Bowl,Liberty,401551782,Liberty Flames,2335,0,pre,False,2024-01-01T18:00Z
-RL Carriers New Orleans Bowl,Louisiana,401551751,Louisiana Ragin' Cajuns,309,31,post,True,2023-12-16T19:15Z
-DirecTV Holiday Bowl,Louisville (Favorite),401581109,Louisville Cardinals,97,0,pre,False,2023-12-28T01:00Z
-ReliaQuest Bowl,LSU (Favorite),401551778,LSU Tigers,99,0,pre,False,2024-01-01T17:00Z
-Scooters Coffee Frisco Bowl,Marshall,401551735,Marshall Thundering Herd,276,17,post,True,2023-12-20T02:00Z
-TransPerfect Music City Bowl,Maryland,401551770,Maryland Terrapins,120,0,pre,False,2023-12-30T19:00Z
-AutoZone Liberty Bowl,Memphis,401551767,Memphis Tigers,235,0,pre,False,2023-12-29T20:30Z
-Bad Boy Mowers Pinstripe Bowl,Miami (Favorite),401551762,Miami Hurricanes,2390,0,pre,False,2023-12-28T19:15Z
-Avocados From Mexico Cure Bowl,Miami (OH),401551731,Miami (OH) RedHawks,193,9,post,True,2023-12-16T20:30Z
-CFP Semifinal at the Rose Bowl Game,Michigan (Favorite),401551786,Michigan Wolverines,130,0,pre,False,2024-01-01T22:00Z
-Quick Lane Bowl,Minnesota (Favorite),401551756,Minnesota Golden Gophers,135,0,pre,False,2023-12-26T19:00Z
-Goodyear Cotton Bowl Classic,Missouri,401551768,Missouri Tigers,142,0,pre,False,2023-12-30T01:00Z
-PopTarts Bowl,NC State,401551764,NC State Wolfpack,152,0,pre,False,2023-12-28T22:45Z
-Isleta New Mexico Bowl,New Mexico State (Favorite),401551732,New Mexico State Aggies,166,10,post,True,2023-12-16T22:45Z
-Dukes Mayo Bowl,North Carolina,401551761,North Carolina Tar Heels,153,0,pre,False,2023-12-27T22:30Z
-Camellia Bowl,Northern Illinois,401551741,Northern Illinois Huskies,2459,0,pre,False,2023-12-23T17:00Z
-SRS Distribution Las Vegas Bowl,Northwestern,401551744,Northwestern Wildcats,77,0,pre,False,2023-12-24T00:30Z
-Tony the Tiger Sun Bowl,Notre Dame (Favorite),401551798,Notre Dame Fighting Irish,87,0,pre,False,2023-12-29T19:00Z
-Myrtle Beach Bowl,Ohio (Favorite),401551733,Ohio Bobcats,195,41,post,True,2023-12-16T16:00Z
-Goodyear Cotton Bowl Classic,Ohio State (Favorite),401551768,Ohio State Buckeyes,194,0,pre,False,2023-12-30T01:00Z
-Valero Alamo Bowl,Oklahoma,401551765,Oklahoma Sooners,201,0,pre,False,2023-12-29T02:15Z
-TaxAct Texas Bowl,Oklahoma State,401551749,Oklahoma State Cowboys,197,0,pre,False,2023-12-28T02:00Z
-Famous Toastery Bowl,Old Dominion,401551469,Old Dominion Monarchs,295,35,post,True,2023-12-18T19:30Z
-ChickfilA Peach Bowl,Ole Miss,401551769,Ole Miss Rebels,145,0,pre,False,2023-12-30T17:00Z
-Vrbo Fiesta Bowl,Oregon (Favorite),401551782,Oregon Ducks,2483,0,pre,False,2024-01-01T18:00Z
-Tony the Tiger Sun Bowl,Oregon State,401551798,Oregon State Beavers,204,0,pre,False,2023-12-29T19:00Z
-ChickfilA Peach Bowl,Penn State (Favorite),401551769,Penn State Nittany Lions,213,0,pre,False,2023-12-30T17:00Z
-SERVPRO First Responder Bowl,Rice,401551748,Rice Owls,242,0,pre,False,2023-12-26T22:30Z
-Bad Boy Mowers Pinstripe Bowl,Rutgers,401551762,Rutgers Scarlet Knights,164,0,pre,False,2023-12-28T19:15Z
-EasyPost Hawaii Bowl,San Jose State (Favorite),401551746,San José State Spartans,23,0,pre,False,2023-12-24T03:30Z
-Wasabi Fenway Bowl,SMU (Favorite),401551750,SMU Mustangs,2567,0,pre,False,2023-12-28T16:00Z
-68 Ventures Bowl,South Alabama (Favorite),401551755,South Alabama Jaguars,6,0,pre,False,2023-12-24T00:00Z
-RoofClaimcom Boca Raton Bowl,South Florida,401551737,South Florida Bulls,58,45,post,True,2023-12-22T01:00Z
-RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),401551737,Syracuse Orange,183,0,post,True,2023-12-22T01:00Z
-CheezIt Citrus Bowl,Tennessee (Favorite),401551780,Tennessee Volunteers,2633,0,pre,False,2024-01-01T18:00Z
-CFP Semifinal at the Allstate Sugar Bowl,Texas (Favorite),401551788,Texas Longhorns,251,0,pre,False,2024-01-02T01:45Z
-TaxAct Texas Bowl,Texas A&M (Favorite),401551749,Texas A&M Aggies,245,0,pre,False,2023-12-28T02:00Z
-SERVPRO First Responder Bowl,Texas State (Favorite),401551748,Texas State Bobcats,326,0,pre,False,2023-12-26T22:30Z
-Radiance Technologies Independence Bowl,Texas Tech (Favorite),401551753,Texas Tech Red Raiders,2641,34,post,True,2023-12-17T02:15Z
-Barstool Sports Arizona Bowl,Toledo (Favorite),401554566,Toledo Rockets,2649,0,pre,False,2023-12-30T21:30Z
-Birmingham Bowl,Troy (Favorite),401551739,Troy Trojans,2653,0,pre,False,2023-12-23T17:00Z
-Military Bowl presented by GoBowlingcom,Tulane,401551758,Tulane Green Wave,2655,0,pre,False,2023-12-27T19:00Z
-Union Home Mortgage Gasparilla Bowl,UCF (Favorite),401551754,UCF Knights,2116,17,in,False,2023-12-22T23:30Z
-LA Bowl,UCLA (Favorite),401551752,UCLA Bruins,26,35,post,True,2023-12-17T00:30Z
-Guaranteed Rate Bowl,UNLV,401551757,UNLV Rebels,2439,0,pre,False,2023-12-27T02:00Z
-DirecTV Holiday Bowl,USC,401581109,USC Trojans,30,0,pre,False,2023-12-28T01:00Z
-SRS Distribution Las Vegas Bowl,Utah (Favorite),401551744,Utah Utes,254,0,pre,False,2023-12-24T00:30Z
-Famous Idaho Potato Bowl,Utah State,401551743,Utah State Aggies,328,0,pre,False,2023-12-23T20:30Z
-Scooters Coffee Frisco Bowl,UTSA (Favorite),401551735,UTSA Roadrunners,2636,35,post,True,2023-12-20T02:00Z
-Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),401551758,Virginia Tech Hokies,259,0,pre,False,2023-12-27T19:00Z
-CFP Semifinal at the Allstate Sugar Bowl,Washington,401551788,Washington Huskies,264,0,pre,False,2024-01-02T01:45Z
-Dukes Mayo Bowl,West Virginia (Favorite),401551761,West Virginia Mountaineers,277,0,pre,False,2023-12-27T22:30Z
-Famous Toastery Bowl,Western Kentucky (Favorite),401551469,Western Kentucky Hilltoppers,98,38,post,True,2023-12-18T19:30Z
-ReliaQuest Bowl,Wisconsin,401551778,Wisconsin Badgers,275,0,pre,False,2024-01-01T17:00Z
-Barstool Sports Arizona Bowl,Wyoming,401554566,Wyoming Cowboys,2751,0,pre,False,2023-12-30T21:30Z
+Bowl,Team,Points,ESPN Game ID,ESPN Team Name,isFinal,ESPN Team ID,State,date
+Lockheed Martin Armed Forces Bowl,Air Force,0,401551742,Air Force Falcons,False,2005,pre,2023-12-23T20:30Z
+CFP Semifinal at the Rose Bowl Game,Alabama,0,401551786,Alabama Crimson Tide,False,333,pre,2024-01-01T22:00Z
+Avocados From Mexico Cure Bowl,Appalachian State (Favorite),13,401551731,Appalachian State Mountaineers,True,2026,post,2023-12-16T20:30Z
+Valero Alamo Bowl,Arizona (Favorite),0,401551765,Arizona Wildcats,False,12,pre,2023-12-29T02:15Z
+Camellia Bowl,Arkansas State (Favorite),0,401551741,Arkansas State Red Wolves,False,2032,pre,2023-12-23T17:00Z
+TransPerfect Music City Bowl,Auburn (Favorite),0,401551770,Auburn Tigers,False,2,pre,2023-12-30T19:00Z
+LA Bowl,Boise State,22,401551752,Boise State Broncos,True,68,post,2023-12-17T00:30Z
+Wasabi Fenway Bowl,Boston College,0,401551750,Boston College Eagles,False,103,pre,2023-12-28T16:00Z
+Quick Lane Bowl,Bowling Green,0,401551756,Bowling Green Falcons,False,189,pre,2023-12-26T19:00Z
+Radiance Technologies Independence Bowl,California,14,401551753,California Golden Bears,True,25,post,2023-12-17T02:15Z
+TaxSlayer Gator Bowl,Clemson (Favorite),0,401551766,Clemson Tigers,False,228,pre,2023-12-29T17:00Z
+EasyPost Hawaii Bowl,Coastal Carolina,0,401551746,Coastal Carolina Chanticleers,False,324,pre,2023-12-24T03:30Z
+Birmingham Bowl,Duke,0,401551739,Duke Blue Devils,False,150,pre,2023-12-23T17:00Z
+68 Ventures Bowl,Eastern Michigan,0,401551755,Eastern Michigan Eagles,False,2199,pre,2023-12-24T00:00Z
+Cricket Celebration Bowl,Florida A&M (Favorite),30,401551470,Florida A&M Rattlers,True,50,post,2023-12-16T17:00Z
+Capital One Orange Bowl,Florida State,0,401551773,Florida State Seminoles,False,52,pre,2023-12-30T21:00Z
+Isleta New Mexico Bowl,Fresno State,37,401551732,Fresno State Bulldogs,True,278,post,2023-12-16T22:45Z
+Capital One Orange Bowl,Georgia (Favorite),0,401551773,Georgia Bulldogs,False,61,pre,2023-12-30T21:00Z
+Myrtle Beach Bowl,Georgia Southern,21,401551733,Georgia Southern Eagles,True,290,post,2023-12-16T16:00Z
+Famous Idaho Potato Bowl,Georgia State (Favorite),0,401551743,Georgia State Panthers,False,2247,pre,2023-12-23T20:30Z
+Union Home Mortgage Gasparilla Bowl,Georgia Tech,30,401551754,Georgia Tech Yellow Jackets,True,59,post,2023-12-22T23:30Z
+Cricket Celebration Bowl,Howard,26,401551470,Howard Bison,True,47,post,2023-12-16T17:00Z
+CheezIt Citrus Bowl,Iowa,0,401551780,Iowa Hawkeyes,False,2294,pre,2024-01-01T18:00Z
+AutoZone Liberty Bowl,Iowa State (Favorite),0,401551767,Iowa State Cyclones,False,66,pre,2023-12-29T20:30Z
+RL Carriers New Orleans Bowl,Jacksonville State (Favorite),34,401551751,Jacksonville State Gamecocks,True,55,post,2023-12-16T19:15Z
+Lockheed Martin Armed Forces Bowl,James Madison (Favorite),0,401551742,James Madison Dukes,False,256,pre,2023-12-23T20:30Z
+Guaranteed Rate Bowl,Kansas (Favorite),0,401551757,Kansas Jayhawks,False,2305,pre,2023-12-27T02:00Z
+PopTarts Bowl,Kansas State (Favorite),0,401551764,Kansas State Wildcats,False,2306,pre,2023-12-28T22:45Z
+TaxSlayer Gator Bowl,Kentucky,0,401551766,Kentucky Wildcats,False,96,pre,2023-12-29T17:00Z
+Vrbo Fiesta Bowl,Liberty,0,401551782,Liberty Flames,False,2335,pre,2024-01-01T18:00Z
+RL Carriers New Orleans Bowl,Louisiana,31,401551751,Louisiana Ragin' Cajuns,True,309,post,2023-12-16T19:15Z
+DirecTV Holiday Bowl,Louisville (Favorite),0,401581109,Louisville Cardinals,False,97,pre,2023-12-28T01:00Z
+ReliaQuest Bowl,LSU (Favorite),0,401551778,LSU Tigers,False,99,pre,2024-01-01T17:00Z
+Scooters Coffee Frisco Bowl,Marshall,17,401551735,Marshall Thundering Herd,True,276,post,2023-12-20T02:00Z
+TransPerfect Music City Bowl,Maryland,0,401551770,Maryland Terrapins,False,120,pre,2023-12-30T19:00Z
+AutoZone Liberty Bowl,Memphis,0,401551767,Memphis Tigers,False,235,pre,2023-12-29T20:30Z
+Bad Boy Mowers Pinstripe Bowl,Miami (Favorite),0,401551762,Miami Hurricanes,False,2390,pre,2023-12-28T19:15Z
+Avocados From Mexico Cure Bowl,Miami (OH),9,401551731,Miami (OH) RedHawks,True,193,post,2023-12-16T20:30Z
+CFP Semifinal at the Rose Bowl Game,Michigan (Favorite),0,401551786,Michigan Wolverines,False,130,pre,2024-01-01T22:00Z
+Quick Lane Bowl,Minnesota (Favorite),0,401551756,Minnesota Golden Gophers,False,135,pre,2023-12-26T19:00Z
+Goodyear Cotton Bowl Classic,Missouri,0,401551768,Missouri Tigers,False,142,pre,2023-12-30T01:00Z
+PopTarts Bowl,NC State,0,401551764,NC State Wolfpack,False,152,pre,2023-12-28T22:45Z
+Isleta New Mexico Bowl,New Mexico State (Favorite),10,401551732,New Mexico State Aggies,True,166,post,2023-12-16T22:45Z
+Dukes Mayo Bowl,North Carolina,0,401551761,North Carolina Tar Heels,False,153,pre,2023-12-27T22:30Z
+Camellia Bowl,Northern Illinois,0,401551741,Northern Illinois Huskies,False,2459,pre,2023-12-23T17:00Z
+SRS Distribution Las Vegas Bowl,Northwestern,0,401551744,Northwestern Wildcats,False,77,pre,2023-12-24T00:30Z
+Tony the Tiger Sun Bowl,Notre Dame (Favorite),0,401551798,Notre Dame Fighting Irish,False,87,pre,2023-12-29T19:00Z
+Myrtle Beach Bowl,Ohio (Favorite),41,401551733,Ohio Bobcats,True,195,post,2023-12-16T16:00Z
+Goodyear Cotton Bowl Classic,Ohio State (Favorite),0,401551768,Ohio State Buckeyes,False,194,pre,2023-12-30T01:00Z
+Valero Alamo Bowl,Oklahoma,0,401551765,Oklahoma Sooners,False,201,pre,2023-12-29T02:15Z
+TaxAct Texas Bowl,Oklahoma State,0,401551749,Oklahoma State Cowboys,False,197,pre,2023-12-28T02:00Z
+Famous Toastery Bowl,Old Dominion,35,401551469,Old Dominion Monarchs,True,295,post,2023-12-18T19:30Z
+ChickfilA Peach Bowl,Ole Miss,0,401551769,Ole Miss Rebels,False,145,pre,2023-12-30T17:00Z
+Vrbo Fiesta Bowl,Oregon (Favorite),0,401551782,Oregon Ducks,False,2483,pre,2024-01-01T18:00Z
+Tony the Tiger Sun Bowl,Oregon State,0,401551798,Oregon State Beavers,False,204,pre,2023-12-29T19:00Z
+ChickfilA Peach Bowl,Penn State (Favorite),0,401551769,Penn State Nittany Lions,False,213,pre,2023-12-30T17:00Z
+SERVPRO First Responder Bowl,Rice,0,401551748,Rice Owls,False,242,pre,2023-12-26T22:30Z
+Bad Boy Mowers Pinstripe Bowl,Rutgers,0,401551762,Rutgers Scarlet Knights,False,164,pre,2023-12-28T19:15Z
+EasyPost Hawaii Bowl,San Jose State (Favorite),0,401551746,San José State Spartans,False,23,pre,2023-12-24T03:30Z
+Wasabi Fenway Bowl,SMU (Favorite),0,401551750,SMU Mustangs,False,2567,pre,2023-12-28T16:00Z
+68 Ventures Bowl,South Alabama (Favorite),0,401551755,South Alabama Jaguars,False,6,pre,2023-12-24T00:00Z
+RoofClaimcom Boca Raton Bowl,South Florida,45,401551737,South Florida Bulls,True,58,post,2023-12-22T01:00Z
+RoofClaimcom Boca Raton Bowl,Syracuse (Favorite),0,401551737,Syracuse Orange,True,183,post,2023-12-22T01:00Z
+CheezIt Citrus Bowl,Tennessee (Favorite),0,401551780,Tennessee Volunteers,False,2633,pre,2024-01-01T18:00Z
+CFP Semifinal at the Allstate Sugar Bowl,Texas (Favorite),0,401551788,Texas Longhorns,False,251,pre,2024-01-02T01:45Z
+TaxAct Texas Bowl,Texas A&M (Favorite),0,401551749,Texas A&M Aggies,False,245,pre,2023-12-28T02:00Z
+SERVPRO First Responder Bowl,Texas State (Favorite),0,401551748,Texas State Bobcats,False,326,pre,2023-12-26T22:30Z
+Radiance Technologies Independence Bowl,Texas Tech (Favorite),34,401551753,Texas Tech Red Raiders,True,2641,post,2023-12-17T02:15Z
+Barstool Sports Arizona Bowl,Toledo (Favorite),0,401554566,Toledo Rockets,False,2649,pre,2023-12-30T21:30Z
+Birmingham Bowl,Troy (Favorite),0,401551739,Troy Trojans,False,2653,pre,2023-12-23T17:00Z
+Military Bowl presented by GoBowlingcom,Tulane,0,401551758,Tulane Green Wave,False,2655,pre,2023-12-27T19:00Z
+Union Home Mortgage Gasparilla Bowl,UCF (Favorite),17,401551754,UCF Knights,True,2116,post,2023-12-22T23:30Z
+LA Bowl,UCLA (Favorite),35,401551752,UCLA Bruins,True,26,post,2023-12-17T00:30Z
+Guaranteed Rate Bowl,UNLV,0,401551757,UNLV Rebels,False,2439,pre,2023-12-27T02:00Z
+DirecTV Holiday Bowl,USC,0,401581109,USC Trojans,False,30,pre,2023-12-28T01:00Z
+SRS Distribution Las Vegas Bowl,Utah (Favorite),0,401551744,Utah Utes,False,254,pre,2023-12-24T00:30Z
+Famous Idaho Potato Bowl,Utah State,0,401551743,Utah State Aggies,False,328,pre,2023-12-23T20:30Z
+Scooters Coffee Frisco Bowl,UTSA (Favorite),35,401551735,UTSA Roadrunners,True,2636,post,2023-12-20T02:00Z
+Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),0,401551758,Virginia Tech Hokies,False,259,pre,2023-12-27T19:00Z
+CFP Semifinal at the Allstate Sugar Bowl,Washington,0,401551788,Washington Huskies,False,264,pre,2024-01-02T01:45Z
+Dukes Mayo Bowl,West Virginia (Favorite),0,401551761,West Virginia Mountaineers,False,277,pre,2023-12-27T22:30Z
+Famous Toastery Bowl,Western Kentucky (Favorite),38,401551469,Western Kentucky Hilltoppers,True,98,post,2023-12-18T19:30Z
+ReliaQuest Bowl,Wisconsin,0,401551778,Wisconsin Badgers,False,275,pre,2024-01-01T17:00Z
+Barstool Sports Arizona Bowl,Wyoming,0,401554566,Wyoming Cowboys,False,2751,pre,2023-12-30T21:30Z
