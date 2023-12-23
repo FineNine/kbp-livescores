@@ -28,6 +28,7 @@ def test_update(request):
     return HttpResponse(create_update_list(pd.read_csv('kbp/data/scores_new.csv')))
 
 def index(request):
+    print(os.getcwd())
     # DEV DATA
     test = ['401551470','401551733','401551746']
 
