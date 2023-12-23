@@ -185,7 +185,7 @@ def get_teams(scores, id: str, test):
 
 def fake_request(id):
     print(f"Getting game {id}")
-    return read_json(f"./kbp/data/{id}.json")
+    return read_json(f"main/kbp-livescores/kbp/data/{id}.json")
 
 def request_live_score(id):
     print(f"Getting game {id}")
