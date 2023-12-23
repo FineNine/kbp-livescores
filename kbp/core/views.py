@@ -28,7 +28,6 @@ def test_update(request):
     return HttpResponse(create_update_list(pd.read_csv('kbp/data/scores_new.csv')))
 
 def index(request):
-    print(os.getcwd())
     # DEV DATA
     test = ['401551470','401551733','401551746']
 
@@ -36,7 +35,7 @@ def index(request):
     scores = load_scores()
     games_to_update = create_update_list(scores)
 
-    game_data = fake_request(test)
+    game_data = fake_request(test[0])
 
     for game in game_data:
         teams = get_teams(scores, convert_to_utf(game['header']['id']), test[0])
@@ -185,7 +184,7 @@ def get_teams(scores, id: str, test):
 
 def fake_request(id):
     print(f"Getting game {id}")
-    return read_json(f"main/kbp-livescores/kbp/data/{id}.json")
+    return read_json(f"kbp/data/{id}.json")
 
 def request_live_score(id):
     print(f"Getting game {id}")
@@ -194,13 +193,13 @@ def request_live_score(id):
     return data
 
 def load_scores():
-    return pd.read_csv('./kbp/data/scores.csv')
+    return pd.read_csv('kbp/data/scores.csv')
 
 def load_picks():
-    return pd.read_csv('./kbp/data/picks.csv')
+    return pd.read_csv('kbp/data/picks.csv')
 
 def load_nicknames():
-    return pd.read_csv('./kbp/data/nicknames.csv')
+    return pd.read_csv('kbp/data/nicknames.csv')
 
 def create_update_list(scores):
     now = datetime.datetime.now().timestamp()
@@ -212,7 +211,7 @@ def read_json(filepath):
         data = json.load(file)
     return data
 
-def write_json_to_file(data, id, directory="./kbp/data"):
+def write_json_to_file(data, id, directory="kbp/data"):
     """
     Writes the given data to a JSON file in the specified directory.
     :param data: The data to write to the file.
