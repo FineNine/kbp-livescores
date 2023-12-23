@@ -5,15 +5,22 @@ import numpy as np
 import pandas as pd
 import os
 import json
+import requests
 
 # Create your views here.
 def test(request):
-    print(os.getcwd())
-    payload = pd.read_csv('data/final.csv', index_col=0)
-    return HttpResponse(payload.to_html())
+    scores = load_scores()
+
+    scores = update_scores(scores)
+    
+
+    return HttpResponse(scores.to_html(index=False))
 
 def index(request):
+    # DEV DATA
     test = ['401551470','401551733','401551746']
+
+
     scores = load_scores()
     games_to_update = create_update_list(scores)
 
@@ -21,7 +28,7 @@ def index(request):
 
     for game in game_data:
         teams = get_teams(scores, convert_to_utf(game['header']['id']), test[0])
-        scores = updated_scores(scores, game, teams)
+        scores = update_scores(scores, game, teams)
         # CHECK IF FINAL
 
     margins = compute_margins(scores)
@@ -33,6 +40,68 @@ def index(request):
     kbp_scores = compute_kbp_scores(picks, margins)
 
     return HttpResponse(kbp_scores.to_html(index=False))
+
+def update_scores(scores):
+    # game_ids = list(scores['ESPN Game ID'].unique())
+    game_ids = ['401551470','401551733','401551746']
+
+    # game_data = request_live_score(game_ids[0])
+    data = []
+    for id in game_ids:
+        # game_data = fake_request(id)
+        game_data = request_live_score(id)
+        print(game_data)
+        print(dict(game_data))
+        data += format_game_data(id, game_data)
+        print(data)
+    data = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','IsFinal'])
+
+
+
+    data['index'] = data['ESPN Game ID'].astype(str) + data['ESPN Team Name']
+    scores['index'] = scores['ESPN Game ID'].astype(str) + scores['ESPN Team Name']
+
+    data.set_index('index', inplace=True)
+    scores.set_index('index', inplace=True)
+
+    scores.update(data)
+    print(scores[['Bowl','Team','Points']])
+
+    # print(game_data)
+
+    # game_data = 
+    return scores
+
+def format_game_data(id, response):
+    team_data = response['header']['competitions'][0]['competitors']
+    state = response['header']['competitions'][0]['status']['type']['state']
+    is_final = response['header']['competitions'][0]['status']['type']['completed']
+    if state == 'pre':
+        team0_points = 0
+        team1_points = 0
+    else:
+        team0_points = int(convert_to_utf(team_data[0]['score']))
+        team1_points = int(convert_to_utf(team_data[1]['score']))
+
+    print(state, is_final)
+    return [
+        (
+            id,
+            convert_to_utf(team_data[0]['team']['displayName']),
+            int(convert_to_utf(team_data[0]['id'])),
+            team0_points,
+            state,
+            is_final
+        ),
+        (
+            id,
+            convert_to_utf(team_data[1]['team']['displayName']),
+            int(convert_to_utf(team_data[1]['id'])),
+            team1_points,
+            state,
+            is_final
+        ),
+    ]
 
 def updated_scores(scores, game, teams):
     team_data = game['header']['competitions'][0]['competitors']
@@ -62,12 +131,12 @@ def compute_margins(scores):
     loser_scores.columns = ['Bowl','LoserPoints']
     margins = scores.merge(loser_scores, on='Bowl')
     margins['Margin'] = margins['Points'] - margins['LoserPoints']
-    print(margins[margins['Margin'] != 0])
+    # print(margins[margins['Margin'] != 0])
     return margins[margins['Margin'] != 0]
 
 def compute_kbp_scores(picks, margins):
     picks = picks.merge(margins[['Bowl','Team','Margin']], on=['Bowl','Team'])
-    print(picks.head())
+    # print(picks.head())
     picks['Diff'] = picks['Points'] - picks['Margin']
     picks['Diff'] = picks['Diff'].abs()
     picks['Score'] = picks.Diff.apply(scoring_alg)
@@ -80,9 +149,9 @@ def compute_kbp_scores(picks, margins):
 
 
 def convert_to_utf(string):
-    print(string)
+    # print(string)
     new_str = string.encode('utf-8', errors='backslashreplace').decode('utf-8')
-    print(new_str)
+    # print(new_str)
     return new_str
     return bytes(string, 'latin-1').decode('utf-8')
 
@@ -90,21 +159,20 @@ def get_teams(scores, id: str, test):
     assert id in scores['ESPN Game ID'].astype(str).to_list()
     return scores[scores['ESPN Game ID'].astype(str) == id]['ESPN Team Name'].to_list()
 
-def fake_request(game_ids):
-    game_data = []
-    for id in game_ids:
-        temp = int(id)
-        game_data.append(read_json(f"data/{temp}.json"))
-    return game_data
+def fake_request(id):
+    return read_json(f"kbp/data/{id}.json")
+
+def request_live_score(id):
+    return requests.get(f"http://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event={id}").json()
 
 def load_scores():
-    return pd.read_csv('data/scores.csv', index_col=0)
+    return pd.read_csv('kbp/data/scores.csv', index_col=0)
 
 def load_picks():
-    return pd.read_csv('data/picks.csv')
+    return pd.read_csv('kbp/data/picks.csv')
 
 def load_nicknames():
-    return pd.read_csv('data/nicknames.csv')
+    return pd.read_csv('kbp/data/nicknames.csv')
 
 def create_update_list(scores):
     return scores[scores['isFinal'] == 0]['ESPN Game ID']
