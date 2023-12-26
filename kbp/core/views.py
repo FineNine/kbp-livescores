@@ -108,7 +108,9 @@ def update_scores(scores):
         game_data = request_live_score(id)
         # print(game_data)
         # print(dict(game_data))
-        data += format_game_data(id, game_data)
+        game_data = format_game_data(id, game_data)
+        if game_data is not None:
+            data += game_data
         # print(data)
     # data += [
     #     (
@@ -154,44 +156,47 @@ def update_scores(scores):
     return scores.sort_values('date')
 
 def format_game_data(id, response):
-    team_data = response['header']['competitions'][0]['competitors']
-    date = response['header']['competitions'][0]['date']
-    state = response['header']['competitions'][0]['status']['type']['state']
-    is_final = response['header']['competitions'][0]['status']['type']['completed']
+    try:
+        team_data = response['header']['competitions'][0]['competitors']
+        date = response['header']['competitions'][0]['date']
+        state = response['header']['competitions'][0]['status']['type']['state']
+        is_final = response['header']['competitions'][0]['status']['type']['completed']
 
-    if state == 'pre':
-        team0_points = 0
-        team1_points = 0
-    else:
-        team0_points = int(convert_to_utf(team_data[0]['score']))
-        team1_points = int(convert_to_utf(team_data[1]['score']))
+        if state == 'pre':
+            team0_points = 0
+            team1_points = 0
+        else:
+            team0_points = int(convert_to_utf(team_data[0]['score']))
+            team1_points = int(convert_to_utf(team_data[1]['score']))
 
-    team0 = convert_to_utf(team_data[0]['team']['displayName'])
-    if team0 == "TBD":
-        team0 = "TBD1"
-        team1 = "TBD2"
-    else:
-        team1 = convert_to_utf(team_data[1]['team']['displayName'])
-    return [
-        (
-            id,
-            team0,
-            int(convert_to_utf(team_data[0]['id'])),
-            team0_points,
-            state,
-            is_final,
-            date
-        ),
-        (
-            id,
-            team1,
-            int(convert_to_utf(team_data[1]['id'])),
-            team1_points,
-            state,
-            is_final,
-            date
-        ),
-    ]
+        team0 = convert_to_utf(team_data[0]['team']['displayName'])
+        if team0 == "TBD":
+            team0 = "TBD1"
+            team1 = "TBD2"
+        else:
+            team1 = convert_to_utf(team_data[1]['team']['displayName'])
+        return [
+            (
+                id,
+                team0,
+                int(convert_to_utf(team_data[0]['id'])),
+                team0_points,
+                state,
+                is_final,
+                date
+            ),
+            (
+                id,
+                team1,
+                int(convert_to_utf(team_data[1]['id'])),
+                team1_points,
+                state,
+                is_final,
+                date
+            ),
+        ]
+    except:
+        return None
 
 def updated_scores(scores, game, teams):
     team_data = game['header']['competitions'][0]['competitors']
