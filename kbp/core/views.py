@@ -36,7 +36,7 @@ def games(request):
 def picks(request):
     picks = pd.read_csv('kbp/data/picks_cache.csv')
     
-    picks = picks[picks['Name'].isin(['Ethan Hsu','	Tyler Kirchmann','Johnny Bean','Eric Kirchmann'])]
+    picks = picks[picks['Name'].isin(['Ethan Hsu','Tyler Kirchmann','Johnny Bean','Eric Kirchmann','Jonathan Rogowski'])]
     
     
     html_table = picks.sort_values('Name').to_html(
@@ -97,6 +97,8 @@ def index(request):
 
 def update_scores(scores):
     game_ids = create_update_list(scores)
+    # game_ids = list(scores['ESPN Game ID'].unique())
+    # game_ids.remove(401551789)
     # game_ids = ['401551470','401551733','401551746']
 
     # game_data = request_live_score(game_ids[0])
@@ -108,6 +110,26 @@ def update_scores(scores):
         # print(dict(game_data))
         data += format_game_data(id, game_data)
         # print(data)
+    # data += [
+    #     (
+    #         '401551789',
+    #         'Alabama Crimson Tide',
+    #         333,
+    #         30,
+    #         'in',
+    #         False,
+    #         '2024-01-08T07:30Z'
+    #     ),
+    #     (
+    #         '401551789',
+    #         'Texas Longhorns',
+    #         251,
+    #         20,
+    #         'in',
+    #         False,
+    #         '2024-01-08T07:30Z'
+    #     ),
+    # ]
     data = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','isFinal','date'])
 
 
@@ -196,6 +218,7 @@ def updated_scores(scores, game, teams):
 
 def compute_margins(scores):
     temp_scores = scores.copy()
+    temp_scores = temp_scores[temp_scores['State'] != 'pre']
     loser_scores = temp_scores.groupby('Bowl')['Points'].min().reset_index()
     loser_scores.columns = ['Bowl','LoserPoints']
     margins = temp_scores.merge(loser_scores, on='Bowl')
