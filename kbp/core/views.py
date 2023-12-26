@@ -34,7 +34,12 @@ def games(request):
     return HttpResponse(html_table)
 
 def picks(request):
-    html_table = pd.read_csv('kbp/data/picks.csv').to_html(
+    picks = pd.read_csv('kbp/data/picks_cache.csv')
+    
+    picks = picks[picks['Name'].isin(['Ethan Hsu','	Tyler Kirchmann','Johnny Bean','Eric Kirchmann'])]
+    
+    
+    html_table = picks.sort_values('Name').to_html(
         index=False,
         justify='center',
         border=5,
@@ -124,7 +129,7 @@ def update_scores(scores):
     # print(game_data)
 
     # game_data = 
-    return scores
+    return scores.sort_values('date')
 
 def format_game_data(id, response):
     team_data = response['header']['competitions'][0]['competitors']
@@ -195,7 +200,7 @@ def compute_margins(scores):
     loser_scores.columns = ['Bowl','LoserPoints']
     margins = temp_scores.merge(loser_scores, on='Bowl')
     margins['Margin'] = margins['Points'] - margins['LoserPoints']
-    margins['Margin'] = margins['Margin'].apply(lambda x: 1000 if x == 0 else x)
+    margins['Margin'] = margins['Margin'].apply(lambda x: -1 if x == 0 else x)
     return margins[(margins['State'] != 'pre')]
 
 def compute_kbp_scores(picks, margins):
@@ -207,8 +212,8 @@ def compute_kbp_scores(picks, margins):
     temp_picks = temp_picks.merge(temp_margins[['Bowl','Team','Margin','isFinal']], on=['Bowl','Team'])
     temp_picks['Diff'] = temp_picks['Points'] - temp_picks['Margin']
     temp_picks['Diff'] = temp_picks['Diff'].abs()
-    temp_picks['Score'] = temp_picks.Diff.apply(scoring_alg)
-
+    temp_picks['Score'] = temp_picks.apply(scoring_alg, axis=1)
+    temp_picks.to_csv('kbp/data/picks_cache.csv')
     static = temp_picks[temp_picks['isFinal']]
     live = temp_picks[~temp_picks['isFinal'].astype(bool)]
 
@@ -284,15 +289,16 @@ def write_json_to_file(data, id, directory="kbp/data"):
         json.dump(data, file, indent=4)
 
 def scoring_alg(value):
-    if np.isnan(value):
+    diff = value['Diff']
+    margin = value['Margin']
+
+    if margin == -1:
         return 0
-    elif value > 100:
-        return 0
-    elif value == 0:
+    elif diff == 0:
         return 10
-    elif value <= 3:
+    elif diff <= 3:
         return 8
-    elif value <= 7:
+    elif diff <= 7:
         return 6
     else:
         return 5 
