@@ -22,12 +22,36 @@ def kbp_scores(request):
 
     # Render the template with the context
     return render(request, 'core/render_scores.html', context)
-    # )
-    return HttpResponse(pd.read_csv('kbp/data/kbp.csv').to_html(
+
+def games(request):
+    html_table = pd.read_csv('kbp/data/scores_cache.csv').to_html(
         index=False,
         justify='center',
-        border=5
-    ))
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+    return HttpResponse(html_table)
+
+def picks(request):
+    html_table = pd.read_csv('kbp/data/picks.csv').to_html(
+        index=False,
+        justify='center',
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+    return HttpResponse(html_table)
+
+def margins(request):
+    html_table = pd.read_csv('kbp/data/margins_cache.csv').to_html(
+        index=False,
+        justify='center',
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+    return HttpResponse(html_table)
 
 def test(request):
     scores = load_scores()

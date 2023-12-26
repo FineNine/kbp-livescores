@@ -19,7 +19,9 @@ if __name__ == "__main__":
         print(game_list)
 
         scores = update_scores(scores)
+        scores.to_csv('kbp/data/scores_cache.csv', index=False)
         margins = compute_margins(scores)
+        scores.to_csv('kbp/data/margins_cache.csv', index=False)
         kbp_scores = compute_kbp_scores(picks, margins)
 
         kbp_scores.to_csv('kbp/data/kbp.csv', index=False)
