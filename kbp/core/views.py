@@ -82,13 +82,6 @@ def test(request):
     # Render the template with the context
     return render(request, 'core/render_scores.html', context)
 
-    # return HttpResponse(margins.to_html(index=False))
-    return HttpResponse(kbp_scores.to_html(
-        index=False,
-        justify='center',
-        border=5
-    ))
-
 def updating(request):
     return HttpResponse(create_update_list(pd.read_csv('kbp/data/scores_new.csv')))
 
@@ -275,7 +268,6 @@ def compute_kbp_scores(picks, margins):
 def convert_to_utf(string):
     new_str = string.encode('utf-8', errors='backslashreplace').decode('utf-8')
     return new_str
-    return bytes(string, 'latin-1').decode('utf-8')
 
 def get_teams(scores, id: str, test):
     assert id in scores['ESPN Game ID'].astype(str).to_list()
@@ -288,7 +280,7 @@ def fake_request(id):
 def request_live_score(id):
     print(f"Getting game {id}")
     data = requests.get(f"http://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event={id}").json()
-    # write_json_to_file(data, id)
+    write_json_to_file(data, id)
     return data
 
 def load_scores():
