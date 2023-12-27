@@ -1043,83 +1043,177 @@
 1041,David Pasley,EasyPost Hawaii Bowl,Coastal Carolina,6,10,True,4,6
 1042,Renee Bittner,EasyPost Hawaii Bowl,Coastal Carolina,6,10,True,4,6
 1043,Dax Wishart,EasyPost Hawaii Bowl,Coastal Carolina,60,10,True,50,5
-1044,Ethan Hsu,Quick Lane Bowl,Minnesota (Favorite),6,-1,False,7,0
-1045,Chris Harrison,Quick Lane Bowl,Minnesota (Favorite),2,-1,False,3,0
-1046,Craig Garbarini,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1047,Tristan Lee,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1048,Kevin Jupena,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1049,Mark Junk,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1050,John Wilton,Quick Lane Bowl,Minnesota (Favorite),9,-1,False,10,0
-1051,Ray Barrett,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1052,Patricia Hash,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1053,Fred Kirchmann,Quick Lane Bowl,Minnesota (Favorite),17,-1,False,18,0
-1054,Cab Stalions,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1055,Spencer Wilson,Quick Lane Bowl,Minnesota (Favorite),1,-1,False,2,0
-1056,Greg Lucas,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1057,Jonathan Rogowski,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1058,John Junk,Quick Lane Bowl,Minnesota (Favorite),11,-1,False,12,0
-1059,Damon Tweedy,Quick Lane Bowl,Minnesota (Favorite),12,-1,False,13,0
-1060,Dan Kirchmann,Quick Lane Bowl,Minnesota (Favorite),6,-1,False,7,0
-1061,Dirk Phillips,Quick Lane Bowl,Minnesota (Favorite),3,-1,False,4,0
-1062,Larry Welch,Quick Lane Bowl,Minnesota (Favorite),5,-1,False,6,0
-1063,Connie Kirchmann,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1064,Justin Darden,Quick Lane Bowl,Minnesota (Favorite),3,-1,False,4,0
-1065,Steven Junk,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1066,Brendan White,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1067,Adam Silver,Quick Lane Bowl,Minnesota (Favorite),5,-1,False,6,0
-1068,Courtney Kirchmann,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1069,Joe Saundercook,Quick Lane Bowl,Minnesota (Favorite),9,-1,False,10,0
-1070,Johnny Bean,Quick Lane Bowl,Minnesota (Favorite),22,-1,False,23,0
-1071,Jake Riegert,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1072,Reed Farnen,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1073,Coco Pasley,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1074,Suz Bittner,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1075,Kelsey Pasley,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1076,Tia Bittner,Quick Lane Bowl,Minnesota (Favorite),7,-1,False,8,0
-1077,Renee Bittner,Quick Lane Bowl,Minnesota (Favorite),10,-1,False,11,0
-1078,Rylan Pasley,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1079,Paul Rosser,Quick Lane Bowl,Minnesota (Favorite),8,-1,False,9,0
-1080,Maggie Jenkins,Quick Lane Bowl,Minnesota (Favorite),14,-1,False,15,0
-1081,Jack Saundercook,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1082,Tyler Kirchmann,Quick Lane Bowl,Minnesota (Favorite),4,-1,False,5,0
-1083,Dax Wishart,Quick Lane Bowl,Minnesota (Favorite),52,-1,False,53,0
-1084,Jane Silver,Quick Lane Bowl,Minnesota (Favorite),3,-1,False,4,0
-1085,Alvin Thompson,Quick Lane Bowl,Minnesota (Favorite),3,-1,False,4,0
-1086,Chris Head,Quick Lane Bowl,Bowling Green,7,7,False,0,10
-1087,Josh Tiegreen,Quick Lane Bowl,Bowling Green,5,7,False,2,8
-1088,Monica Cook,Quick Lane Bowl,Bowling Green,2,7,False,5,6
-1089,Peter Cook,Quick Lane Bowl,Bowling Green,7,7,False,0,10
-1090,Brady Junk,Quick Lane Bowl,Bowling Green,7,7,False,0,10
-1091,Eric Kirchmann,Quick Lane Bowl,Bowling Green,4,7,False,3,8
-1092,Paul Phillips,Quick Lane Bowl,Bowling Green,7,7,False,0,10
-1093,Thomas Nesbitt,Quick Lane Bowl,Bowling Green,4,7,False,3,8
-1094,Isaac Kirchmann,Quick Lane Bowl,Bowling Green,67,7,False,60,5
-1095,Roit Person,Quick Lane Bowl,Bowling Green,3,7,False,4,6
-1096,David Novosad,Quick Lane Bowl,Bowling Green,3,7,False,4,6
-1097,Sandra Saundercook,Quick Lane Bowl,Bowling Green,1,7,False,6,6
-1098,Aiden Murphy,Quick Lane Bowl,Bowling Green,10,7,False,3,8
-1099,Cole Wilson,Quick Lane Bowl,Bowling Green,3,7,False,4,6
-1100,David Pasley,Quick Lane Bowl,Bowling Green,7,7,False,0,10
-1101,Brett Expert Gibbons,Quick Lane Bowl,Bowling Green,6,7,False,1,8
-1102,Ethan Hsu,Natl Championship,Alabama,7,10,False,3,8
-1103,Chris Head,Natl Championship,Alabama,6,10,False,4,6
-1104,Craig Garbarini,Natl Championship,Alabama,12,10,False,2,8
-1105,Kevin Jupena,Natl Championship,Alabama,10,10,False,0,10
-1106,Josh Tiegreen,Natl Championship,Alabama,4,10,False,6,6
-1107,Monica Cook,Natl Championship,Alabama,7,10,False,3,8
-1108,Peter Cook,Natl Championship,Alabama,7,10,False,3,8
-1109,Patricia Hash,Natl Championship,Alabama,7,10,False,3,8
-1110,Cab Stalions,Natl Championship,Alabama,7,10,False,3,8
-1111,Jonathan Rogowski,Natl Championship,Alabama,10,10,False,0,10
-1112,David Novosad,Natl Championship,Alabama,3,10,False,7,6
-1113,Justin Darden,Natl Championship,Alabama,22,10,False,12,5
-1114,Brendan White,Natl Championship,Alabama,21,10,False,11,5
-1115,Adam Silver,Natl Championship,Alabama,6,10,False,4,6
-1116,Joe Saundercook,Natl Championship,Alabama,18,10,False,8,5
-1117,Johnny Bean,Natl Championship,Alabama,17,10,False,7,6
-1118,Jake Riegert,Natl Championship,Alabama,10,10,False,0,10
-1119,Reed Farnen,Natl Championship,Alabama,14,10,False,4,6
-1120,Cole Wilson,Natl Championship,Alabama,4,10,False,6,6
-1121,Jack Saundercook,Natl Championship,Alabama,4,10,False,6,6
-1122,Tyler Kirchmann,Natl Championship,Alabama,3,10,False,7,6
-1123,Jane Silver,Natl Championship,Alabama,14,10,False,4,6
+1044,Ethan Hsu,Quick Lane Bowl,Minnesota (Favorite),6,6,True,0,10
+1045,Chris Harrison,Quick Lane Bowl,Minnesota (Favorite),2,6,True,4,6
+1046,Craig Garbarini,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1047,Tristan Lee,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1048,Kevin Jupena,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1049,Mark Junk,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1050,John Wilton,Quick Lane Bowl,Minnesota (Favorite),9,6,True,3,8
+1051,Ray Barrett,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1052,Patricia Hash,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1053,Fred Kirchmann,Quick Lane Bowl,Minnesota (Favorite),17,6,True,11,5
+1054,Cab Stalions,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1055,Spencer Wilson,Quick Lane Bowl,Minnesota (Favorite),1,6,True,5,6
+1056,Greg Lucas,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1057,Jonathan Rogowski,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1058,John Junk,Quick Lane Bowl,Minnesota (Favorite),11,6,True,5,6
+1059,Damon Tweedy,Quick Lane Bowl,Minnesota (Favorite),12,6,True,6,6
+1060,Dan Kirchmann,Quick Lane Bowl,Minnesota (Favorite),6,6,True,0,10
+1061,Dirk Phillips,Quick Lane Bowl,Minnesota (Favorite),3,6,True,3,8
+1062,Larry Welch,Quick Lane Bowl,Minnesota (Favorite),5,6,True,1,8
+1063,Connie Kirchmann,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1064,Justin Darden,Quick Lane Bowl,Minnesota (Favorite),3,6,True,3,8
+1065,Steven Junk,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1066,Brendan White,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1067,Adam Silver,Quick Lane Bowl,Minnesota (Favorite),5,6,True,1,8
+1068,Courtney Kirchmann,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1069,Joe Saundercook,Quick Lane Bowl,Minnesota (Favorite),9,6,True,3,8
+1070,Johnny Bean,Quick Lane Bowl,Minnesota (Favorite),22,6,True,16,5
+1071,Jake Riegert,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1072,Reed Farnen,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1073,Coco Pasley,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1074,Suz Bittner,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1075,Kelsey Pasley,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1076,Tia Bittner,Quick Lane Bowl,Minnesota (Favorite),7,6,True,1,8
+1077,Renee Bittner,Quick Lane Bowl,Minnesota (Favorite),10,6,True,4,6
+1078,Rylan Pasley,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1079,Paul Rosser,Quick Lane Bowl,Minnesota (Favorite),8,6,True,2,8
+1080,Maggie Jenkins,Quick Lane Bowl,Minnesota (Favorite),14,6,True,8,5
+1081,Jack Saundercook,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1082,Tyler Kirchmann,Quick Lane Bowl,Minnesota (Favorite),4,6,True,2,8
+1083,Dax Wishart,Quick Lane Bowl,Minnesota (Favorite),52,6,True,46,5
+1084,Jane Silver,Quick Lane Bowl,Minnesota (Favorite),3,6,True,3,8
+1085,Alvin Thompson,Quick Lane Bowl,Minnesota (Favorite),3,6,True,3,8
+1086,Chris Head,Quick Lane Bowl,Bowling Green,7,-1,True,8,0
+1087,Josh Tiegreen,Quick Lane Bowl,Bowling Green,5,-1,True,6,0
+1088,Monica Cook,Quick Lane Bowl,Bowling Green,2,-1,True,3,0
+1089,Peter Cook,Quick Lane Bowl,Bowling Green,7,-1,True,8,0
+1090,Brady Junk,Quick Lane Bowl,Bowling Green,7,-1,True,8,0
+1091,Eric Kirchmann,Quick Lane Bowl,Bowling Green,4,-1,True,5,0
+1092,Paul Phillips,Quick Lane Bowl,Bowling Green,7,-1,True,8,0
+1093,Thomas Nesbitt,Quick Lane Bowl,Bowling Green,4,-1,True,5,0
+1094,Isaac Kirchmann,Quick Lane Bowl,Bowling Green,67,-1,True,68,0
+1095,Roit Person,Quick Lane Bowl,Bowling Green,3,-1,True,4,0
+1096,David Novosad,Quick Lane Bowl,Bowling Green,3,-1,True,4,0
+1097,Sandra Saundercook,Quick Lane Bowl,Bowling Green,1,-1,True,2,0
+1098,Aiden Murphy,Quick Lane Bowl,Bowling Green,10,-1,True,11,0
+1099,Cole Wilson,Quick Lane Bowl,Bowling Green,3,-1,True,4,0
+1100,David Pasley,Quick Lane Bowl,Bowling Green,7,-1,True,8,0
+1101,Brett Expert Gibbons,Quick Lane Bowl,Bowling Green,6,-1,True,7,0
+1102,Ethan Hsu,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1103,Chris Head,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1104,Craig Garbarini,SERVPRO First Responder Bowl,Rice,1,-1,True,2,0
+1105,Kevin Jupena,SERVPRO First Responder Bowl,Rice,4,-1,True,5,0
+1106,Ray Barrett,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1107,Greg Lucas,SERVPRO First Responder Bowl,Rice,1,-1,True,2,0
+1108,Jonathan Rogowski,SERVPRO First Responder Bowl,Rice,4,-1,True,5,0
+1109,Thomas Nesbitt,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1110,Roit Person,SERVPRO First Responder Bowl,Rice,2,-1,True,3,0
+1111,David Novosad,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1112,Dirk Phillips,SERVPRO First Responder Bowl,Rice,5,-1,True,6,0
+1113,Larry Welch,SERVPRO First Responder Bowl,Rice,10,-1,True,11,0
+1114,Justin Darden,SERVPRO First Responder Bowl,Rice,4,-1,True,5,0
+1115,Courtney Kirchmann,SERVPRO First Responder Bowl,Rice,3,-1,True,4,0
+1116,Aiden Murphy,SERVPRO First Responder Bowl,Rice,8,-1,True,9,0
+1117,Coco Pasley,SERVPRO First Responder Bowl,Rice,6,-1,True,7,0
+1118,Tia Bittner,SERVPRO First Responder Bowl,Rice,10,-1,True,11,0
+1119,Jack Saundercook,SERVPRO First Responder Bowl,Rice,8,-1,True,9,0
+1120,Tyler Kirchmann,SERVPRO First Responder Bowl,Rice,4,-1,True,5,0
+1121,Chris Harrison,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1122,Tristan Lee,SERVPRO First Responder Bowl,Texas State (Favorite),3,24,True,21,5
+1123,Josh Tiegreen,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1124,Mark Junk,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1125,Monica Cook,SERVPRO First Responder Bowl,Texas State (Favorite),3,24,True,21,5
+1126,Peter Cook,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1127,John Wilton,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1128,Patricia Hash,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1129,Brady Junk,SERVPRO First Responder Bowl,Texas State (Favorite),14,24,True,10,5
+1130,Fred Kirchmann,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1131,Cab Stalions,SERVPRO First Responder Bowl,Texas State (Favorite),5,24,True,19,5
+1132,Eric Kirchmann,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1133,Spencer Wilson,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1134,Paul Phillips,SERVPRO First Responder Bowl,Texas State (Favorite),5,24,True,19,5
+1135,John Junk,SERVPRO First Responder Bowl,Texas State (Favorite),3,24,True,21,5
+1136,Isaac Kirchmann,SERVPRO First Responder Bowl,Texas State (Favorite),94,24,True,70,5
+1137,Damon Tweedy,SERVPRO First Responder Bowl,Texas State (Favorite),8,24,True,16,5
+1138,Dan Kirchmann,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1139,Connie Kirchmann,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1140,Steven Junk,SERVPRO First Responder Bowl,Texas State (Favorite),5,24,True,19,5
+1141,Brendan White,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1142,Adam Silver,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1143,Sandra Saundercook,SERVPRO First Responder Bowl,Texas State (Favorite),1,24,True,23,5
+1144,Joe Saundercook,SERVPRO First Responder Bowl,Texas State (Favorite),8,24,True,16,5
+1145,Johnny Bean,SERVPRO First Responder Bowl,Texas State (Favorite),4,24,True,20,5
+1146,Jake Riegert,SERVPRO First Responder Bowl,Texas State (Favorite),3,24,True,21,5
+1147,Reed Farnen,SERVPRO First Responder Bowl,Texas State (Favorite),14,24,True,10,5
+1148,Cole Wilson,SERVPRO First Responder Bowl,Texas State (Favorite),14,24,True,10,5
+1149,David Pasley,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1150,Suz Bittner,SERVPRO First Responder Bowl,Texas State (Favorite),21,24,True,3,8
+1151,Kelsey Pasley,SERVPRO First Responder Bowl,Texas State (Favorite),4,24,True,20,5
+1152,Renee Bittner,SERVPRO First Responder Bowl,Texas State (Favorite),6,24,True,18,5
+1153,Rylan Pasley,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1154,Brett Expert Gibbons,SERVPRO First Responder Bowl,Texas State (Favorite),4,24,True,20,5
+1155,Paul Rosser,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1156,Maggie Jenkins,SERVPRO First Responder Bowl,Texas State (Favorite),10,24,True,14,5
+1157,Dax Wishart,SERVPRO First Responder Bowl,Texas State (Favorite),45,24,True,21,5
+1158,Jane Silver,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
+1159,Alvin Thompson,SERVPRO First Responder Bowl,Texas State (Favorite),19,24,True,5,6
+1160,Ethan Hsu,Guaranteed Rate Bowl,UNLV,3,-1,False,4,0
+1161,Isaac Kirchmann,Guaranteed Rate Bowl,UNLV,66,-1,False,67,0
+1162,Roit Person,Guaranteed Rate Bowl,UNLV,46,-1,False,47,0
+1163,David Novosad,Guaranteed Rate Bowl,UNLV,3,-1,False,4,0
+1164,Chris Head,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1165,Chris Harrison,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1166,Craig Garbarini,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1167,Tristan Lee,Guaranteed Rate Bowl,Kansas (Favorite),5,21,False,16,5
+1168,Kevin Jupena,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
+1169,Josh Tiegreen,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
+1170,Mark Junk,Guaranteed Rate Bowl,Kansas (Favorite),5,21,False,16,5
+1171,Monica Cook,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1172,Peter Cook,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1173,John Wilton,Guaranteed Rate Bowl,Kansas (Favorite),8,21,False,13,5
+1174,Ray Barrett,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1175,Patricia Hash,Guaranteed Rate Bowl,Kansas (Favorite),2,21,False,19,5
+1176,Brady Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1177,Fred Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1178,Cab Stalions,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
+1179,Eric Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
+1180,Spencer Wilson,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
+1181,Paul Phillips,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1182,Greg Lucas,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
+1183,Jonathan Rogowski,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1184,Thomas Nesbitt,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1185,John Junk,Guaranteed Rate Bowl,Kansas (Favorite),16,21,False,5,6
+1186,Damon Tweedy,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1187,Dan Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
+1188,Dirk Phillips,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
+1189,Larry Welch,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1190,Connie Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1191,Justin Darden,Guaranteed Rate Bowl,Kansas (Favorite),22,21,False,1,8
+1192,Steven Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1193,Brendan White,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
+1194,Adam Silver,Guaranteed Rate Bowl,Kansas (Favorite),8,21,False,13,5
+1195,Courtney Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),6,21,False,15,5
+1196,Sandra Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,21,False,12,5
+1197,Joe Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
+1198,Aiden Murphy,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1199,Johnny Bean,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
+1200,Jake Riegert,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1201,Reed Farnen,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1202,Cole Wilson,Guaranteed Rate Bowl,Kansas (Favorite),24,21,False,3,8
+1203,David Pasley,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
+1204,Coco Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1205,Suz Bittner,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1206,Kelsey Pasley,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1207,Tia Bittner,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1208,Renee Bittner,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1209,Rylan Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
+1210,Brett Expert Gibbons,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
+1211,Paul Rosser,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
+1212,Maggie Jenkins,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
+1213,Jack Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,21,False,12,5
+1214,Tyler Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),24,21,False,3,8
+1215,Dax Wishart,Guaranteed Rate Bowl,Kansas (Favorite),42,21,False,21,5
+1216,Jane Silver,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
+1217,Alvin Thompson,Guaranteed Rate Bowl,Kansas (Favorite),19,21,False,2,8

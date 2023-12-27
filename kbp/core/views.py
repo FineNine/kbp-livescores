@@ -102,16 +102,7 @@ def update_scores(scores):
     # game_ids = ['401551470','401551733','401551746']
 
     # game_data = request_live_score(game_ids[0])
-    data = []
-    for id in game_ids:
-        # game_data = fake_request(id)
-        game_data = request_live_score(id)
-        # print(game_data)
-        # print(dict(game_data))
-        game_data = format_game_data(id, game_data)
-        if game_data is not None:
-            data += game_data
-        # print(data)
+    data =  request_games(game_ids)
     # data += [
     #     (
     #         '401551789',
@@ -132,28 +123,43 @@ def update_scores(scores):
     #         '2024-01-08T07:30Z'
     #     ),
     # ]
-    data = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','isFinal','date'])
+    
+    new_scores = pd.DataFrame(data, columns = ['ESPN Game ID','ESPN Team Name','ESPN Team ID','Points','State','isFinal','date'])
+    scores = update_score_records(scores, new_scores)
 
 
+    # data['index'] = data['ESPN Game ID'].astype(str) + data['ESPN Team Name']
+    # scores['index'] = scores['ESPN Game ID'].astype(str) + scores['ESPN Team Name']
 
-    data['index'] = data['ESPN Game ID'].astype(str) + data['ESPN Team Name']
-    scores['index'] = scores['ESPN Game ID'].astype(str) + scores['ESPN Team Name']
-
-    data.set_index('index', inplace=True)
-    scores.set_index('index', inplace=True)
-
-    temp_scores = scores[scores.columns.difference(data.columns)]
-    print(data)
-    data = temp_scores.merge(data, left_index=True, right_index=True, how='left')
-    scores.update(data, overwrite=True)
-    print(scores)
+    # data.set_index('index', inplace=True)
     # scores.set_index('index', inplace=True)
-    # print(scores[['Bowl','Team','Points']])
 
-    # print(game_data)
-
-    # game_data = 
+    # temp_scores = scores[scores.columns.difference(data.columns)]
+    # data = temp_scores.merge(data, left_index=True, right_index=True, how='left')
+    # scores.update(data, overwrite=True)
     return scores.sort_values('date')
+
+def update_score_records(old_scores, new_scores):
+    old_scores['index'] = old_scores['ESPN Game ID'].astype(str) + old_scores['ESPN Team Name']
+    new_scores['index'] = new_scores['ESPN Game ID'].astype(str) + new_scores['ESPN Team Name']
+    
+    for _, row in new_scores.iterrows():
+        old_scores.loc[old_scores['index'] == row['index'], ['Points','isFinal','State','date']] = row[['Points','isFinal','State','date']].values
+    
+    print(old_scores[old_scores['index'].isin(new_scores['index'].to_list())]['Bowl'].unique())
+
+    return old_scores.drop('index', axis=1)
+
+def request_games(game_ids):
+    data = []
+    for id in game_ids:
+        # game_data = fake_request(id)1
+        game_data = request_live_score(id)
+        game_data = format_game_data(id, game_data)
+        if game_data is not None:
+            data += game_data
+
+    return data
 
 def format_game_data(id, response):
     try:

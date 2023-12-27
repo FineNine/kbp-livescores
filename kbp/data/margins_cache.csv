@@ -35,7 +35,9 @@ SRS Distribution Las Vegas Bowl,Northwestern,14,401551744,Northwestern Wildcats,
 SRS Distribution Las Vegas Bowl,Utah (Favorite),7,401551744,Utah Utes,True,254,post,2023-12-24T00:30Z,7,-1
 EasyPost Hawaii Bowl,Coastal Carolina,24,401551746,Coastal Carolina Chanticleers,True,324,post,2023-12-24T03:30Z,14,10
 EasyPost Hawaii Bowl,San Jose State (Favorite),14,401551746,San José State Spartans,True,23,post,2023-12-24T03:30Z,14,-1
-Quick Lane Bowl,Bowling Green,7,401551756,Bowling Green Falcons,False,189,in,2023-12-26T19:00Z,0,7
-Quick Lane Bowl,Minnesota (Favorite),0,401551756,Minnesota Golden Gophers,False,135,in,2023-12-26T19:00Z,0,-1
-Natl Championship,Alabama,30,401551789,Alabama Crimson Tide,False,333,in,2024-01-08T07:30Z,20,10
-Natl Championship,Texas (Favorite),20,401551789,Texas Longhorns,False,251,in,2024-01-08T07:30Z,20,-1
+Quick Lane Bowl,Bowling Green,24,401551756,Bowling Green Falcons,True,189,post,2023-12-26T19:00Z,24,-1
+Quick Lane Bowl,Minnesota (Favorite),30,401551756,Minnesota Golden Gophers,True,135,post,2023-12-26T19:00Z,24,6
+SERVPRO First Responder Bowl,Rice,21,401551748,Rice Owls,True,242,post,2023-12-26T22:30Z,21,-1
+SERVPRO First Responder Bowl,Texas State (Favorite),45,401551748,Texas State Bobcats,True,326,post,2023-12-26T22:30Z,21,24
+Guaranteed Rate Bowl,Kansas (Favorite),28,401551757,Kansas Jayhawks,False,2305,in,2023-12-27T02:00Z,7,21
+Guaranteed Rate Bowl,UNLV,7,401551757,UNLV Rebels,False,2439,in,2023-12-27T02:00Z,7,-1

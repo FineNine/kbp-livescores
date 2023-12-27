@@ -27,4 +27,4 @@ if __name__ == "__main__":
         kbp_scores.to_csv('kbp/data/kbp.csv', index=False)
 
         # WAIT 1 Minute then update
-        time.sleep(60)
+        time.sleep(10)
