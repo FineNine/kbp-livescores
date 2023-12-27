@@ -9,6 +9,23 @@ import requests
 import datetime
 
 # Create your views here.
+def official_scores(request):
+    html_table = pd.read_csv('kbp/data/kbp.csv')[['Rank','Name','Score']].to_html(
+        index=False,
+        justify='center',
+        border=5,
+        classes='table table-bordered',
+        escape=False
+    )
+
+    return HttpResponse(html_table)
+
+    context = {'html_table': html_table}
+
+    # Render the template with the context
+    return render(request, 'core/render_scores.html', context)
+
+
 def kbp_scores(request):
     html_table = pd.read_csv('kbp/data/kbp.csv').to_html(
         index=False,

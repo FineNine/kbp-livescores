@@ -10,4 +10,5 @@ urlpatterns = [
     path("games", views.games, name="games"),
     path("picks", views.picks, name="picks"),
     path("margins", views.margins, name="margins"),
+    path("official", views.official_scores, name="official"),
 ]
