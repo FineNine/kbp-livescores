@@ -53,7 +53,7 @@ def games(request):
 def picks(request):
     picks = pd.read_csv('kbp/data/picks_cache.csv')
     
-    picks = picks[picks['Name'].isin(['Ethan Hsu','Tyler Kirchmann','Johnny Bean','Eric Kirchmann','Jonathan Rogowski'])]
+    # picks = picks[picks['Name'].isin(['Ethan Hsu','Tyler Kirchmann','Johnny Bean','Eric Kirchmann','Jonathan Rogowski', 'Tristan Lee'])]
     
     
     html_table = picks.sort_values('Name').to_html(

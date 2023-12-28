@@ -1159,61 +1159,351 @@
 1157,Dax Wishart,SERVPRO First Responder Bowl,Texas State (Favorite),45,24,True,21,5
 1158,Jane Silver,SERVPRO First Responder Bowl,Texas State (Favorite),7,24,True,17,5
 1159,Alvin Thompson,SERVPRO First Responder Bowl,Texas State (Favorite),19,24,True,5,6
-1160,Ethan Hsu,Guaranteed Rate Bowl,UNLV,3,-1,False,4,0
-1161,Isaac Kirchmann,Guaranteed Rate Bowl,UNLV,66,-1,False,67,0
-1162,Roit Person,Guaranteed Rate Bowl,UNLV,46,-1,False,47,0
-1163,David Novosad,Guaranteed Rate Bowl,UNLV,3,-1,False,4,0
-1164,Chris Head,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1165,Chris Harrison,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1166,Craig Garbarini,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1167,Tristan Lee,Guaranteed Rate Bowl,Kansas (Favorite),5,21,False,16,5
-1168,Kevin Jupena,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
-1169,Josh Tiegreen,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
-1170,Mark Junk,Guaranteed Rate Bowl,Kansas (Favorite),5,21,False,16,5
-1171,Monica Cook,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1172,Peter Cook,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1173,John Wilton,Guaranteed Rate Bowl,Kansas (Favorite),8,21,False,13,5
-1174,Ray Barrett,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1175,Patricia Hash,Guaranteed Rate Bowl,Kansas (Favorite),2,21,False,19,5
-1176,Brady Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1177,Fred Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1178,Cab Stalions,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
-1179,Eric Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
-1180,Spencer Wilson,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
-1181,Paul Phillips,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1182,Greg Lucas,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
-1183,Jonathan Rogowski,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1184,Thomas Nesbitt,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1185,John Junk,Guaranteed Rate Bowl,Kansas (Favorite),16,21,False,5,6
-1186,Damon Tweedy,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1187,Dan Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
-1188,Dirk Phillips,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
-1189,Larry Welch,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1190,Connie Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1191,Justin Darden,Guaranteed Rate Bowl,Kansas (Favorite),22,21,False,1,8
-1192,Steven Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1193,Brendan White,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
-1194,Adam Silver,Guaranteed Rate Bowl,Kansas (Favorite),8,21,False,13,5
-1195,Courtney Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),6,21,False,15,5
-1196,Sandra Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,21,False,12,5
-1197,Joe Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),17,21,False,4,6
-1198,Aiden Murphy,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1199,Johnny Bean,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
-1200,Jake Riegert,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1201,Reed Farnen,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1202,Cole Wilson,Guaranteed Rate Bowl,Kansas (Favorite),24,21,False,3,8
-1203,David Pasley,Guaranteed Rate Bowl,Kansas (Favorite),13,21,False,8,5
-1204,Coco Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1205,Suz Bittner,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1206,Kelsey Pasley,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1207,Tia Bittner,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1208,Renee Bittner,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1209,Rylan Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,21,False,11,5
-1210,Brett Expert Gibbons,Guaranteed Rate Bowl,Kansas (Favorite),12,21,False,9,5
-1211,Paul Rosser,Guaranteed Rate Bowl,Kansas (Favorite),14,21,False,7,6
-1212,Maggie Jenkins,Guaranteed Rate Bowl,Kansas (Favorite),21,21,False,0,10
-1213,Jack Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,21,False,12,5
-1214,Tyler Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),24,21,False,3,8
-1215,Dax Wishart,Guaranteed Rate Bowl,Kansas (Favorite),42,21,False,21,5
-1216,Jane Silver,Guaranteed Rate Bowl,Kansas (Favorite),7,21,False,14,5
-1217,Alvin Thompson,Guaranteed Rate Bowl,Kansas (Favorite),19,21,False,2,8
+1160,Ethan Hsu,Guaranteed Rate Bowl,UNLV,3,-1,True,4,0
+1161,Isaac Kirchmann,Guaranteed Rate Bowl,UNLV,66,-1,True,67,0
+1162,Roit Person,Guaranteed Rate Bowl,UNLV,46,-1,True,47,0
+1163,David Novosad,Guaranteed Rate Bowl,UNLV,3,-1,True,4,0
+1164,Chris Head,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1165,Chris Harrison,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1166,Craig Garbarini,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1167,Tristan Lee,Guaranteed Rate Bowl,Kansas (Favorite),5,13,True,8,5
+1168,Kevin Jupena,Guaranteed Rate Bowl,Kansas (Favorite),17,13,True,4,6
+1169,Josh Tiegreen,Guaranteed Rate Bowl,Kansas (Favorite),12,13,True,1,8
+1170,Mark Junk,Guaranteed Rate Bowl,Kansas (Favorite),5,13,True,8,5
+1171,Monica Cook,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1172,Peter Cook,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1173,John Wilton,Guaranteed Rate Bowl,Kansas (Favorite),8,13,True,5,6
+1174,Ray Barrett,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1175,Patricia Hash,Guaranteed Rate Bowl,Kansas (Favorite),2,13,True,11,5
+1176,Brady Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1177,Fred Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1178,Cab Stalions,Guaranteed Rate Bowl,Kansas (Favorite),13,13,True,0,10
+1179,Eric Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),17,13,True,4,6
+1180,Spencer Wilson,Guaranteed Rate Bowl,Kansas (Favorite),21,13,True,8,5
+1181,Paul Phillips,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1182,Greg Lucas,Guaranteed Rate Bowl,Kansas (Favorite),13,13,True,0,10
+1183,Jonathan Rogowski,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1184,Thomas Nesbitt,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1185,John Junk,Guaranteed Rate Bowl,Kansas (Favorite),16,13,True,3,8
+1186,Damon Tweedy,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1187,Dan Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),12,13,True,1,8
+1188,Dirk Phillips,Guaranteed Rate Bowl,Kansas (Favorite),12,13,True,1,8
+1189,Larry Welch,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1190,Connie Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1191,Justin Darden,Guaranteed Rate Bowl,Kansas (Favorite),22,13,True,9,5
+1192,Steven Junk,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1193,Brendan White,Guaranteed Rate Bowl,Kansas (Favorite),21,13,True,8,5
+1194,Adam Silver,Guaranteed Rate Bowl,Kansas (Favorite),8,13,True,5,6
+1195,Courtney Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),6,13,True,7,6
+1196,Sandra Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,13,True,4,6
+1197,Joe Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),17,13,True,4,6
+1198,Aiden Murphy,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1199,Johnny Bean,Guaranteed Rate Bowl,Kansas (Favorite),13,13,True,0,10
+1200,Jake Riegert,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1201,Reed Farnen,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1202,Cole Wilson,Guaranteed Rate Bowl,Kansas (Favorite),24,13,True,11,5
+1203,David Pasley,Guaranteed Rate Bowl,Kansas (Favorite),13,13,True,0,10
+1204,Coco Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1205,Suz Bittner,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1206,Kelsey Pasley,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1207,Tia Bittner,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1208,Renee Bittner,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1209,Rylan Pasley,Guaranteed Rate Bowl,Kansas (Favorite),10,13,True,3,8
+1210,Brett Expert Gibbons,Guaranteed Rate Bowl,Kansas (Favorite),12,13,True,1,8
+1211,Paul Rosser,Guaranteed Rate Bowl,Kansas (Favorite),14,13,True,1,8
+1212,Maggie Jenkins,Guaranteed Rate Bowl,Kansas (Favorite),21,13,True,8,5
+1213,Jack Saundercook,Guaranteed Rate Bowl,Kansas (Favorite),9,13,True,4,6
+1214,Tyler Kirchmann,Guaranteed Rate Bowl,Kansas (Favorite),24,13,True,11,5
+1215,Dax Wishart,Guaranteed Rate Bowl,Kansas (Favorite),42,13,True,29,5
+1216,Jane Silver,Guaranteed Rate Bowl,Kansas (Favorite),7,13,True,6,6
+1217,Alvin Thompson,Guaranteed Rate Bowl,Kansas (Favorite),19,13,True,6,6
+1218,Ethan Hsu,Military Bowl presented by GoBowlingcom,Tulane,3,-1,True,4,0
+1219,Kevin Jupena,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1220,Ray Barrett,Military Bowl presented by GoBowlingcom,Tulane,6,-1,True,7,0
+1221,Spencer Wilson,Military Bowl presented by GoBowlingcom,Tulane,17,-1,True,18,0
+1222,Greg Lucas,Military Bowl presented by GoBowlingcom,Tulane,2,-1,True,3,0
+1223,Jonathan Rogowski,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1224,Thomas Nesbitt,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1225,Roit Person,Military Bowl presented by GoBowlingcom,Tulane,6,-1,True,7,0
+1226,David Novosad,Military Bowl presented by GoBowlingcom,Tulane,3,-1,True,4,0
+1227,Justin Darden,Military Bowl presented by GoBowlingcom,Tulane,10,-1,True,11,0
+1228,Sandra Saundercook,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1229,Aiden Murphy,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1230,Johnny Bean,Military Bowl presented by GoBowlingcom,Tulane,2,-1,True,3,0
+1231,Cole Wilson,Military Bowl presented by GoBowlingcom,Tulane,3,-1,True,4,0
+1232,Tyler Kirchmann,Military Bowl presented by GoBowlingcom,Tulane,7,-1,True,8,0
+1233,Dax Wishart,Military Bowl presented by GoBowlingcom,Tulane,48,-1,True,49,0
+1234,Chris Head,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),10,21,True,11,5
+1235,Chris Harrison,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),9,21,True,12,5
+1236,Craig Garbarini,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),4,21,True,17,5
+1237,Tristan Lee,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),14,21,True,7,6
+1238,Josh Tiegreen,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1239,Mark Junk,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),4,21,True,17,5
+1240,Monica Cook,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),5,21,True,16,5
+1241,Peter Cook,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1242,John Wilton,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),11,21,True,10,5
+1243,Patricia Hash,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1244,Brady Junk,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1245,Fred Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),10,21,True,11,5
+1246,Cab Stalions,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),8,21,True,13,5
+1247,Eric Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),4,21,True,17,5
+1248,Paul Phillips,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1249,John Junk,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1250,Isaac Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),43,21,True,22,5
+1251,Damon Tweedy,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),13,21,True,8,5
+1252,Dan Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),6,21,True,15,5
+1253,Dirk Phillips,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1254,Larry Welch,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1255,Connie Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),10,21,True,11,5
+1256,Steven Junk,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1257,Brendan White,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),14,21,True,7,6
+1258,Adam Silver,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),11,21,True,10,5
+1259,Courtney Kirchmann,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1260,Joe Saundercook,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),11,21,True,10,5
+1261,Jake Riegert,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1262,Reed Farnen,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),3,21,True,18,5
+1263,David Pasley,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),10,21,True,11,5
+1264,Coco Pasley,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),6,21,True,15,5
+1265,Suz Bittner,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),9,21,True,12,5
+1266,Kelsey Pasley,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),4,21,True,17,5
+1267,Tia Bittner,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),14,21,True,7,6
+1268,Renee Bittner,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),10,21,True,11,5
+1269,Rylan Pasley,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),4,21,True,17,5
+1270,Brett Expert Gibbons,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),15,21,True,6,6
+1271,Paul Rosser,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),8,21,True,13,5
+1272,Maggie Jenkins,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),14,21,True,7,6
+1273,Jack Saundercook,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),11,21,True,10,5
+1274,Jane Silver,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),7,21,True,14,5
+1275,Alvin Thompson,Military Bowl presented by GoBowlingcom,Virginia Tech (Favorite),15,21,True,6,6
+1276,Ethan Hsu,Dukes Mayo Bowl,North Carolina,4,-1,True,5,0
+1277,Chris Head,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1278,Craig Garbarini,Dukes Mayo Bowl,North Carolina,6,-1,True,7,0
+1279,Tristan Lee,Dukes Mayo Bowl,North Carolina,8,-1,True,9,0
+1280,John Wilton,Dukes Mayo Bowl,North Carolina,6,-1,True,7,0
+1281,Patricia Hash,Dukes Mayo Bowl,North Carolina,4,-1,True,5,0
+1282,Greg Lucas,Dukes Mayo Bowl,North Carolina,3,-1,True,4,0
+1283,Thomas Nesbitt,Dukes Mayo Bowl,North Carolina,10,-1,True,11,0
+1284,John Junk,Dukes Mayo Bowl,North Carolina,3,-1,True,4,0
+1285,Isaac Kirchmann,Dukes Mayo Bowl,North Carolina,78,-1,True,79,0
+1286,Roit Person,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1287,David Novosad,Dukes Mayo Bowl,North Carolina,3,-1,True,4,0
+1288,Damon Tweedy,Dukes Mayo Bowl,North Carolina,4,-1,True,5,0
+1289,Larry Welch,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1290,Connie Kirchmann,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1291,Justin Darden,Dukes Mayo Bowl,North Carolina,6,-1,True,7,0
+1292,Adam Silver,Dukes Mayo Bowl,North Carolina,4,-1,True,5,0
+1293,Courtney Kirchmann,Dukes Mayo Bowl,North Carolina,14,-1,True,15,0
+1294,Aiden Murphy,Dukes Mayo Bowl,North Carolina,8,-1,True,9,0
+1295,Johnny Bean,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1296,David Pasley,Dukes Mayo Bowl,North Carolina,17,-1,True,18,0
+1297,Coco Pasley,Dukes Mayo Bowl,North Carolina,10,-1,True,11,0
+1298,Kelsey Pasley,Dukes Mayo Bowl,North Carolina,4,-1,True,5,0
+1299,Tia Bittner,Dukes Mayo Bowl,North Carolina,10,-1,True,11,0
+1300,Dax Wishart,Dukes Mayo Bowl,North Carolina,52,-1,True,53,0
+1301,Jane Silver,Dukes Mayo Bowl,North Carolina,7,-1,True,8,0
+1302,Chris Harrison,Dukes Mayo Bowl,West Virginia (Favorite),4,20,True,16,5
+1303,Kevin Jupena,Dukes Mayo Bowl,West Virginia (Favorite),8,20,True,12,5
+1304,Josh Tiegreen,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1305,Mark Junk,Dukes Mayo Bowl,West Virginia (Favorite),5,20,True,15,5
+1306,Monica Cook,Dukes Mayo Bowl,West Virginia (Favorite),3,20,True,17,5
+1307,Peter Cook,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1308,Ray Barrett,Dukes Mayo Bowl,West Virginia (Favorite),3,20,True,17,5
+1309,Brady Junk,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1310,Fred Kirchmann,Dukes Mayo Bowl,West Virginia (Favorite),6,20,True,14,5
+1311,Cab Stalions,Dukes Mayo Bowl,West Virginia (Favorite),6,20,True,14,5
+1312,Eric Kirchmann,Dukes Mayo Bowl,West Virginia (Favorite),4,20,True,16,5
+1313,Spencer Wilson,Dukes Mayo Bowl,West Virginia (Favorite),11,20,True,9,5
+1314,Paul Phillips,Dukes Mayo Bowl,West Virginia (Favorite),14,20,True,6,6
+1315,Jonathan Rogowski,Dukes Mayo Bowl,West Virginia (Favorite),10,20,True,10,5
+1316,Dan Kirchmann,Dukes Mayo Bowl,West Virginia (Favorite),4,20,True,16,5
+1317,Dirk Phillips,Dukes Mayo Bowl,West Virginia (Favorite),3,20,True,17,5
+1318,Steven Junk,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1319,Brendan White,Dukes Mayo Bowl,West Virginia (Favorite),14,20,True,6,6
+1320,Sandra Saundercook,Dukes Mayo Bowl,West Virginia (Favorite),10,20,True,10,5
+1321,Joe Saundercook,Dukes Mayo Bowl,West Virginia (Favorite),10,20,True,10,5
+1322,Jake Riegert,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1323,Reed Farnen,Dukes Mayo Bowl,West Virginia (Favorite),10,20,True,10,5
+1324,Cole Wilson,Dukes Mayo Bowl,West Virginia (Favorite),11,20,True,9,5
+1325,Suz Bittner,Dukes Mayo Bowl,West Virginia (Favorite),13,20,True,7,6
+1326,Renee Bittner,Dukes Mayo Bowl,West Virginia (Favorite),6,20,True,14,5
+1327,Rylan Pasley,Dukes Mayo Bowl,West Virginia (Favorite),4,20,True,16,5
+1328,Brett Expert Gibbons,Dukes Mayo Bowl,West Virginia (Favorite),13,20,True,7,6
+1329,Paul Rosser,Dukes Mayo Bowl,West Virginia (Favorite),8,20,True,12,5
+1330,Maggie Jenkins,Dukes Mayo Bowl,West Virginia (Favorite),7,20,True,13,5
+1331,Jack Saundercook,Dukes Mayo Bowl,West Virginia (Favorite),6,20,True,14,5
+1332,Tyler Kirchmann,Dukes Mayo Bowl,West Virginia (Favorite),14,20,True,6,6
+1333,Alvin Thompson,Dukes Mayo Bowl,West Virginia (Favorite),9,20,True,11,5
+1334,Ethan Hsu,DirecTV Holiday Bowl,USC,1,14,True,13,5
+1335,Chris Head,DirecTV Holiday Bowl,USC,3,14,True,11,5
+1336,Craig Garbarini,DirecTV Holiday Bowl,USC,3,14,True,11,5
+1337,Tristan Lee,DirecTV Holiday Bowl,USC,10,14,True,4,6
+1338,Kevin Jupena,DirecTV Holiday Bowl,USC,7,14,True,7,6
+1339,John Wilton,DirecTV Holiday Bowl,USC,8,14,True,6,6
+1340,Ray Barrett,DirecTV Holiday Bowl,USC,10,14,True,4,6
+1341,Greg Lucas,DirecTV Holiday Bowl,USC,2,14,True,12,5
+1342,Thomas Nesbitt,DirecTV Holiday Bowl,USC,7,14,True,7,6
+1343,Isaac Kirchmann,DirecTV Holiday Bowl,USC,45,14,True,31,5
+1344,Roit Person,DirecTV Holiday Bowl,USC,8,14,True,6,6
+1345,David Novosad,DirecTV Holiday Bowl,USC,3,14,True,11,5
+1346,Larry Welch,DirecTV Holiday Bowl,USC,7,14,True,7,6
+1347,Aiden Murphy,DirecTV Holiday Bowl,USC,3,14,True,11,5
+1348,Johnny Bean,DirecTV Holiday Bowl,USC,6,14,True,8,5
+1349,Coco Pasley,DirecTV Holiday Bowl,USC,17,14,True,3,8
+1350,Kelsey Pasley,DirecTV Holiday Bowl,USC,4,14,True,10,5
+1351,Tia Bittner,DirecTV Holiday Bowl,USC,14,14,True,0,10
+1352,Renee Bittner,DirecTV Holiday Bowl,USC,6,14,True,8,5
+1353,Rylan Pasley,DirecTV Holiday Bowl,USC,3,14,True,11,5
+1354,Chris Harrison,DirecTV Holiday Bowl,Louisville (Favorite),9,-1,True,10,0
+1355,Josh Tiegreen,DirecTV Holiday Bowl,Louisville (Favorite),8,-1,True,9,0
+1356,Mark Junk,DirecTV Holiday Bowl,Louisville (Favorite),4,-1,True,5,0
+1357,Monica Cook,DirecTV Holiday Bowl,Louisville (Favorite),3,-1,True,4,0
+1358,Peter Cook,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1359,Patricia Hash,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1360,Brady Junk,DirecTV Holiday Bowl,Louisville (Favorite),14,-1,True,15,0
+1361,Fred Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1362,Cab Stalions,DirecTV Holiday Bowl,Louisville (Favorite),12,-1,True,13,0
+1363,Eric Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),4,-1,True,5,0
+1364,Spencer Wilson,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1365,Paul Phillips,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1366,Jonathan Rogowski,DirecTV Holiday Bowl,Louisville (Favorite),4,-1,True,5,0
+1367,John Junk,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1368,Damon Tweedy,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1369,Dan Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1370,Dirk Phillips,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1371,Connie Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),10,-1,True,11,0
+1372,Justin Darden,DirecTV Holiday Bowl,Louisville (Favorite),8,-1,True,9,0
+1373,Steven Junk,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1374,Brendan White,DirecTV Holiday Bowl,Louisville (Favorite),24,-1,True,25,0
+1375,Adam Silver,DirecTV Holiday Bowl,Louisville (Favorite),9,-1,True,10,0
+1376,Courtney Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),10,-1,True,11,0
+1377,Sandra Saundercook,DirecTV Holiday Bowl,Louisville (Favorite),10,-1,True,11,0
+1378,Joe Saundercook,DirecTV Holiday Bowl,Louisville (Favorite),3,-1,True,4,0
+1379,Jake Riegert,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1380,Reed Farnen,DirecTV Holiday Bowl,Louisville (Favorite),14,-1,True,15,0
+1381,Cole Wilson,DirecTV Holiday Bowl,Louisville (Favorite),24,-1,True,25,0
+1382,David Pasley,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1383,Suz Bittner,DirecTV Holiday Bowl,Louisville (Favorite),14,-1,True,15,0
+1384,Brett Expert Gibbons,DirecTV Holiday Bowl,Louisville (Favorite),28,-1,True,29,0
+1385,Paul Rosser,DirecTV Holiday Bowl,Louisville (Favorite),9,-1,True,10,0
+1386,Maggie Jenkins,DirecTV Holiday Bowl,Louisville (Favorite),10,-1,True,11,0
+1387,Jack Saundercook,DirecTV Holiday Bowl,Louisville (Favorite),6,-1,True,7,0
+1388,Tyler Kirchmann,DirecTV Holiday Bowl,Louisville (Favorite),10,-1,True,11,0
+1389,Dax Wishart,DirecTV Holiday Bowl,Louisville (Favorite),56,-1,True,57,0
+1390,Jane Silver,DirecTV Holiday Bowl,Louisville (Favorite),7,-1,True,8,0
+1391,Alvin Thompson,DirecTV Holiday Bowl,Louisville (Favorite),12,-1,True,13,0
+1392,Ethan Hsu,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1393,Chris Harrison,TaxAct Texas Bowl,Oklahoma State,6,8,True,2,8
+1394,Tristan Lee,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1395,Josh Tiegreen,TaxAct Texas Bowl,Oklahoma State,5,8,True,3,8
+1396,Monica Cook,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1397,Peter Cook,TaxAct Texas Bowl,Oklahoma State,7,8,True,1,8
+1398,Ray Barrett,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1399,Brady Junk,TaxAct Texas Bowl,Oklahoma State,7,8,True,1,8
+1400,Eric Kirchmann,TaxAct Texas Bowl,Oklahoma State,4,8,True,4,6
+1401,Spencer Wilson,TaxAct Texas Bowl,Oklahoma State,17,8,True,9,5
+1402,Paul Phillips,TaxAct Texas Bowl,Oklahoma State,6,8,True,2,8
+1403,Greg Lucas,TaxAct Texas Bowl,Oklahoma State,6,8,True,2,8
+1404,Jonathan Rogowski,TaxAct Texas Bowl,Oklahoma State,4,8,True,4,6
+1405,Isaac Kirchmann,TaxAct Texas Bowl,Oklahoma State,21,8,True,13,5
+1406,Roit Person,TaxAct Texas Bowl,Oklahoma State,4,8,True,4,6
+1407,David Novosad,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1408,Dirk Phillips,TaxAct Texas Bowl,Oklahoma State,6,8,True,2,8
+1409,Steven Junk,TaxAct Texas Bowl,Oklahoma State,3,8,True,5,6
+1410,Brendan White,TaxAct Texas Bowl,Oklahoma State,14,8,True,6,6
+1411,Joe Saundercook,TaxAct Texas Bowl,Oklahoma State,2,8,True,6,6
+1412,Aiden Murphy,TaxAct Texas Bowl,Oklahoma State,8,8,True,0,10
+1413,Cole Wilson,TaxAct Texas Bowl,Oklahoma State,4,8,True,4,6
+1414,Renee Bittner,TaxAct Texas Bowl,Oklahoma State,7,8,True,1,8
+1415,Brett Expert Gibbons,TaxAct Texas Bowl,Oklahoma State,14,8,True,6,6
+1416,Paul Rosser,TaxAct Texas Bowl,Oklahoma State,6,8,True,2,8
+1417,Jack Saundercook,TaxAct Texas Bowl,Oklahoma State,4,8,True,4,6
+1418,Chris Head,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1419,Craig Garbarini,TaxAct Texas Bowl,Texas A&M (Favorite),8,-1,True,9,0
+1420,Kevin Jupena,TaxAct Texas Bowl,Texas A&M (Favorite),14,-1,True,15,0
+1421,Mark Junk,TaxAct Texas Bowl,Texas A&M (Favorite),2,-1,True,3,0
+1422,John Wilton,TaxAct Texas Bowl,Texas A&M (Favorite),6,-1,True,7,0
+1423,Patricia Hash,TaxAct Texas Bowl,Texas A&M (Favorite),6,-1,True,7,0
+1424,Fred Kirchmann,TaxAct Texas Bowl,Texas A&M (Favorite),13,-1,True,14,0
+1425,Cab Stalions,TaxAct Texas Bowl,Texas A&M (Favorite),3,-1,True,4,0
+1426,Thomas Nesbitt,TaxAct Texas Bowl,Texas A&M (Favorite),5,-1,True,6,0
+1427,John Junk,TaxAct Texas Bowl,Texas A&M (Favorite),6,-1,True,7,0
+1428,Damon Tweedy,TaxAct Texas Bowl,Texas A&M (Favorite),5,-1,True,6,0
+1429,Dan Kirchmann,TaxAct Texas Bowl,Texas A&M (Favorite),5,-1,True,6,0
+1430,Larry Welch,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1431,Connie Kirchmann,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1432,Justin Darden,TaxAct Texas Bowl,Texas A&M (Favorite),6,-1,True,7,0
+1433,Adam Silver,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1434,Courtney Kirchmann,TaxAct Texas Bowl,Texas A&M (Favorite),12,-1,True,13,0
+1435,Sandra Saundercook,TaxAct Texas Bowl,Texas A&M (Favorite),6,-1,True,7,0
+1436,Johnny Bean,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1437,Jake Riegert,TaxAct Texas Bowl,Texas A&M (Favorite),3,-1,True,4,0
+1438,Reed Farnen,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1439,David Pasley,TaxAct Texas Bowl,Texas A&M (Favorite),17,-1,True,18,0
+1440,Coco Pasley,TaxAct Texas Bowl,Texas A&M (Favorite),14,-1,True,15,0
+1441,Suz Bittner,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1442,Kelsey Pasley,TaxAct Texas Bowl,Texas A&M (Favorite),4,-1,True,5,0
+1443,Tia Bittner,TaxAct Texas Bowl,Texas A&M (Favorite),10,-1,True,11,0
+1444,Rylan Pasley,TaxAct Texas Bowl,Texas A&M (Favorite),4,-1,True,5,0
+1445,Maggie Jenkins,TaxAct Texas Bowl,Texas A&M (Favorite),3,-1,True,4,0
+1446,Tyler Kirchmann,TaxAct Texas Bowl,Texas A&M (Favorite),3,-1,True,4,0
+1447,Dax Wishart,TaxAct Texas Bowl,Texas A&M (Favorite),49,-1,True,50,0
+1448,Jane Silver,TaxAct Texas Bowl,Texas A&M (Favorite),7,-1,True,8,0
+1449,Alvin Thompson,TaxAct Texas Bowl,Texas A&M (Favorite),19,-1,True,20,0
+1450,Ethan Hsu,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1451,Chris Harrison,Wasabi Fenway Bowl,SMU (Favorite),12,-1,False,13,0
+1452,Craig Garbarini,Wasabi Fenway Bowl,SMU (Favorite),3,-1,False,4,0
+1453,Tristan Lee,Wasabi Fenway Bowl,SMU (Favorite),6,-1,False,7,0
+1454,Kevin Jupena,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1455,Josh Tiegreen,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1456,Mark Junk,Wasabi Fenway Bowl,SMU (Favorite),4,-1,False,5,0
+1457,Monica Cook,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1458,Peter Cook,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1459,John Wilton,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1460,Ray Barrett,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1461,Patricia Hash,Wasabi Fenway Bowl,SMU (Favorite),4,-1,False,5,0
+1462,Brady Junk,Wasabi Fenway Bowl,SMU (Favorite),17,-1,False,18,0
+1463,Cab Stalions,Wasabi Fenway Bowl,SMU (Favorite),11,-1,False,12,0
+1464,Eric Kirchmann,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1465,Spencer Wilson,Wasabi Fenway Bowl,SMU (Favorite),3,-1,False,4,0
+1466,Paul Phillips,Wasabi Fenway Bowl,SMU (Favorite),3,-1,False,4,0
+1467,Greg Lucas,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1468,Jonathan Rogowski,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1469,Thomas Nesbitt,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1470,John Junk,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1471,Damon Tweedy,Wasabi Fenway Bowl,SMU (Favorite),6,-1,False,7,0
+1472,Dan Kirchmann,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1473,Dirk Phillips,Wasabi Fenway Bowl,SMU (Favorite),12,-1,False,13,0
+1474,Larry Welch,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1475,Connie Kirchmann,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1476,Justin Darden,Wasabi Fenway Bowl,SMU (Favorite),1,-1,False,2,0
+1477,Steven Junk,Wasabi Fenway Bowl,SMU (Favorite),12,-1,False,13,0
+1478,Brendan White,Wasabi Fenway Bowl,SMU (Favorite),21,-1,False,22,0
+1479,Adam Silver,Wasabi Fenway Bowl,SMU (Favorite),13,-1,False,14,0
+1480,Sandra Saundercook,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1481,Joe Saundercook,Wasabi Fenway Bowl,SMU (Favorite),17,-1,False,18,0
+1482,Aiden Murphy,Wasabi Fenway Bowl,SMU (Favorite),21,-1,False,22,0
+1483,Johnny Bean,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1484,Jake Riegert,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1485,Reed Farnen,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1486,Cole Wilson,Wasabi Fenway Bowl,SMU (Favorite),24,-1,False,25,0
+1487,David Pasley,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1488,Coco Pasley,Wasabi Fenway Bowl,SMU (Favorite),6,-1,False,7,0
+1489,Suz Bittner,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1490,Kelsey Pasley,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1491,Tia Bittner,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1492,Renee Bittner,Wasabi Fenway Bowl,SMU (Favorite),7,-1,False,8,0
+1493,Paul Rosser,Wasabi Fenway Bowl,SMU (Favorite),10,-1,False,11,0
+1494,Jack Saundercook,Wasabi Fenway Bowl,SMU (Favorite),16,-1,False,17,0
+1495,Tyler Kirchmann,Wasabi Fenway Bowl,SMU (Favorite),14,-1,False,15,0
+1496,Dax Wishart,Wasabi Fenway Bowl,SMU (Favorite),42,-1,False,43,0
+1497,Jane Silver,Wasabi Fenway Bowl,SMU (Favorite),6,-1,False,7,0
+1498,Alvin Thompson,Wasabi Fenway Bowl,SMU (Favorite),12,-1,False,13,0
+1499,Chris Head,Wasabi Fenway Bowl,Boston College,5,3,False,2,8
+1500,Fred Kirchmann,Wasabi Fenway Bowl,Boston College,6,3,False,3,8
+1501,Isaac Kirchmann,Wasabi Fenway Bowl,Boston College,99,3,False,96,5
+1502,Roit Person,Wasabi Fenway Bowl,Boston College,1,3,False,2,8
+1503,David Novosad,Wasabi Fenway Bowl,Boston College,3,3,False,0,10
+1504,Courtney Kirchmann,Wasabi Fenway Bowl,Boston College,3,3,False,0,10
+1505,Rylan Pasley,Wasabi Fenway Bowl,Boston College,3,3,False,0,10
+1506,Brett Expert Gibbons,Wasabi Fenway Bowl,Boston College,4,3,False,1,8
+1507,Maggie Jenkins,Wasabi Fenway Bowl,Boston College,3,3,False,0,10
