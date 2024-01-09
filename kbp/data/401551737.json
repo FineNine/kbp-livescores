@@ -258,7 +258,7 @@
                                     "8.2",
                                     "3",
                                     "0",
-                                    "74.3"
+                                    "74.1"
                                 ]
                             },
                             {
@@ -316,7 +316,7 @@
                                     "2.8",
                                     "0",
                                     "0",
-                                    "32.1"
+                                    "31.9"
                                 ]
                             }
                         ],
@@ -2327,7 +2327,7 @@
                                     "5.0",
                                     "0",
                                     "2",
-                                    "3.8"
+                                    "3.9"
                                 ]
                             }
                         ],
@@ -16632,7 +16632,7 @@
                     "desktop",
                     "event"
                 ],
-                "href": "https://www.espn.com/college-football/game/_/gameId/401551737",
+                "href": "https://www.espn.com/college-football/game/_/gameId/401551737/bulls-orange",
                 "text": "Gamecast",
                 "shortText": "Summary",
                 "isExternal": false,
@@ -17281,452 +17281,34 @@
         },
         "articles": [
             {
-                "images": [
-                    {
-                        "name": "Michigan's secondary could be Bama's biggest challenge",
-                        "width": 576,
-                        "alt": "",
-                        "caption": "SEC Now analyst Benjamin Watson explains why the Wolverine's pass defense could provide major issues for Jalen Milroe and the Tide in the Rose Bowl.",
-                        "url": "https://a.espncdn.com/media/motion/2023/1228/dm_231228_SEC_NCF_Analysis_Michigan_defense_analysis_231228/dm_231228_SEC_NCF_Analysis_Michigan_defense_analysis_231228.jpg",
-                        "height": 324
-                    }
-                ],
-                "dataSourceIdentifier": "b5e8711909bcb",
-                "description": "SEC Now analyst Benjamin Watson explains why the Wolverine's pass defense could provide major issues for Jalen Milroe and the Tide in the Rose Bowl.",
-                "published": "2023-12-28T17:21:13Z",
-                "type": "Media",
-                "premium": false,
-                "links": {
-                    "api": {
-                        "news": {
-                            "href": "http://api-app.espn.com/v1/video/clips/39198067"
-                        },
-                        "self": {
-                            "href": "http://api-app.espn.com/v1/video/clips/39198067"
-                        }
-                    },
-                    "web": {
-                        "href": "https://www.espn.com/video/clip?id=39198067"
-                    }
-                },
-                "lastModified": "2023-12-28T17:21:12Z",
-                "categories": [
-                    {
-                        "id": 9571,
-                        "description": "College Football",
-                        "type": "league",
-                        "sportId": 23,
-                        "leagueId": 23,
-                        "league": {
-                            "id": 23,
-                            "description": "College Football",
-                            "links": {
-                                "api": {
-                                    "leagues": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
-                                    }
-                                },
-                                "web": {
-                                    "leagues": {
-                                        "href": "https://www.espn.com/college-football/"
-                                    }
-                                },
-                                "mobile": {
-                                    "leagues": {
-                                        "href": "http://m.espn.com/ncf/"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "id": 1100,
-                        "description": "Alabama Crimson Tide",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 333,
-                        "team": {
-                            "id": 333,
-                            "description": "Alabama Crimson Tide",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/333"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=333"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:333",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "id": 1082,
-                        "description": "Michigan Wolverines",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 130,
-                        "team": {
-                            "id": 130,
-                            "description": "Michigan Wolverines",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/130"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=130"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:130",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "id": 126329,
-                        "description": "sec network",
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 89,
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4aeb8b9da7d9ffcd70d3a0162",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4-aeb8-b9da-7d9f-fcd70d3a0162",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1fed4a0cec0171f853c81d1a8",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1-fed4-a0ce-c017-1f853c81d1a8",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "7863289179dda9abc720008c86f843de",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "78632891-79dd-a9ab-c720-008c86f843de",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T17:20:13Z"
-                    }
-                ],
-                "headline": "Michigan's secondary could be Bama's biggest challenge"
-            },
-            {
-                "images": [
-                    {
-                        "name": "Barrett: Michigan must treat Milroe like a running back",
-                        "width": 576,
-                        "alt": "",
-                        "caption": "Ahead of the Rose Bowl, LB Michael Barrett explains the aggressive approach the Wolverines have to play to keep Alabama QB Jalen Milroe in the pocket.",
-                        "url": "https://a.espncdn.com/media/motion/2023/1228/dm_231228_SEC_NCF_Presser_Michigans_Barrett_231228/dm_231228_SEC_NCF_Presser_Michigans_Barrett_231228.jpg",
-                        "height": 324
-                    }
-                ],
-                "dataSourceIdentifier": "feb1c7a46a3f7",
-                "description": "Ahead of the Rose Bowl, LB Michael Barrett explains the aggressive approach the Wolverines have to play to keep Alabama QB Jalen Milroe in the pocket.",
-                "published": "2023-12-28T17:13:49Z",
-                "type": "Media",
-                "premium": false,
-                "links": {
-                    "api": {
-                        "news": {
-                            "href": "http://api-app.espn.com/v1/video/clips/39198013"
-                        },
-                        "self": {
-                            "href": "http://api-app.espn.com/v1/video/clips/39198013"
-                        }
-                    },
-                    "web": {
-                        "href": "https://www.espn.com/video/clip?id=39198013"
-                    }
-                },
-                "lastModified": "2023-12-28T17:13:47Z",
-                "categories": [
-                    {
-                        "id": 9571,
-                        "description": "College Football",
-                        "type": "league",
-                        "sportId": 23,
-                        "leagueId": 23,
-                        "league": {
-                            "id": 23,
-                            "description": "College Football",
-                            "links": {
-                                "api": {
-                                    "leagues": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
-                                    }
-                                },
-                                "web": {
-                                    "leagues": {
-                                        "href": "https://www.espn.com/college-football/"
-                                    }
-                                },
-                                "mobile": {
-                                    "leagues": {
-                                        "href": "http://m.espn.com/ncf/"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "id": 1100,
-                        "description": "Alabama Crimson Tide",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 333,
-                        "team": {
-                            "id": 333,
-                            "description": "Alabama Crimson Tide",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/333"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=333"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:333",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "id": 1082,
-                        "description": "Michigan Wolverines",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 130,
-                        "team": {
-                            "id": 130,
-                            "description": "Michigan Wolverines",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/130"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=130"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:130",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "id": 126329,
-                        "description": "sec network",
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 89,
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "id": 14641,
-                        "description": "Alabama Crimson Tide",
-                        "type": "team",
-                        "sportId": 3170,
-                        "teamId": 333,
-                        "team": {
-                            "id": 333,
-                            "description": "Alabama Crimson Tide",
-                            "links": {
-                                "api": {
-                                    "teams": {}
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-sports/team/_/name/:abbreviation/:location-:name"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {}
-                                }
-                            }
-                        },
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "id": 489575,
-                        "description": "Jalen Milroe",
-                        "type": "athlete",
-                        "sportId": 23,
-                        "athleteId": 4432734,
-                        "athlete": {
-                            "id": 4432734,
-                            "description": "Jalen Milroe",
-                            "links": {
-                                "api": {
-                                    "athletes": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/athletes/4432734"
-                                    }
-                                },
-                                "web": {
-                                    "athletes": {
-                                        "href": "https://www.espn.com/college-football/player/_/id/4432734/jalen-milroe"
-                                    }
-                                },
-                                "mobile": {
-                                    "athletes": {
-                                        "href": "http://m.espn.com/ncf/playercard?playerId=4432734"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~a:4432734",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4aeb8b9da7d9ffcd70d3a0162",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4-aeb8-b9da-7d9f-fcd70d3a0162",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1fed4a0cec0171f853c81d1a8",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1-fed4-a0ce-c017-1f853c81d1a8",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "7863289179dda9abc720008c86f843de",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "78632891-79dd-a9ab-c720-008c86f843de",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "db08b6f5-a66c-3022-8e51-e509258adaed",
-                        "createDate": "2023-12-28T17:12:29Z"
-                    }
-                ],
-                "headline": "Barrett: Michigan must treat Milroe like a running back"
-            },
-            {
-                "dataSourceIdentifier": "9b2e83e8a3b49",
-                "description": "Here are the betting odds, lines, spreads and FPI information for all of the remaining 2023-24 college football bowl games.",
+                "dataSourceIdentifier": "a15b51cde829f",
+                "description": "It all comes down to one game and two teams -- the Wolverines and Huskies -- who haven't won a title since the 1990s. Which team breaks the drought? We go inside all the matchups and storylines.",
                 "type": "Story",
-                "premium": false,
+                "premium": true,
                 "links": {
                     "api": {
                         "news": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39033731"
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39248098"
                         },
                         "self": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39033731"
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39248098"
                         }
                     },
                     "web": {
-                        "href": "https://www.espn.com/espn/betting/story/_/id/39033731/2023-24-college-football-bowl-game-odds-predictions-records"
+                        "href": "https://www.espn.com/college-football/insider/story/_/id/39248098/college-football-playoff-championship-michigan-washington-preview-projections"
                     },
                     "mobile": {
-                        "href": "http://m.espn.go.com/wireless/story?storyId=39033731"
+                        "href": "http://m.espn.go.com/ncf/story?storyId=39248098"
                     }
                 },
                 "categories": [
                     {
-                        "id": 611584,
-                        "description": "Betting",
-                        "type": "league",
-                        "sportId": 22000,
-                        "leagueId": 22000,
-                        "league": {
-                            "id": 22000,
-                            "description": "Betting",
-                            "links": {
-                                "api": {
-                                    "leagues": {}
-                                },
-                                "web": {
-                                    "leagues": {}
-                                },
-                                "mobile": {
-                                    "leagues": {}
-                                }
-                            }
-                        },
-                        "uid": "s:22000",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 137817,
-                        "description": "news - sports betting",
+                        "id": 409222,
+                        "description": "daily",
                         "type": "topic",
                         "sportId": 0,
-                        "topicId": 179,
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "topicId": 779,
+                        "createDate": "2024-01-08T22:08:00Z"
                     },
                     {
                         "id": 9571,
@@ -17756,141 +17338,7 @@
                             }
                         },
                         "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 77983,
-                        "description": "College Football Bowls",
-                        "type": "league",
-                        "sportId": 3820,
-                        "leagueId": 3820,
-                        "league": {
-                            "id": 3820,
-                            "description": "College Football Bowls",
-                            "links": {
-                                "api": {
-                                    "leagues": {}
-                                },
-                                "web": {
-                                    "leagues": {}
-                                },
-                                "mobile": {
-                                    "leagues": {}
-                                }
-                            }
-                        },
-                        "uid": "s:3820",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 177666,
-                        "description": "topic for all college football playoff content",
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 614,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179745,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 638,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179746,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 639,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179742,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 635,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179743,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 636,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179316,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 634,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 179744,
-                        "type": "topic",
-                        "sportId": 0,
-                        "topicId": 637,
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1082,
-                        "description": "Michigan Wolverines",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 130,
-                        "team": {
-                            "id": 130,
-                            "description": "Michigan Wolverines",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/130"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=130"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:130",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1100,
-                        "description": "Alabama Crimson Tide",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 333,
-                        "team": {
-                            "id": 333,
-                            "description": "Alabama Crimson Tide",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/333"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=333"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:333",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "createDate": "2024-01-08T22:08:00Z"
                     },
                     {
                         "id": 1109,
@@ -17920,38 +17368,448 @@
                             }
                         },
                         "uid": "s:20~l:23~t:264",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "createDate": "2024-01-08T22:08:00Z"
                     },
                     {
-                        "id": 1077,
-                        "description": "Texas Longhorns",
+                        "id": 1082,
+                        "description": "Michigan Wolverines",
                         "type": "team",
                         "sportId": 23,
-                        "teamId": 251,
+                        "teamId": 130,
                         "team": {
-                            "id": 251,
-                            "description": "Texas Longhorns",
+                            "id": 130,
+                            "description": "Michigan Wolverines",
                             "links": {
                                 "api": {
                                     "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/251"
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/130"
                                     }
                                 },
                                 "web": {
                                     "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/251/texas-longhorns"
+                                        "href": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines"
                                     }
                                 },
                                 "mobile": {
                                     "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=251"
+                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=130"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:251",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23~t:130",
+                        "createDate": "2024-01-08T22:08:00Z"
                     },
+                    {
+                        "topicId": 92,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-07T20:02:44Z"
+                    },
+                    {
+                        "topicId": 125,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-07T20:08:45Z"
+                    },
+                    {
+                        "topicId": 155,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-07T20:35:48Z"
+                    },
+                    {
+                        "topicId": 384,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-08T00:48:44Z"
+                    },
+                    {
+                        "topicId": 547,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-07T21:03:46Z"
+                    },
+                    {
+                        "topicId": 553,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-07T21:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "b66e959d-b64e-9bd6-7d5c-1bcb0d53c0cb",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "b66e959db64e9bd67d5c1bcb0d53c0cb",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0c6752e3-aae3-f2c1-32c6-79b79425f9cc",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0c6752e3aae3f2c132c679b79425f9cc",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "41b52873-e2dd-57e3-5224-21aae295c2dc",
+                        "createDate": "2024-01-07T21:03:46Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "41b52873e2dd57e3522421aae295c2dc",
+                        "createDate": "2024-01-07T21:03:46Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
+                        "createDate": "2024-01-07T20:02:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+                        "createDate": "2024-01-07T20:02:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f57e1ca30e38056b35e75cf36",
+                        "createDate": "2024-01-07T20:08:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f-57e1-ca30-e380-56b35e75cf36",
+                        "createDate": "2024-01-07T20:08:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "bee4d246-01d9-ae79-ec68-b1764719e766",
+                        "createDate": "2024-01-07T21:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "bee4d24601d9ae79ec68b1764719e766",
+                        "createDate": "2024-01-07T21:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "1a3f6957232ebc952d019822fb84f93d",
+                        "createDate": "2024-01-08T00:48:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "1a3f6957-232e-bc95-2d01-9822fb84f93d",
+                        "createDate": "2024-01-08T00:48:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "a7453610-68c9-438d-30e0-a3713d881634",
+                        "createDate": "2024-01-07T20:35:48Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "a745361068c9438d30e0a3713d881634",
+                        "createDate": "2024-01-07T20:35:48Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "ea1660a4aeb8b9da7d9ffcd70d3a0162",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "ea1660a4-aeb8-b9da-7d9f-fcd70d3a0162",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "createDate": "2024-01-08T22:08:00Z"
+                    }
+                ],
+                "headline": "College Football Playoff championship: Michigan-Washington preview",
+                "byline": "Bill Connelly",
+                "images": [
+                    {
+                        "dataSourceIdentifier": "8cd278865742a",
+                        "name": "CFP title game preview [1296x729]",
+                        "width": 1296,
+                        "id": 39248745,
+                        "credit": "ESPN Illustration",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/cfp-final_16x9.jpeg",
+                        "height": 729
+                    },
+                    {
+                        "dataSourceIdentifier": "9fd6cc210a448",
+                        "name": "INLINE: Special -- Michigan SP+ tracking [1398x1180]",
+                        "width": 1398,
+                        "alt": "INLINE: Special -- Michigan SP+ tracking",
+                        "caption": "",
+                        "id": 39247241,
+                        "credit": "Bill Connelly",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/michigan_sp.png",
+                        "height": 1180
+                    },
+                    {
+                        "dataSourceIdentifier": "b80333d27aaff",
+                        "name": "INLINE: Special -- Washington SP+ tracking [1404x1176]",
+                        "width": 1404,
+                        "alt": "INLINE: Special -- Washington SP+ tracking",
+                        "caption": "",
+                        "id": 39247244,
+                        "credit": "Bill Connelly",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/washington_sp.png",
+                        "height": 1176
+                    },
+                    {
+                        "dataSourceIdentifier": "b41bffe6576cb",
+                        "name": "INLINE: Special -- Penix QBR chart [1696x1056]",
+                        "width": 1696,
+                        "alt": "INLINE: Special -- Penix QBR chart",
+                        "caption": "",
+                        "id": 39247030,
+                        "credit": "TruMedia",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/Penix.png",
+                        "height": 1056
+                    },
+                    {
+                        "dataSourceIdentifier": "de770b4d2ace2",
+                        "name": "INLINE: Special -- McCarthy QBR chart [1764x1046]",
+                        "width": 1764,
+                        "alt": "INLINE: Special -- McCarthy QBR chart",
+                        "caption": "",
+                        "id": 39247023,
+                        "credit": "TruMedia",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/McCarthy (1).png",
+                        "height": 1046
+                    },
+                    {
+                        "dataSourceIdentifier": "e2ca9692ee010",
+                        "name": "INLINE: Special -- Rome Odunze chart [1052x1212]",
+                        "width": 1052,
+                        "alt": "INLINE: Special -- Rome Odunze chart",
+                        "caption": "",
+                        "id": 39247173,
+                        "credit": "TruMedia",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0105/odunze_50.png",
+                        "height": 1212
+                    },
+                    {
+                        "dataSourceIdentifier": "ceb158f098006",
+                        "name": "Penix for Miller piece [576x324]",
+                        "width": 576,
+                        "caption": "Michael Penix Jr. is the nation's leader in passing yards and threw for 430 yards in the Sugar Bowl.",
+                        "id": 39241739,
+                        "credit": "John David Mercer-USA TODAY Sports",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0104/r1273536_576x324_16-9.jpg",
+                        "height": 324
+                    },
+                    {
+                        "dataSourceIdentifier": "6e770fd9ce024",
+                        "name": "Ohio State vs. Michigan (J.J. McCarthy #9 of the Michigan Wolverines throws a pass) [576x324]",
+                        "width": 576,
+                        "caption": "J.J. McCarthy has been mostly unflappable in steering Michigan's offense.",
+                        "id": 38977588,
+                        "credit": "Ezra Shaw/Getty Images",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2023/1125/r1257842_576x324_16-9.jpg",
+                        "height": 324
+                    },
+                    {
+                        "dataSourceIdentifier": "5058a76d94b3a",
+                        "name": "Blake Corum [600x400]",
+                        "width": 600,
+                        "caption": "If Blake Corum and Michigan's running game gets going, Washington could have a hard time stopping it.",
+                        "id": 39225005,
+                        "credit": "Jayne Kamin-Oncea-USA TODAY Sports",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0102/r1272612_600x400_3-2.jpg",
+                        "height": 400
+                    },
+                    {
+                        "dataSourceIdentifier": "8a6f92a75edf7",
+                        "name": "Bralen Trice [600x600]",
+                        "width": 600,
+                        "caption": "If Bralen Trice performs like he did against Texas, it could put significant pressure on J.J. McCarthy.",
+                        "id": 39205913,
+                        "credit": "Associated Press",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2023/1229/r1271786_600x600_1-1.jpg",
+                        "height": 600
+                    },
+                    {
+                        "dataSourceIdentifier": "83ea9b26e4c80",
+                        "name": "Washington and Michigan set to clash in CFP title game",
+                        "width": 576,
+                        "caption": "Get hyped as Michigan and Washington collide in Houston at NRG Stadium for the College Football Playoff National Championship.",
+                        "_id": 39236548,
+                        "type": "Media",
+                        "url": "https://a.espncdn.com/media/motion/2024/0103/dm_240103_NCF_Highlight_Washington_Hype_Reel/dm_240103_NCF_Highlight_Washington_Hype_Reel.jpg",
+                        "height": 324
+                    }
+                ],
+                "published": "2024-01-08T22:10:13Z",
+                "lastModified": "2024-01-08T22:10:10Z"
+            },
+            {
+                "dataSourceIdentifier": "3108ea2708427",
+                "description": "Former wide receivers Larry Fitzgerald, who starred at Pitt, and Randy Moss, who played at Marshall, were among 19 players and three coaches voted into the College Football Hall of Fame's 2024 class, announced on Monday.",
+                "type": "HeadlineNews",
+                "premium": false,
+                "links": {
+                    "api": {
+                        "news": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39267649"
+                        },
+                        "self": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39267649"
+                        }
+                    },
+                    "web": {
+                        "href": "https://www.espn.com/college-football/story/_/id/39267649/larry-fitzgerald-randy-moss-voted-college-football-hof"
+                    },
+                    "mobile": {
+                        "href": "http://m.espn.go.com/ncf/story?storyId=39267649"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": 409224,
+                        "description": "news",
+                        "type": "topic",
+                        "sportId": 0,
+                        "topicId": 781,
+                        "createDate": "2024-01-08T22:03:00Z"
+                    },
+                    {
+                        "id": 9571,
+                        "description": "College Football",
+                        "type": "league",
+                        "sportId": 23,
+                        "leagueId": 23,
+                        "league": {
+                            "id": 23,
+                            "description": "College Football",
+                            "links": {
+                                "api": {
+                                    "leagues": {
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
+                                    }
+                                },
+                                "web": {
+                                    "leagues": {
+                                        "href": "https://www.espn.com/college-football/"
+                                    }
+                                },
+                                "mobile": {
+                                    "leagues": {
+                                        "href": "http://m.espn.com/ncf/"
+                                    }
+                                }
+                            }
+                        },
+                        "uid": "s:20~l:23",
+                        "createDate": "2024-01-08T22:03:00Z"
+                    },
+                    {
+                        "topicId": 125,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-08T22:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+                        "createDate": "2024-01-08T22:03:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "5231367719f8b106ec91d8d17e6087fe",
+                        "createDate": "2024-01-08T22:03:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f57e1ca30e38056b35e75cf36",
+                        "createDate": "2024-01-08T22:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f-57e1-ca30-e380-56b35e75cf36",
+                        "createDate": "2024-01-08T22:07:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "createDate": "2024-01-08T22:03:00Z"
+                    }
+                ],
+                "headline": "Larry Fitzgerald, Randy Moss voted into College Football HOF",
+                "images": [
+                    {
+                        "dataSourceIdentifier": "e90b770643a34",
+                        "name": "Larry Fitzgerald [600x600]",
+                        "width": 600,
+                        "id": 39267593,
+                        "credit": "USA Today Sports",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0108/r1275058_600x600_1-1.jpg",
+                        "height": 600
+                    },
+                    {
+                        "dataSourceIdentifier": "9dfb5d1504d8c",
+                        "name": "Randy Moss, Alex Smith surprised with selections to the College Football Hall of Fame",
+                        "width": 576,
+                        "caption": "Randy Moss and Alex Smith are surprised on \"NFL Countdown\" to be named inductees into the College Football Hall of Fame.",
+                        "_id": 39258541,
+                        "type": "Media",
+                        "url": "https://a.espncdn.com/media/motion/2024/0107/dm_240107_Moss_and_Smith_into_CFB_HOF/dm_240107_Moss_and_Smith_into_CFB_HOF.jpg",
+                        "height": 324
+                    }
+                ],
+                "published": "2024-01-08T22:10:13Z",
+                "lastModified": "2024-01-08T22:07:51Z"
+            },
+            {
+                "dataSourceIdentifier": "57bde7632b513",
+                "description": "The CFP contacted the FBI after threats were made toward executive director Bill Hancock, staff members and selection committee following FSU's exclusion.",
+                "type": "HeadlineNews",
+                "premium": false,
+                "links": {
+                    "api": {
+                        "news": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266972"
+                        },
+                        "self": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266972"
+                        }
+                    },
+                    "web": {
+                        "href": "https://www.espn.com/college-football/story/_/id/39266972/fbi-notified-threats-cfp-members-fsu-exclusion"
+                    },
+                    "mobile": {
+                        "href": "http://m.espn.go.com/ncf/story?storyId=39266972"
+                    }
+                },
+                "categories": [
                     {
                         "id": 1058,
                         "description": "Florida State Seminoles",
@@ -17980,217 +17838,368 @@
                             }
                         },
                         "uid": "s:20~l:23~t:52",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "createDate": "2024-01-08T20:19:00Z"
                     },
                     {
-                        "id": 1091,
-                        "description": "Georgia Bulldogs",
-                        "type": "team",
+                        "id": 9571,
+                        "description": "College Football",
+                        "type": "league",
                         "sportId": 23,
-                        "teamId": 61,
-                        "team": {
-                            "id": 61,
-                            "description": "Georgia Bulldogs",
+                        "leagueId": 23,
+                        "league": {
+                            "id": 23,
+                            "description": "College Football",
                             "links": {
                                 "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/61"
+                                    "leagues": {
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
                                     }
                                 },
                                 "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs"
+                                    "leagues": {
+                                        "href": "https://www.espn.com/college-football/"
                                     }
                                 },
                                 "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=61"
+                                    "leagues": {
+                                        "href": "http://m.espn.com/ncf/"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:61",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23",
+                        "createDate": "2024-01-08T20:19:00Z"
                     },
                     {
-                        "id": 1297,
-                        "description": "Liberty Flames",
-                        "type": "team",
+                        "id": 409224,
+                        "description": "news",
+                        "type": "topic",
+                        "sportId": 0,
+                        "topicId": 781,
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "id": 177666,
+                        "description": "topic for all college football playoff content",
+                        "type": "topic",
+                        "sportId": 0,
+                        "topicId": 614,
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "id": 176535,
+                        "description": "news - college football playoffs",
+                        "type": "topic",
+                        "sportId": 0,
+                        "topicId": 612,
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "topicId": 92,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-08T20:31:44Z"
+                    },
+                    {
+                        "topicId": 125,
+                        "type": "topic",
+                        "sportId": 0,
+                        "uid": "s:0",
+                        "createDate": "2024-01-08T20:24:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "fa181128-4809-a209-1add-d5a3b0cefd3c",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "fa1811284809a2091addd5a3b0cefd3c",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "b2ef26f0e63141ffeb4011f83580ffd6",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "b2ef26f0-e631-41ff-eb40-11f83580ffd6",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f57e1ca30e38056b35e75cf36",
+                        "createDate": "2024-01-08T20:24:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "af884b0f-57e1-ca30-e380-56b35e75cf36",
+                        "createDate": "2024-01-08T20:24:45Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "7c28d0f4-1661-a9f1-7644-61f09018fb30",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "7c28d0f41661a9f1764461f09018fb30",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
+                        "createDate": "2024-01-08T20:31:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "cf7d85805e4d5fc2487711791f7c3a90",
+                        "createDate": "2024-01-08T20:31:44Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "5231367719f8b106ec91d8d17e6087fe",
+                        "createDate": "2024-01-08T20:19:00Z"
+                    }
+                ],
+                "headline": "FBI notified about threats toward CFP members after FSU exclusion",
+                "byline": "Heather Dinich",
+                "images": [
+                    {
+                        "name": "CFP Expansion [1296x729]",
+                        "width": 1296,
+                        "id": 35157376,
+                        "credit": "AP Photo/Roger Steinman",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2022/1201/r1100314_1296x729_16-9.jpg",
+                        "height": 729
+                    },
+                    {
+                        "dataSourceIdentifier": "be61a422f5cb4",
+                        "name": "CFP logo [1296x729]",
+                        "width": 1296,
+                        "id": 39260285,
+                        "credit": "Kirby Lee/USA TODAY Sports",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2024/0107/r1274601_1296x729_16-9.jpg",
+                        "height": 729
+                    }
+                ],
+                "published": "2024-01-08T20:43:33Z",
+                "lastModified": "2024-01-08T20:43:32Z"
+            },
+            {
+                "images": [
+                    {
+                        "name": "DeBoer and Harbaugh sit down with McAfee to talk similarities between programs",
+                        "width": 576,
+                        "alt": "",
+                        "caption": "Washington and Michigan head coaches Kalen DeBoer and Jim Harbaugh sit down with Pat McAfee ahead of their matchup in the College Football Playoff Championship.",
+                        "url": "https://a.espncdn.com/media/motion/2024/0108/dm_240108_McAfee_sit_down/dm_240108_McAfee_sit_down.jpg",
+                        "height": 324
+                    }
+                ],
+                "dataSourceIdentifier": "c3bf5b9450629",
+                "description": "Washington and Michigan head coaches Kalen DeBoer and Jim Harbaugh sit down with Pat McAfee ahead of their matchup in the College Football Playoff Championship.",
+                "published": "2024-01-08T18:59:39Z",
+                "type": "Media",
+                "premium": false,
+                "links": {
+                    "api": {
+                        "news": {
+                            "href": "http://api-app.espn.com/v1/video/clips/39266389"
+                        },
+                        "self": {
+                            "href": "http://api-app.espn.com/v1/video/clips/39266389"
+                        }
+                    },
+                    "web": {
+                        "href": "https://www.espn.com/video/clip?id=39266389"
+                    }
+                },
+                "lastModified": "2024-01-08T18:59:36Z",
+                "categories": [
+                    {
+                        "id": 9571,
+                        "description": "College Football",
+                        "type": "league",
                         "sportId": 23,
-                        "teamId": 2335,
-                        "team": {
-                            "id": 2335,
-                            "description": "Liberty Flames",
+                        "leagueId": 23,
+                        "league": {
+                            "id": 23,
+                            "description": "College Football",
                             "links": {
                                 "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2335"
+                                    "leagues": {
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
                                     }
                                 },
                                 "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/2335/liberty-flames"
+                                    "leagues": {
+                                        "href": "https://www.espn.com/college-football/"
                                     }
                                 },
                                 "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=2335"
+                                    "leagues": {
+                                        "href": "http://m.espn.com/ncf/"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:2335",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23",
+                        "createDate": "2024-01-08T18:56:24Z"
                     },
                     {
-                        "id": 1111,
-                        "description": "Oregon Ducks",
+                        "id": 1109,
+                        "description": "Washington Huskies",
                         "type": "team",
                         "sportId": 23,
-                        "teamId": 2483,
+                        "teamId": 264,
                         "team": {
-                            "id": 2483,
-                            "description": "Oregon Ducks",
+                            "id": 264,
+                            "description": "Washington Huskies",
                             "links": {
                                 "api": {
                                     "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2483"
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/264"
                                     }
                                 },
                                 "web": {
                                     "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/2483/oregon-ducks"
+                                        "href": "https://www.espn.com/college-football/team/_/id/264/washington-huskies"
                                     }
                                 },
                                 "mobile": {
                                     "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=2483"
+                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=264"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:2483",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23~t:264",
+                        "createDate": "2024-01-08T18:56:24Z"
                     },
                     {
-                        "id": 1099,
-                        "description": "Ole Miss Rebels",
+                        "id": 1082,
+                        "description": "Michigan Wolverines",
                         "type": "team",
                         "sportId": 23,
-                        "teamId": 145,
+                        "teamId": 130,
                         "team": {
-                            "id": 145,
-                            "description": "Ole Miss Rebels",
+                            "id": 130,
+                            "description": "Michigan Wolverines",
                             "links": {
                                 "api": {
                                     "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/145"
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/130"
                                     }
                                 },
                                 "web": {
                                     "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels"
+                                        "href": "https://www.espn.com/college-football/team/_/id/130/michigan-wolverines"
                                     }
                                 },
                                 "mobile": {
                                     "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=145"
+                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=130"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:145",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23~t:130",
+                        "createDate": "2024-01-08T18:56:24Z"
                     },
                     {
-                        "id": 1085,
-                        "description": "Penn State Nittany Lions",
-                        "type": "team",
+                        "type": "guid",
+                        "guid": "ea1660a4aeb8b9da7d9ffcd70d3a0162",
+                        "createDate": "2024-01-08T18:56:24Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "ea1660a4-aeb8-b9da-7d9f-fcd70d3a0162",
+                        "createDate": "2024-01-08T18:56:24Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0c6752e3-aae3-f2c1-32c6-79b79425f9cc",
+                        "createDate": "2024-01-08T18:56:24Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0c6752e3aae3f2c132c679b79425f9cc",
+                        "createDate": "2024-01-08T18:56:24Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "createDate": "2024-01-08T18:56:24Z"
+                    }
+                ],
+                "headline": "DeBoer and Harbaugh sit down with McAfee to talk similarities between programs"
+            },
+            {
+                "dataSourceIdentifier": "7eb749d59993f",
+                "description": "QB Reese Poffenbarger, who led FCS with 3,603 passing yards and 36 passing TDs while leading Albany to the quarterfinals, is transferring to Miami, he told ESPN.",
+                "type": "HeadlineNews",
+                "premium": false,
+                "links": {
+                    "api": {
+                        "news": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266376"
+                        },
+                        "self": {
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266376"
+                        }
+                    },
+                    "web": {
+                        "href": "https://www.espn.com/college-football/story/_/id/39266376/ex-albany-quarterback-reese-poffenbarger-transferring-miami"
+                    },
+                    "mobile": {
+                        "href": "http://m.espn.go.com/ncf/story?storyId=39266376"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": 492792,
+                        "description": "Reese Poffenbarger",
+                        "type": "athlete",
                         "sportId": 23,
-                        "teamId": 213,
-                        "team": {
-                            "id": 213,
-                            "description": "Penn State Nittany Lions",
+                        "athleteId": 4875866,
+                        "athlete": {
+                            "id": 4875866,
+                            "description": "Reese Poffenbarger",
                             "links": {
                                 "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/213"
+                                    "athletes": {
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/athletes/4875866"
                                     }
                                 },
                                 "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/213/penn-state-nittany-lions"
+                                    "athletes": {
+                                        "href": "https://www.espn.com/college-football/player/_/id/4875866/reese-poffenbarger"
                                     }
                                 },
                                 "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=213"
+                                    "athletes": {
+                                        "href": "http://m.espn.com/ncf/playercard?playerId=4875866"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:213",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1084,
-                        "description": "Ohio State Buckeyes",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 194,
-                        "team": {
-                            "id": 194,
-                            "description": "Ohio State Buckeyes",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/194"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=194"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:194",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1069,
-                        "description": "Missouri Tigers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 142,
-                        "team": {
-                            "id": 142,
-                            "description": "Missouri Tigers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/142"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=142"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:142",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23~a:4875866",
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "id": 1119,
@@ -18220,934 +18229,38 @@
                             }
                         },
                         "uid": "s:20~l:23~t:2390",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
-                        "id": 1113,
-                        "description": "Rutgers Scarlet Knights",
+                        "id": 1228,
+                        "description": "UAlbany Great Danes",
                         "type": "team",
                         "sportId": 23,
-                        "teamId": 164,
+                        "teamId": 399,
                         "team": {
-                            "id": 164,
-                            "description": "Rutgers Scarlet Knights",
+                            "id": 399,
+                            "description": "UAlbany Great Danes",
                             "links": {
                                 "api": {
                                     "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/164"
+                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/399"
                                     }
                                 },
                                 "web": {
                                     "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/164/rutgers-scarlet-knights"
+                                        "href": "https://www.espn.com/college-football/team/_/id/399/ualbany-great-danes"
                                     }
                                 },
                                 "mobile": {
                                     "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=164"
+                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=399"
                                     }
                                 }
                             }
                         },
-                        "uid": "s:20~l:23~t:164",
-                        "createDate": "2023-12-28T16:52:00Z"
+                        "uid": "s:20~l:23~t:399",
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
-                    {
-                        "id": 1152,
-                        "description": "SMU Mustangs",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 2567,
-                        "team": {
-                            "id": 2567,
-                            "description": "SMU Mustangs",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2567"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/2567/smu-mustangs"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=2567"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:2567",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1112,
-                        "description": "Boston College Eagles",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 103,
-                        "team": {
-                            "id": 103,
-                            "description": "Boston College Eagles",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/103"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/103/boston-college-eagles"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=103"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:103",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1062,
-                        "description": "NC State Wolfpack",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 152,
-                        "team": {
-                            "id": 152,
-                            "description": "NC State Wolfpack",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/152"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/152/nc-state-wolfpack"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=152"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:152",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1072,
-                        "description": "Kansas State Wildcats",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 2306,
-                        "team": {
-                            "id": 2306,
-                            "description": "Kansas State Wildcats",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/2306"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/2306/kansas-state-wildcats"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=2306"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:2306",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1103,
-                        "description": "Arizona Wildcats",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 12,
-                        "team": {
-                            "id": 12,
-                            "description": "Arizona Wildcats",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/12"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/12/arizona-wildcats"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=12"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:12",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1074,
-                        "description": "Oklahoma Sooners",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 201,
-                        "team": {
-                            "id": 201,
-                            "description": "Oklahoma Sooners",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/201"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/201/oklahoma-sooners"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=201"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:201",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1065,
-                        "description": "Clemson Tigers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 228,
-                        "team": {
-                            "id": 228,
-                            "description": "Clemson Tigers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/228"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/228/clemson-tigers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=228"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:228",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1092,
-                        "description": "Kentucky Wildcats",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 96,
-                        "team": {
-                            "id": 96,
-                            "description": "Kentucky Wildcats",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/96"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=96"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:96",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1108,
-                        "description": "Oregon State Beavers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 204,
-                        "team": {
-                            "id": 204,
-                            "description": "Oregon State Beavers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/204"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/204/oregon-state-beavers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=204"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:204",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1164,
-                        "description": "Notre Dame Fighting Irish",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 87,
-                        "team": {
-                            "id": 87,
-                            "description": "Notre Dame Fighting Irish",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/87"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/87/notre-dame-fighting-irish"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=87"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:87",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1068,
-                        "description": "Iowa State Cyclones",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 66,
-                        "team": {
-                            "id": 66,
-                            "description": "Iowa State Cyclones",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/66"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/66/iowa-state-cyclones"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=66"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:66",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "id": 1123,
-                        "description": "Memphis Tigers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 235,
-                        "team": {
-                            "id": 235,
-                            "description": "Memphis Tigers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/235"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/235/memphis-tigers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=235"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:235",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "topicId": 125,
-                        "type": "topic",
-                        "sportId": 0,
-                        "uid": "s:0",
-                        "createDate": "2023-12-04T19:35:28Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "f640a7906e479b9258ae7af2b8f59d8f",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "f640a790-6e47-9b92-58ae-7af2b8f59d8f",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b2ef26f0e63141ffeb4011f83580ffd6",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b2ef26f0-e631-41ff-eb40-11f83580ffd6",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fd85c5ff38f2fe967cccb635e6902552",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fd85c5ff-38f2-fe96-7ccc-b635e6902552",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "3ad318e2-78dc-31d6-7a8e-aba5e53a25b6",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "3ad318e278dc31d67a8eaba5e53a25b6",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "f6196074-c394-4821-7b0b-c4271d9467de",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "f6196074c39448217b0bc4271d9467de",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "3f06733d8d8a70446b24e0ba817e25f0",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "3f06733d-8d8a-7044-6b24-e0ba817e25f0",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b82ceb2cb0bc16f84cdbd038df734db4",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b82ceb2c-b0bc-16f8-4cdb-d038df734db4",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fb2a277f-feda-6d2f-cc06-5ac1962c3c98",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fb2a277ffeda6d2fcc065ac1962c3c98",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "013a8bab0dd5f6a045e61128a124f34b",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "013a8bab-0dd5-f6a0-45e6-1128a124f34b",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ebc2999c2ff48435ca469641e9f9ea10",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ebc2999c-2ff4-8435-ca46-9641e9f9ea10",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2b3657a5caae31a2899a0d09df0f7bed",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2b3657a5-caae-31a2-899a-0d09df0f7bed",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2fc3b71f-8247-22a5-f6da-df3902cbb438",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2fc3b71f824722a5f6dadf3902cbb438",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "1a66a197-258b-8ac5-56f9-6f4b6ec4d4ed",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "1a66a197258b8ac556f96f4b6ec4d4ed",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "5a61563b-c845-e697-bc8a-231ce180e0e3",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "5a61563bc845e697bc8a231ce180e0e3",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "d5ec13293c7b93e86f57982c4f33ea75",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "d5ec1329-3c7b-93e8-6f57-982c4f33ea75",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "67d60bca1b6b8d7881ae6889e883bb96",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "67d60bca-1b6b-8d78-81ae-6889e883bb96",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0c6752e3-aae3-f2c1-32c6-79b79425f9cc",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0c6752e3aae3f2c132c679b79425f9cc",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "4351fef8-fe69-53b1-ea57-72684b36ec35",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "4351fef8fe6953b1ea5772684b36ec35",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "4abb970fc9e675763daa703957b91293",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "4abb970f-c9e6-7576-3daa-703957b91293",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "116d333f-cf1a-0c67-d450-36a834af56de",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "116d333fcf1a0c67d45036a834af56de",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "c48769ce-741e-cab0-46aa-e4eed153096e",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "c48769ce741ecab046aae4eed153096e",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "80194c89-1d61-44a3-9a68-2f95ee0f0f02",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "80194c891d6144a39a682f95ee0f0f02",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4aeb8b9da7d9ffcd70d3a0162",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "ea1660a4-aeb8-b9da-7d9f-fcd70d3a0162",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "af884b0f57e1ca30e38056b35e75cf36",
-                        "createDate": "2023-12-04T19:35:28Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "af884b0f-57e1-ca30-e380-56b35e75cf36",
-                        "createDate": "2023-12-04T19:35:28Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b6d75880f28e7a53ae8abef390847086",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "b6d75880-f28e-7a53-ae8a-bef390847086",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "98f92ad4-696c-890b-02e0-f7609d89e38c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "98f92ad4696c890b02e0f7609d89e38c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0dc691768333237deda324344515748c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0dc69176-8333-237d-eda3-24344515748c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "14f579db-79ec-a898-9405-8fec63e16063",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "14f579db79eca89894058fec63e16063",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "899b684567a416b2c4a62406312be7fc",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "899b6845-67a4-16b2-c4a6-2406312be7fc",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "02382072a5a324ff6bd1422a029bd33c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "02382072-a5a3-24ff-6bd1-422a029bd33c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fa181128-4809-a209-1add-d5a3b0cefd3c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "fa1811284809a2091addd5a3b0cefd3c",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "6bbe4a57263d12b2639af1db99afcac9",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "6bbe4a57-263d-12b2-639a-f1db99afcac9",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1fed4a0cec0171f853c81d1a8",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "258022c1-fed4-a0ce-c017-1f853c81d1a8",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "1ca864c9007257e46fbfd333f53e4409",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "1ca864c9-0072-57e4-6fbf-d333f53e4409",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "29a2a6b5-5874-ac84-39e4-b5ab605e7449",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "29a2a6b55874ac8439e4b5ab605e7449",
-                        "createDate": "2023-12-28T16:52:00Z"
-                    }
-                ],
-                "headline": "Betting odds and lines for college football bowl games",
-                "byline": "ESPN Sports Betting",
-                "images": [
-                    {
-                        "dataSourceIdentifier": "a796b7be32406",
-                        "name": "Lawrance Toafili [1296x729]",
-                        "width": 1296,
-                        "caption": "Lawrance Toafili and the Florida State Seminoles are huge underdogs to the Georgia Bulldogs in the Capital One Orange Bowl.",
-                        "id": 39032329,
-                        "credit": "Photo by Don Juan Moore/Getty Images",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1203/r1261302_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "9d26ed1fcddfd",
-                        "name": "Bo Nix [1296x729]",
-                        "width": 1296,
-                        "id": 39042105,
-                        "credit": "Photo by Ian Maule/Getty Images",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1204/r1261991_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "ff5108eb6c181",
-                        "name": "TreVeyon Henderson [1296x729]",
-                        "width": 1296,
-                        "id": 39042128,
-                        "credit": "Photo by John Fisher/Getty Images",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1204/r1261988_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "acf4b345ffd4d",
-                        "name": "Cody Schrader [1296x729]",
-                        "width": 1296,
-                        "id": 39042174,
-                        "credit": "Photo by Ed Zurga/Getty Images",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1204/r1261990_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "3cb73efff4529",
-                        "name": "Drew Allar [1296x729]",
-                        "width": 1296,
-                        "id": 39042149,
-                        "credit": "AP Photo/Carlos Osorio",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1204/r1261989_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "ddb8f91a1dcc0",
-                        "name": "Kaidon Salter [1296x729]",
-                        "width": 1296,
-                        "id": 39033147,
-                        "credit": "AP Photo/Robert Simmons",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1203/r1261362_1296x729_16-9.jpg",
-                        "height": 729
-                    },
-                    {
-                        "dataSourceIdentifier": "426034834a80a",
-                        "name": "Daijun Edwards [1296x729]",
-                        "width": 1296,
-                        "caption": "Daijun Edwards and the Georgia Bulldogs are big favorites over the Florida State Seminoles in the Capital One Orange Bowl.",
-                        "id": 39042224,
-                        "credit": "Photo by Kevin C. Cox/Getty Images",
-                        "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1204/r1261992_1296x729_16-9.jpg",
-                        "height": 729
-                    }
-                ],
-                "published": "2023-12-28T16:52:41Z",
-                "lastModified": "2023-12-28T16:52:37Z"
-            },
-            {
-                "images": [
-                    {
-                        "name": "espn.applewatch.awayhome.1",
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.applewatch.awayhome.1"
-                    },
-                    {
-                        "name": "espn.applewatch.homeaway.1",
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.applewatch.homeaway.1"
-                    },
-                    {
-                        "name": "espn.all.awayhome.16x9.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.awayhome.16x9.1",
-                        "ratio": "16x9",
-                        "height": 173
-                    },
-                    {
-                        "name": "espn.all.homeaway.16x9.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.homeaway.16x9.1",
-                        "ratio": "16x9",
-                        "height": 173
-                    },
-                    {
-                        "name": "espn.all.awayhome.1x1.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.awayhome.1x1.1",
-                        "ratio": "1x1",
-                        "height": 308
-                    },
-                    {
-                        "name": "espn.all.homeaway.1x1.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.homeaway.1x1.1",
-                        "ratio": "1x1",
-                        "height": 308
-                    },
-                    {
-                        "name": "espn.all.awayhome.5x2.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.awayhome.5x2.1",
-                        "ratio": "5x2",
-                        "height": 124
-                    },
-                    {
-                        "name": "espn.all.homeaway.5x2.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551768.png?templateId=espn.all.homeaway.5x2.1",
-                        "ratio": "5x2",
-                        "height": 124
-                    },
-                    {
-                        "dataSourceIdentifier": "a766c019e8159",
-                        "name": "Missouri coach makes Connor Stalions joke to end interview",
-                        "width": 576,
-                        "caption": "Missouri head coach Eliah Drinkwitz jokes that he's getting a call from alleged Michigan signal-stealer Connor Stalions ahead of the Tigers' matchup vs. Ohio State.",
-                        "_id": 39035535,
-                        "type": "Media",
-                        "url": "https://a.espncdn.com/media/motion/2023/1203/dm_231203_Drinkwitz_Stallions_joke/dm_231203_Drinkwitz_Stallions_joke.jpg",
-                        "height": 324
-                    }
-                ],
-                "dataSourceIdentifier": "ef49974a9f233",
-                "description": "Cotton Bowl: No. 9 Missouri (10-2, SEC) vs. No. 7 Ohio State (11-1, Big Ten), Dec. 29, 8 p.m. Eastern (ESPN)",
-                "published": "2023-12-28T16:11:08Z",
-                "type": "Preview",
-                "premium": false,
-                "links": {
-                    "api": {
-                        "news": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197658"
-                        },
-                        "self": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197658"
-                        }
-                    },
-                    "web": {
-                        "href": "http://www.espn.com/ncf/preview?gameId=401551768"
-                    },
-                    "mobile": {
-                        "href": "http://m.espn.go.com/ncf/story?storyId=39197658"
-                    }
-                },
-                "lastModified": "2023-12-28T16:11:07Z",
-                "categories": [
                     {
                         "id": 9571,
                         "description": "College Football",
@@ -19176,177 +18289,7 @@
                             }
                         },
                         "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "id": 1084,
-                        "description": "Ohio State Buckeyes",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 194,
-                        "team": {
-                            "id": 194,
-                            "description": "Ohio State Buckeyes",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/194"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/194/ohio-state-buckeyes"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=194"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:194",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "id": 1069,
-                        "description": "Missouri Tigers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 142,
-                        "team": {
-                            "id": 142,
-                            "description": "Missouri Tigers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/142"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=142"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:142",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "6bbe4a57263d12b2639af1db99afcac9",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "6bbe4a57-263d-12b2-639a-f1db99afcac9",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2fc3b71f-8247-22a5-f6da-df3902cbb438",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "2fc3b71f824722a5f6dadf3902cbb438",
-                        "createDate": "2023-12-28T16:11:07Z"
-                    }
-                ],
-                "headline": "No. 9 Missouri seeks 11th win when it takes on No. 7 Ohio State in Cotton Bowl"
-            },
-            {
-                "dataSourceIdentifier": "7d6b8b23f1cbe",
-                "description": "Brock Glenn said Florida State should be considered national champions if they end the season as college football's only undefeated Power 5 team.",
-                "type": "HeadlineNews",
-                "premium": false,
-                "links": {
-                    "api": {
-                        "news": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197384"
-                        },
-                        "self": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197384"
-                        }
-                    },
-                    "web": {
-                        "href": "https://www.espn.com/college-football/story/_/id/39197384/florida-state-champions-only-undefeated-team-players-say"
-                    },
-                    "mobile": {
-                        "href": "http://m.espn.go.com/ncf/story?storyId=39197384"
-                    }
-                },
-                "categories": [
-                    {
-                        "id": 9571,
-                        "description": "College Football",
-                        "type": "league",
-                        "sportId": 23,
-                        "leagueId": 23,
-                        "league": {
-                            "id": 23,
-                            "description": "College Football",
-                            "links": {
-                                "api": {
-                                    "leagues": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football"
-                                    }
-                                },
-                                "web": {
-                                    "leagues": {
-                                        "href": "https://www.espn.com/college-football/"
-                                    }
-                                },
-                                "mobile": {
-                                    "leagues": {
-                                        "href": "http://m.espn.com/ncf/"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T15:21:00Z"
-                    },
-                    {
-                        "id": 1058,
-                        "description": "Florida State Seminoles",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 52,
-                        "team": {
-                            "id": 52,
-                            "description": "Florida State Seminoles",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/52"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/52/florida-state-seminoles"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=52"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:52",
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "id": 409224,
@@ -19354,188 +18297,131 @@
                         "type": "topic",
                         "sportId": 0,
                         "topicId": 781,
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "topicId": 92,
                         "type": "topic",
                         "sportId": 0,
                         "uid": "s:0",
-                        "createDate": "2023-12-28T15:26:44Z"
+                        "createDate": "2024-01-08T18:54:44Z"
                     },
                     {
                         "topicId": 125,
                         "type": "topic",
                         "sportId": 0,
                         "uid": "s:0",
-                        "createDate": "2023-12-28T15:26:45Z"
+                        "createDate": "2024-01-08T18:52:45Z"
                     },
                     {
                         "type": "guid",
                         "guid": "af884b0f57e1ca30e38056b35e75cf36",
-                        "createDate": "2023-12-28T15:26:45Z"
+                        "createDate": "2024-01-08T18:52:45Z"
                     },
                     {
                         "type": "guid",
                         "guid": "af884b0f-57e1-ca30-e380-56b35e75cf36",
-                        "createDate": "2023-12-28T15:26:45Z"
+                        "createDate": "2024-01-08T18:52:45Z"
                     },
                     {
                         "type": "guid",
-                        "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
-                        "createDate": "2023-12-28T15:21:00Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "5231367719f8b106ec91d8d17e6087fe",
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "guid": "156bd314-654b-3071-9b69-bad4f30d8146",
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "type": "guid",
                         "guid": "cf7d8580-5e4d-5fc2-4877-11791f7c3a90",
-                        "createDate": "2023-12-28T15:26:44Z"
+                        "createDate": "2024-01-08T18:54:44Z"
                     },
                     {
                         "type": "guid",
                         "guid": "cf7d85805e4d5fc2487711791f7c3a90",
-                        "createDate": "2023-12-28T15:26:44Z"
+                        "createDate": "2024-01-08T18:54:44Z"
                     },
                     {
                         "type": "guid",
-                        "guid": "fa181128-4809-a209-1add-d5a3b0cefd3c",
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "type": "guid",
-                        "guid": "fa1811284809a2091addd5a3b0cefd3c",
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "guid": "5231367719f8b106ec91d8d17e6087fe",
+                        "createDate": "2024-01-08T18:50:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "2b3657a5caae31a2899a0d09df0f7bed",
+                        "createDate": "2024-01-08T18:50:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "2b3657a5-caae-31a2-899a-0d09df0f7bed",
+                        "createDate": "2024-01-08T18:50:00Z"
                     },
                     {
                         "type": "guid",
                         "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T15:21:00Z"
+                        "createDate": "2024-01-08T18:50:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "81dee3f3-05ed-5385-ccbc-284e22fe04fc",
+                        "createDate": "2024-01-08T18:50:00Z"
+                    },
+                    {
+                        "type": "guid",
+                        "guid": "81dee3f305ed5385ccbc284e22fe04fc",
+                        "createDate": "2024-01-08T18:50:00Z"
                     }
                 ],
-                "headline": "Florida State should be champions if only undefeated team, players say",
-                "byline": "David Hale",
+                "headline": "Ex-Albany quarterback Reese Poffenbarger transferring to Miami",
+                "byline": "Pete Thamel",
                 "images": [
                     {
-                        "dataSourceIdentifier": "7496a1568c102",
-                        "name": "FSU celebration [1296x729]",
+                        "dataSourceIdentifier": "caa842a87e67d",
+                        "name": "240108 Poffenbarger [1296x729]",
                         "width": 1296,
-                        "id": 39168243,
-                        "credit": "John Byrum/Icon Sportswire",
+                        "id": 39265914,
+                        "credit": "AP Photo/LM Otero",
                         "type": "header",
-                        "url": "https://a.espncdn.com/photo/2023/1222/r1269717_1296x729_16-9.jpg",
+                        "url": "https://a.espncdn.com/photo/2024/0108/r1274908_1296x729_16-9.jpg",
                         "height": 729
                     },
                     {
-                        "dataSourceIdentifier": "8edc8b396d2d2",
-                        "name": "Mad Dog fumes over FSU players opting out of Orange Bowl",
+                        "dataSourceIdentifier": "b87452d9f2ed7",
+                        "name": "Reese Poffenbarger throws 7-yard touchdown pass vs. Richmond",
                         "width": 576,
-                        "caption": "Chris \"Mad Dog\" Russo can't believe Florida State players are opting out of the Orange Bowl after missing out on the College Football Playoff.",
-                        "_id": 39154541,
+                        "caption": "Reese Poffenbarger throws 7-yard touchdown pass vs. Richmond",
+                        "_id": 39026549,
                         "type": "Media",
-                        "url": "https://a.espncdn.com/media/motion/2023/1220/dm_231220_Mad_Dog_MAd_at_FSU/dm_231220_Mad_Dog_MAd_at_FSU.jpg",
+                        "url": "https://a.espncdn.com/media/motion/2023/1202/ss_20231202_124634737_2417546/ss_20231202_124634737_2417546.jpg",
                         "height": 324
                     }
                 ],
-                "published": "2023-12-28T16:30:47Z",
-                "lastModified": "2023-12-28T16:30:46Z"
+                "published": "2024-01-08T19:08:10Z",
+                "lastModified": "2024-01-08T19:08:09Z"
             },
             {
-                "images": [
-                    {
-                        "name": "espn.applewatch.awayhome.1",
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.applewatch.awayhome.1"
-                    },
-                    {
-                        "name": "espn.applewatch.homeaway.1",
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.applewatch.homeaway.1"
-                    },
-                    {
-                        "name": "espn.all.awayhome.16x9.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.awayhome.16x9.1",
-                        "ratio": "16x9",
-                        "height": 173
-                    },
-                    {
-                        "name": "espn.all.homeaway.16x9.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.homeaway.16x9.1",
-                        "ratio": "16x9",
-                        "height": 173
-                    },
-                    {
-                        "name": "espn.all.awayhome.1x1.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.awayhome.1x1.1",
-                        "ratio": "1x1",
-                        "height": 308
-                    },
-                    {
-                        "name": "espn.all.homeaway.1x1.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.homeaway.1x1.1",
-                        "ratio": "1x1",
-                        "height": 308
-                    },
-                    {
-                        "name": "espn.all.awayhome.5x2.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.awayhome.5x2.1",
-                        "ratio": "5x2",
-                        "height": 124
-                    },
-                    {
-                        "name": "espn.all.homeaway.5x2.1",
-                        "width": 308,
-                        "type": "stitcher",
-                        "url": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401551766.png?templateId=espn.all.homeaway.5x2.1",
-                        "ratio": "5x2",
-                        "height": 124
-                    },
-                    {
-                        "dataSourceIdentifier": "e07356e47d667",
-                        "name": "Gator Bowl is opportunity for UK to make a statement",
-                        "width": 576,
-                        "caption": "With Ray Davis' postseason plans still up in the air, the Read & React crew discusses the many factors at play for the Wildcats' matchup against No. 22 Clemson.",
-                        "_id": 39043241,
-                        "type": "Media",
-                        "url": "https://a.espncdn.com/media/motion/2023/1204/dm_231204_SEC_NCF_Preview_Clemson_UK_231204/dm_231204_SEC_NCF_Preview_Clemson_UK_231204.jpg",
-                        "height": 324
-                    }
-                ],
-                "dataSourceIdentifier": "86fc4dacc9794",
-                "description": "TaxSlayer Gator Bowl: Kentucky (7-5) vs. Clemson (8-4), Dec. 29, noon Eastern (ESPN).",
-                "published": "2023-12-28T15:17:56Z",
-                "type": "Preview",
+                "dataSourceIdentifier": "c69fa512eddbd",
+                "description": "Alabama, Michigan, and other powerhouses have won multiple college football championships, but who is on top? Check out the definitive list.",
+                "type": "Story",
                 "premium": false,
                 "links": {
                     "api": {
                         "news": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197346"
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266327"
                         },
                         "self": {
-                            "href": "http://now.core.api.espn.com/v1/sports/news/39197346"
+                            "href": "http://now.core.api.espn.com/v1/sports/news/39266327"
                         }
                     },
                     "web": {
-                        "href": "http://www.espn.com/ncf/preview?gameId=401551766"
+                        "href": "https://www.espn.com/college-football/story/_/id/39266327/who-won-most-college-football-championships"
                     },
                     "mobile": {
-                        "href": "http://m.espn.go.com/ncf/story?storyId=39197346"
+                        "href": "http://m.espn.go.com/ncf/story?storyId=39266327"
                     }
                 },
-                "lastModified": "2023-12-28T15:17:55Z",
                 "categories": [
                     {
                         "id": 9571,
@@ -19565,95 +18451,30 @@
                             }
                         },
                         "uid": "s:20~l:23",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "id": 1092,
-                        "description": "Kentucky Wildcats",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 96,
-                        "team": {
-                            "id": 96,
-                            "description": "Kentucky Wildcats",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/96"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=96"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:96",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "id": 1065,
-                        "description": "Clemson Tigers",
-                        "type": "team",
-                        "sportId": 23,
-                        "teamId": 228,
-                        "team": {
-                            "id": 228,
-                            "description": "Clemson Tigers",
-                            "links": {
-                                "api": {
-                                    "teams": {
-                                        "href": "http://now.core.api.espn.com/v1/sports/football/college-football/teams/228"
-                                    }
-                                },
-                                "web": {
-                                    "teams": {
-                                        "href": "https://www.espn.com/college-football/team/_/id/228/clemson-tigers"
-                                    }
-                                },
-                                "mobile": {
-                                    "teams": {
-                                        "href": "http://m.espn.com/ncf/clubhouse?teamId=228"
-                                    }
-                                }
-                            }
-                        },
-                        "uid": "s:20~l:23~t:228",
-                        "createDate": "2023-12-28T15:17:55Z"
+                        "createDate": "2024-01-08T18:40:00Z"
                     },
                     {
                         "type": "guid",
                         "guid": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "d5ec13293c7b93e86f57982c4f33ea75",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "d5ec1329-3c7b-93e8-6f57-982c4f33ea75",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "02382072a5a324ff6bd1422a029bd33c",
-                        "createDate": "2023-12-28T15:17:55Z"
-                    },
-                    {
-                        "type": "guid",
-                        "guid": "02382072-a5a3-24ff-6bd1-422a029bd33c",
-                        "createDate": "2023-12-28T15:17:55Z"
+                        "createDate": "2024-01-08T18:40:00Z"
                     }
                 ],
-                "headline": "Clemson looking to end disappointing season on a high note against Kentucky in the Gator Bowl"
+                "headline": "Who has won the most college football championships?",
+                "byline": "Alex Kennedy",
+                "images": [
+                    {
+                        "name": "BCS Trophy 110105 [576x324]",
+                        "width": 576,
+                        "alt": "BCS Trophy",
+                        "id": 5992297,
+                        "credit": "Ben Liebenberg/US Presswire",
+                        "type": "header",
+                        "url": "https://a.espncdn.com/photo/2011/0105/ncf_u_bcstrophyj_576.jpg",
+                        "height": 324
+                    }
+                ],
+                "published": "2024-01-08T20:22:20Z",
+                "lastModified": "2024-01-08T20:22:10Z"
             }
         ]
     },
@@ -20714,8 +19535,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "11-2",
-                                    "displayValue": "11-2"
+                                    "summary": "11-3",
+                                    "displayValue": "11-3"
                                 },
                                 {
                                     "id": "9",
@@ -20876,8 +19697,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "9-3",
-                                    "displayValue": "9-3"
+                                    "summary": "10-3",
+                                    "displayValue": "10-3"
                                 },
                                 {
                                     "id": "9",
@@ -21477,8 +20298,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "13-0",
-                                    "displayValue": "13-0"
+                                    "summary": "13-1",
+                                    "displayValue": "13-1"
                                 },
                                 {
                                     "id": "9",
@@ -21585,8 +20406,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "9-3",
-                                    "displayValue": "9-3"
+                                    "summary": "9-4",
+                                    "displayValue": "9-4"
                                 },
                                 {
                                     "id": "9",
@@ -21747,8 +20568,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "8-4",
-                                    "displayValue": "8-4"
+                                    "summary": "9-4",
+                                    "displayValue": "9-4"
                                 },
                                 {
                                     "id": "9",
@@ -21909,8 +20730,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "7-5",
-                                    "displayValue": "7-5"
+                                    "summary": "7-6",
+                                    "displayValue": "7-6"
                                 },
                                 {
                                     "id": "9",
@@ -21963,8 +20784,8 @@
                                     "shortDisplayName": "OVER",
                                     "description": "Overall Record",
                                     "type": "total",
-                                    "summary": "6-6",
-                                    "displayValue": "6-6"
+                                    "summary": "7-6",
+                                    "displayValue": "7-6"
                                 },
                                 {
                                     "id": "9",

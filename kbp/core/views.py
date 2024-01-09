@@ -163,7 +163,7 @@ def update_score_records(old_scores, new_scores):
 def request_games(game_ids):
     data = []
     for id in game_ids:
-        # game_data = fake_request(id)1
+        # game_data = fake_request(id)
         game_data = request_live_score(id)
         game_data = format_game_data(id, game_data)
         if game_data is not None:
@@ -272,7 +272,9 @@ def compute_kbp_scores(picks, margins):
         })
     final_scores = final_scores.merge(live_scores, on='Name', how='left')
     final_scores['Rank'] = final_scores.Score.rank(method='min', ascending=False).astype(int)
-    final_scores['Live Total'] = final_scores['Score'] + final_scores['Live Score']
+    final_scores['Live Score'] = final_scores['Live Score'].apply(lambda x: int(0) if np.isnan(x) else int(x)).astype(int)
+    final_scores['Live Total'] = (final_scores['Score'] + final_scores['Live Score']).astype(int)
+    final_scores.to_csv('testings.csv', index=False)
     final_scores['Live Rank'] = final_scores['Live Total'].rank(method='min', ascending=False).astype(int)
 
     names = load_nicknames()
@@ -332,16 +334,20 @@ def write_json_to_file(data, id, directory="kbp/data"):
         json.dump(data, file, indent=4)
 
 def scoring_alg(value):
+    if value['Bowl'] == 'Natl Championship':
+        mult = 2
+    else:
+        mult = 1
     diff = value['Diff']
     margin = value['Margin']
 
     if margin == -1:
         return 0
     elif diff == 0:
-        return 10
+        return int(10 * mult)
     elif diff <= 3:
-        return 8
+        return int(8 * mult)
     elif diff <= 7:
-        return 6
+        return int(6 * mult)
     else:
-        return 5 
+        return int(5 * mult)
